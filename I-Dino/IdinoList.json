@@ -2470,5 +2470,29 @@
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Spinosaurus/S-Spino_Character_BP.S-Spino_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-206":
+	{
+		"dinostringref": "/SDinoVariants/S-Rex/S-Rex_Character_BP.S-Rex_Character_BP_C",
+		"dinonametag": "Rex",
+		"dinodescription": "S-Rex",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Rex/S-Rex_Character_BP.S-Rex_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-207":
+	{
+		"dinostringref": "/SDinoVariants/S-Cerato/S-Ceratosaurus_Character_BP_ASA.S-Ceratosaurus_Character_BP_ASA_C",
+		"dinonametag": "CeratosaurusAA",
+		"dinodescription": "S-Ceratosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Cerato/S-Ceratosaurus_Character_BP_ASA.S-Ceratosaurus_Character_BP_ASA_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	}
 }
