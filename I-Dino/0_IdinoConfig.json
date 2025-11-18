@@ -1553,9 +1553,9 @@
 			"spawnoffset": "0,0,100,",
 			"descriptname": "I-Dino Advance",
 			"description": "Erstelle deinen eigenen 330er-Wunschdino! Verteile 82 und 70 Punkte auf die Stats deiner Wahl!",
-			"statbase": "2,75,250,1,",
+			"statbase": "2,82,330,1,",
 			"reducepointschoosen": [
-				"1,15,"
+				"1,12,"
 			],
 			"allowgender": true
 		},
