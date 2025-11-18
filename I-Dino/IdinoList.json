@@ -2494,5 +2494,473 @@
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Cerato/S-Ceratosaurus_Character_BP_ASA.S-Ceratosaurus_Character_BP_ASA_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-208":
+	{
+		"dinostringref": "/SDinoVariants/S-Allosaurus/S-Allo_Character_BP.S-Allo_Character_BP_C",
+		"dinonametag": "Allo",
+		"dinodescription": "S-Allosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Allosaurus/S-Allo_Character_BP.S-Allo_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-209":
+	{
+		"dinostringref": "/SDinoVariants/S-Ankylosaurus/S-Ankylo_Character_BP.S-Ankylo_Character_BP_C",
+		"dinonametag": "Anky",
+		"dinodescription": "S-Ankylosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Ankylosaurus/S-Ankylo_Character_BP.S-Ankylo_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-210":
+	{
+		"dinostringref": "/SDinoVariants/S-Basilosaurus/S-Basilosaurus_Character_BP.S-Basilosaurus_Character_BP_C",
+		"dinonametag": "Basilosaurus",
+		"dinodescription": "S-Basilosaurus",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Basilosaurus/S-Basilosaurus_Character_BP.S-Basilosaurus_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-211":
+	{
+		"dinostringref": "/SDinoVariants/S-Carcha/S-Carcha_Character_BP.S-Carcha_Character_BP_C",
+		"dinonametag": "Carcha",
+		"dinodescription": "S-Carcharodontosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Carcha/S-Carcha_Character_BP.S-Carcha_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-212":
+	{
+		"dinostringref": "/SDinoVariants/S-Cat/S-Cat_Character_BP.S-Cat_Character_BP_C",
+		"dinonametag": "Cat",
+		"dinodescription": "S-Cat",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Cat/S-Cat_Character_BP.S-Cat_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-213":
+	{
+		"dinostringref": "/SDinoVariants/S-Daeodon/S-Daeodon_Character_BP.S-Daeodon_Character_BP_C",
+		"dinonametag": "Daeodon",
+		"dinodescription": "S-Daeodon",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Daeodon/S-Daeodon_Character_BP.S-Daeodon_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-214":
+	{
+		"dinostringref": "/SDinoVariants/S-Deinonychus/S-Deinonychus_Character_BP.S-Deinonychus_Character_BP_C",
+		"dinonametag": "Deinonychus",
+		"dinodescription": "S-Deinonychus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Deinonychus/S-Deinonychus_Character_BP.S-Deinonychus_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-215":
+	{
+		"dinostringref": "/SDinoVariants/S-Deinosuchus/S-DeinosuchusASA_Character_BP.S-DeinosuchusASA_Character_BP_C",
+		"dinonametag": "DeinosuchusAA",
+		"dinodescription": "S-Deinosuchus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Deinosuchus/S-DeinosuchusASA_Character_BP.S-DeinosuchusASA_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-216":
+	{
+		"dinostringref": "/SDinoVariants/S-Direbear/S-Direbear_Character_BP.S-Direbear_Character_BP_C",
+		"dinonametag": "Direbear",
+		"dinodescription": "S-Dire Bear",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Direbear/S-Direbear_Character_BP.S-Direbear_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-217":
+	{
+		"dinostringref": "/SDinoVariants/S-Doedicurus/S-Doed_Character_BP.S-Doed_Character_BP_C",
+		"dinonametag": "Doed",
+		"dinodescription": "S-Doedicurus",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Doedicurus/S-Doed_Character_BP.S-Doed_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-218":
+	{
+		"dinostringref": "/SDinoVariants/S-Unicorn/S-Equus_Character_BP_Unicorn.S-Equus_Character_BP_Unicorn_C",
+		"dinonametag": "Equus",
+		"dinodescription": "S-Unicorn",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Unicorn/S-Equus_Character_BP_Unicorn.S-Equus_Character_BP_Unicorn_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-219":
+	{
+		"dinostringref": "/SDinoVariants/S-Fasolasuchus/S-Fasola_Character_BP.S-Fasola_Character_BP_C",
+		"dinonametag": "Fasola",
+		"dinodescription": "S-Fasolasuchus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Fasolasuchus/S-Fasola_Character_BP.S-Fasola_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-220":
+	{
+		"dinostringref": "/SDinoVariants/S-Fenrir/S-Fenrir_Character_BP.S-Fenrir_Character_BP_C",
+		"dinonametag": "Fenrir Wolf",
+		"dinodescription": "S-Fenrir",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Fenrir/S-Fenrir_Character_BP.S-Fenrir_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-221":
+	{
+		"dinostringref": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Fire.S-Wyvern_Character_BP_Fire_C",
+		"dinonametag": "Wyvern",
+		"dinodescription": "S-Fire Wyvern",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Fire.S-Wyvern_Character_BP_Fire_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-222":
+	{
+		"dinostringref": "/SDinoVariants/S-Griffin/S-Griffin_Character_BP.S-Griffin_Character_BP_C",
+		"dinonametag": "Griffin",
+		"dinodescription": "S-Griffin",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Griffin/S-Griffin_Character_BP.S-Griffin_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-223":
+	{
+		"dinostringref": "/SDinoVariants/S-IceWyvern/S-Wyvern_Character_BP_Ice.S-Wyvern_Character_BP_Ice_C",
+		"dinonametag": "Wyvern",
+		"dinodescription": "S-Ice Wyvern",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-IceWyvern/S-Wyvern_Character_BP_Ice.S-Wyvern_Character_BP_Ice_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-224":
+	{
+		"dinostringref": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Lightning.S-Wyvern_Character_BP_Lightning_C",
+		"dinonametag": "Wyvern",
+		"dinodescription": "S-Lightning Wyvern",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Lightning.S-Wyvern_Character_BP_Lightning_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-225":
+	{
+		"dinostringref": "/SDinoVariants/S-Maeguana/S-Maelizard_Character_BP.S-Maelizard_Character_BP_C",
+		"dinonametag": "Maelizard",
+		"dinodescription": "S-Maeguana",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Maeguana/S-Maelizard_Character_BP.S-Maelizard_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-226":
+	{
+		"dinostringref": "/SDinoVariants/S-Maewing/S-MilkGlider_Character_BP.S-MilkGlider_Character_BP_C",
+		"dinonametag": "Maewing",
+		"dinodescription": "S-Maewing",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Maewing/S-MilkGlider_Character_BP.S-MilkGlider_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-227":
+	{
+		"dinostringref": "/SDinoVariants/S-Mantis/S-Mantis_Character_BP.S-Mantis_Character_BP_C",
+		"dinonametag": "Mantis",
+		"dinodescription": "S-Mantis",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Mantis/S-Mantis_Character_BP.S-Mantis_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-228":
+	{
+		"dinostringref": "/SDinoVariants/S-Megalosaurus/S-Megalosaurus_Character_BP.S-Megalosaurus_Character_BP_C",
+		"dinonametag": "Megalosaurus",
+		"dinodescription": "S-Megalosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Megalosaurus/S-Megalosaurus_Character_BP.S-Megalosaurus_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-229":
+	{
+		"dinostringref": "/SDinoVariants/S-Mosa/S-Mosa_Character_BP.S-Mosa_Character_BP_C",
+		"dinonametag": "Mosasaur",
+		"dinodescription": "S-Mosasaurus",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Mosa/S-Mosa_Character_BP.S-Mosa_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-230":
+	{
+		"dinostringref": "/SDinoVariants/S-Otter/S-Otter_Character_BP.S-Otter_Character_BP_C",
+		"dinonametag": "Otter",
+		"dinodescription": "S-Otter",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Otter/S-Otter_Character_BP.S-Otter_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-231":
+	{
+		"dinostringref": "/SDinoVariants/S-Plesiosaur/S-Plesiosaur_Character_BP.S-Plesiosaur_Character_BP_C",
+		"dinonametag": "Plesiosaur",
+		"dinodescription": "S-Plesiosaur",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Plesiosaur/S-Plesiosaur_Character_BP.S-Plesiosaur_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-232":
+	{
+		"dinostringref": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Poison.S-Wyvern_Character_BP_Poison_C",
+		"dinonametag": "Wyvern",
+		"dinodescription": "S-Poison Wyvern",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Poison.S-Wyvern_Character_BP_Poison_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-233":
+	{
+		"dinostringref": "/SDinoVariants/S-Reaper/S-Xenomorph_Character_BP_Male_Tamed.S-Xenomorph_Character_BP_Male_Tamed_C",
+		"dinonametag": "Xenomorph",
+		"dinodescription": "S-Reaper King",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Reaper/S-Xenomorph_Character_BP_Male_Tamed.S-Xenomorph_Character_BP_Male_Tamed_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-234":
+	{
+		"dinostringref": "/SDinoVariants/S-Rex/S-Rex_Character_BP.S-Rex_Character_BP_C",
+		"dinonametag": "Rex",
+		"dinodescription": "S-Rex",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Rex/S-Rex_Character_BP.S-Rex_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-235":
+	{
+		"dinostringref": "/SDinoVariants/S-Rockdrake/S-RockDrake_Character_BP.S-RockDrake_Character_BP_C",
+		"dinonametag": "RockDrake",
+		"dinodescription": "S-Rock Drake",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Rockdrake/S-RockDrake_Character_BP.S-RockDrake_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-236":
+	{
+		"dinostringref": "/SDinoVariants/S-Shinehorn/S-LanternGoat_Character_BP.S-LanternGoat_Character_BP_C",
+		"dinonametag": "Lantern Goat",
+		"dinodescription": "S-Shinehorn",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Shinehorn/S-LanternGoat_Character_BP.S-LanternGoat_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-237":
+	{
+		"dinostringref": "/SDinoVariants/S-SnowOwl/S-Owl_Character_BP.S-Owl_Character_BP_C",
+		"dinonametag": "Owl",
+		"dinodescription": "S-Snow Owl",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-SnowOwl/S-Owl_Character_BP.S-Owl_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-238":
+	{
+		"dinostringref": "/SDinoVariants/S-Spinosaurus/S-Spino_Character_BP.S-Spino_Character_BP_C",
+		"dinonametag": "Spino",
+		"dinodescription": "S-Spino",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Spinosaurus/S-Spino_Character_BP.S-Spino_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-239":
+	{
+		"dinostringref": "/SDinoVariants/S-Therizinosaur/S-Therizino_Character_BP.S-Therizino_Character_BP_C",
+		"dinonametag": "Therizinosaurus",
+		"dinodescription": "S-Therizinosaur",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Therizinosaur/S-Therizino_Character_BP.S-Therizino_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-240":
+	{
+		"dinostringref": "/SDinoVariants/S-Thylacoleo/S-Thylacoleo_Character_BP.S-Thylacoleo_Character_BP_C",
+		"dinonametag": "Thylacoleo",
+		"dinodescription": "S-Thylacoleo",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Thylacoleo/S-Thylacoleo_Character_BP.S-Thylacoleo_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-241":
+	{
+		"dinostringref": "/SDinoVariants/S-Trike/S-Trike_Character_BP.S-Trike_Character_BP_C",
+		"dinonametag": "Trike",
+		"dinodescription": "S-Triceratops",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Trike/S-Trike_Character_BP.S-Trike_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-242":
+	{
+		"dinostringref": "/SDinoVariants/S-Velonasaur/S-Spindles_Character_BP.S-Spindles_Character_BP_C",
+		"dinonametag": "Velonasaur",
+		"dinodescription": "S-Velonasaur",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Velonasaur/S-Spindles_Character_BP.S-Spindles_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-243":
+	{
+		"dinostringref": "/SDinoVariants/S-Megaraptor/S-Megaraptor_Character_BP.S-Megaraptor_Character_BP_C",
+		"dinonametag": "Megaraptor",
+		"dinodescription": "S-Megaraptor",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Megaraptor/S-Megaraptor_Character_BP.S-Megaraptor_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-244":
+	{
+		"dinostringref": "/SDinoVariants/S-Desmodus/S-Desmodus_Character_BP.S-Desmodus_Character_BP_C",
+		"dinonametag": "Desmodus",
+		"dinodescription": "S-Desmodus",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Desmodus/S-Desmodus_Character_BP.S-Desmodus_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-245":
+	{
+		"dinostringref": "/SDinoVariants/S-Andrewsarchus/S-Andrewsarchus_Character_BP.S-Andrewsarchus_Character_BP_C",
+		"dinonametag": "Andrewsarchus",
+		"dinodescription": "S-Andrewsarchus",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Andrewsarchus/S-Andrewsarchus_Character_BP.S-Andrewsarchus_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-246":
+	{
+		"dinostringref": "/SDinoVariants/S-Direwolf/S-Direwolf_Character_BP.S-Direwolf_Character_BP_C",
+		"dinonametag": "Direwolf",
+		"dinodescription": "S-Direwolf",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Direwolf/S-Direwolf_Character_BP.S-Direwolf_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	}
 }
