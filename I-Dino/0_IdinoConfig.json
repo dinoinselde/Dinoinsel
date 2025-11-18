@@ -6,8 +6,8 @@
 			"tag": "Idino_Normal",
 			"spawnoffset": "0,0,100,",
 			"descriptname": "I-Dino Normal",
-			"description": "",
-			"statbase": "0,65,180,1,",
+			"description": "Erstelle deinen eigenen 270er-Wunschdino! Verteile 65 Punkte auf den Stat deiner Wahl!",
+			"statbase": "1,65,270,1,",
 			"reducepointschoosen": [],
 			"allowgender": true
 		},
@@ -1530,6 +1530,21 @@
 			"bitmaskbool": 8
 		}
 	},
+	"Pdx-3":
+	{
+		"GS-3":
+		{
+			"tag": "Idino_Event",
+			"spawnoffset": "0,0,100,",
+			"descriptname": "I-Dino Event",
+			"description": "Herzlichen Glückwunsch! Du darfst dir ein Event-Dino ganz nach deinen Wünschen erstellen!",
+			"statbase": "2,75,250,1,",
+			"reducepointschoosen": [
+				"1,15,"
+			],
+			"allowgender": true
+		}
+	},
 	"Pdx-1":
 	{
 		"GS-1":
@@ -1537,7 +1552,7 @@
 			"tag": "Idino_Advance",
 			"spawnoffset": "0,0,100,",
 			"descriptname": "I-Dino Advance",
-			"description": "",
+			"description": "Erstelle deinen eigenen 330er-Wunschdino! Verteile 82 und 70 Punkte auf die Stats deiner Wahl!",
 			"statbase": "2,75,250,1,",
 			"reducepointschoosen": [
 				"1,15,"
@@ -3004,8 +3019,8 @@
 			"tag": "Idino_Wild",
 			"spawnoffset": "0,0,100,",
 			"descriptname": "I-Dino Wild",
-			"description": "",
-			"statbase": "0,75,180,",
+			"description": "Spawne einen 180er-Dino deiner Wahl  egal ob zum Leveln, Zähmen oder als Ei zum Ausbrüten!",
+			"statbase": "0,75,180,1,",
 			"reducepointschoosen": [
 				"1,15,"
 			],
@@ -4704,21 +4719,6 @@
 			"statbase": "",
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
-		}
-	},
-	"Pdx-3":
-	{
-		"GS-3":
-		{
-			"tag": "Idino_Event",
-			"spawnoffset": "0,0,100,",
-			"descriptname": "I-Dino Event",
-			"description": "",
-			"statbase": "2,75,250,1,",
-			"reducepointschoosen": [
-				"1,15,"
-			],
-			"allowgender": true
 		}
 	}
 }
