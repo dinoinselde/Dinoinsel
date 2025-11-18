@@ -1619,7 +1619,7 @@
 		},
 		"DS-146":
 		{
-			"dinoindex": 205,
+			"dinoindex": 238,
 			"dinoname": "S-Spino",
 			"forpillartag": "Idino_Normal",
 			"allowgendar": false,
@@ -1630,17 +1630,6 @@
 		},
 		"DS-147":
 		{
-			"dinoindex": 238,
-			"dinoname": "S-Spino",
-			"forpillartag": "Idino_Normal",
-			"allowgendar": false,
-			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
-			"statbase": "",
-			"reducepointschoosen": [],
-			"bitmaskbool": 8
-		},
-		"DS-148":
-		{
 			"dinoindex": 239,
 			"dinoname": "S-Therizinosaur",
 			"forpillartag": "Idino_Normal",
@@ -1650,7 +1639,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-149":
+		"DS-148":
 		{
 			"dinoindex": 240,
 			"dinoname": "S-Thylacoleo",
@@ -1661,7 +1650,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-150":
+		"DS-149":
 		{
 			"dinoindex": 241,
 			"dinoname": "S-Triceratops",
@@ -1672,7 +1661,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-151":
+		"DS-150":
 		{
 			"dinoindex": 218,
 			"dinoname": "S-Unicorn",
@@ -1683,7 +1672,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-152":
+		"DS-151":
 		{
 			"dinoindex": 51,
 			"dinoname": "Sabertooth",
@@ -1694,7 +1683,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-153":
+		"DS-152":
 		{
 			"dinoindex": 49,
 			"dinoname": "Sarco",
@@ -1705,7 +1694,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-154":
+		"DS-153":
 		{
 			"dinoindex": 0,
 			"dinoname": "Shastasaurus",
@@ -1716,7 +1705,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-155":
+		"DS-154":
 		{
 			"dinoindex": 183,
 			"dinoname": "Shinehorn",
@@ -1727,7 +1716,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-156":
+		"DS-155":
 		{
 			"dinoindex": 156,
 			"dinoname": "Snow Owl",
@@ -1738,7 +1727,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-157":
+		"DS-156":
 		{
 			"dinoindex": 42,
 			"dinoname": "Spino",
@@ -1749,7 +1738,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-158":
+		"DS-157":
 		{
 			"dinoindex": 38,
 			"dinoname": "Stegosaurus",
@@ -1760,7 +1749,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-159":
+		"DS-158":
 		{
 			"dinoindex": 37,
 			"dinoname": "Tapejara",
@@ -1771,7 +1760,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-160":
+		"DS-159":
 		{
 			"dinoindex": 31,
 			"dinoname": "Tek Triceratops",
@@ -1782,7 +1771,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-161":
+		"DS-160":
 		{
 			"dinoindex": 40,
 			"dinoname": "Tek Stegosaurus",
@@ -1793,7 +1782,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-162":
+		"DS-161":
 		{
 			"dinoindex": 55,
 			"dinoname": "Tek Rex",
@@ -1804,7 +1793,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-163":
+		"DS-162":
 		{
 			"dinoindex": 59,
 			"dinoname": "Tek Raptor",
@@ -1815,7 +1804,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-164":
+		"DS-163":
 		{
 			"dinoindex": 62,
 			"dinoname": "Tek Quetzal",
@@ -1826,7 +1815,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-165":
+		"DS-164":
 		{
 			"dinoindex": 74,
 			"dinoname": "Tek Parasaur",
@@ -1837,7 +1826,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-166":
+		"DS-165":
 		{
 			"dinoindex": 106,
 			"dinoname": "Tek Giganotosaurus",
@@ -1848,7 +1837,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-167":
+		"DS-166":
 		{
 			"dinoindex": 36,
 			"dinoname": "Terror Bird",
@@ -1859,7 +1848,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-168":
+		"DS-167":
 		{
 			"dinoindex": 35,
 			"dinoname": "Therizinosaur",
@@ -1870,7 +1859,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-169":
+		"DS-168":
 		{
 			"dinoindex": 6,
 			"dinoname": "Thorny Dragon",
@@ -1881,7 +1870,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-170":
+		"DS-169":
 		{
 			"dinoindex": 34,
 			"dinoname": "Thylacoleo",
@@ -1892,7 +1881,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-171":
+		"DS-170":
 		{
 			"dinoindex": 137,
 			"dinoname": "Titanoboa",
@@ -1903,7 +1892,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-172":
+		"DS-171":
 		{
 			"dinoindex": 29,
 			"dinoname": "Triceratops",
@@ -1914,7 +1903,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-173":
+		"DS-172":
 		{
 			"dinoindex": 28,
 			"dinoname": "Troodon",
@@ -1925,7 +1914,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-174":
+		"DS-173":
 		{
 			"dinoindex": 27,
 			"dinoname": "Tropeognathus",
@@ -1936,7 +1925,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-175":
+		"DS-174":
 		{
 			"dinoindex": 24,
 			"dinoname": "Tusoteuthis",
@@ -1947,7 +1936,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-176":
+		"DS-175":
 		{
 			"dinoindex": 154,
 			"dinoname": "Velonasaur",
@@ -1958,7 +1947,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-177":
+		"DS-176":
 		{
 			"dinoindex": 23,
 			"dinoname": "Woolly Rhino",
@@ -1969,7 +1958,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-178":
+		"DS-177":
 		{
 			"dinoindex": 170,
 			"dinoname": "Yi Ling",
@@ -1980,7 +1969,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-179":
+		"DS-178":
 		{
 			"dinoindex": 22,
 			"dinoname": "Yutyrannus",
@@ -1991,7 +1980,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-180":
+		"DS-179":
 		{
 			"dinoindex": 242,
 			"dinoname": "S-Velonasaur",
