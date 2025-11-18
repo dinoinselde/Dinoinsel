@@ -1530,21 +1530,6 @@
 			"bitmaskbool": 8
 		}
 	},
-	"Pdx-3":
-	{
-		"GS-3":
-		{
-			"tag": "Idino_Event",
-			"spawnoffset": "0,0,100,",
-			"descriptname": "I-Dino Event",
-			"description": "Herzlichen Glückwunsch! Du darfst dir ein Event-Dino ganz nach deinen Wünschen erstellen!",
-			"statbase": "2,75,250,1,",
-			"reducepointschoosen": [
-				"1,15,"
-			],
-			"allowgender": true
-		}
-	},
 	"Pdx-1":
 	{
 		"GS-1":
@@ -4719,6 +4704,21 @@
 			"statbase": "",
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
+		}
+	},
+	"Pdx-3":
+	{
+		"GS-3":
+		{
+			"tag": "Idino_Event",
+			"spawnoffset": "0,0,100,",
+			"descriptname": "I-Dino Event",
+			"description": "Herzlichen Glückwunsch! Du darfst dir ein Event-Dino ganz nach deinen Wünschen erstellen!",
+			"statbase": "2,75,250,1,",
+			"reducepointschoosen": [
+				"1,15,"
+			],
+			"allowgender": true
 		}
 	}
 }
