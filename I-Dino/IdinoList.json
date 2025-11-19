@@ -404,7 +404,7 @@
 		"tameable": true,
 		"isalpha": false,
 		"isboss": false,
-		"softdinoclass": "/Game/PrimalEarth/Dinos/titanosaur/Titanosaur_Character_BP.Titanosaur_Character_BP_C",
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Titanosaur/Titanosaur_Character_BP.Titanosaur_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	},
 	"BD-34":
