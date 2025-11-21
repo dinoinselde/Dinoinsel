@@ -3202,5 +3202,17 @@
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/Xiphactinus/Dinos/Xiphactinus_Character_BP_ASA.Xiphactinus_Character_BP_ASA_C",
 		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-267":
+	{
+		"dinostringref": "/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP_C",
+		"dinonametag": "Bison",
+		"dinodescription": "Bison",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	}
 }
