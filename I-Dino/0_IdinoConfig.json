@@ -1,85 +1,4 @@
 {
-	"Pdx-3":
-	{
-		"GS-3":
-		{
-			"tag": "Idino_Event",
-			"spawnoffset": "0,0,100,",
-			"descriptname": "I-Dino Event",
-			"description": "Herzlichen Glckwunsch! Du darfst dir ein Event-Dino ganz nach deinen Wnschen erstellen!",
-			"statbase": "2,82,330,1,",
-			"reducepointschoosen": [
-				"1,12,"
-			],
-			"allowgender": true
-		},
-		"DS-0":
-		{
-			"dinoindex": 251,
-			"dinoname": "Aberrant Drakara",
-			"forpillartag": "Idino_Event",
-			"allowgendar": false,
-			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
-			"statbase": "",
-			"reducepointschoosen": [],
-			"bitmaskbool": 8
-		},
-		"DS-1":
-		{
-			"dinoindex": 249,
-			"dinoname": "Arctic Drakara",
-			"forpillartag": "Idino_Event",
-			"allowgendar": false,
-			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
-			"statbase": "",
-			"reducepointschoosen": [],
-			"bitmaskbool": 8
-		},
-		"DS-2":
-		{
-			"dinoindex": 220,
-			"dinoname": "S-Fenrir",
-			"forpillartag": "Idino_Event",
-			"allowgendar": false,
-			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
-			"statbase": "",
-			"reducepointschoosen": [],
-			"bitmaskbool": 8
-		},
-		"DS-3":
-		{
-			"dinoindex": 253,
-			"dinoname": "Zombie Poison Wyvern",
-			"forpillartag": "Idino_Event",
-			"allowgendar": false,
-			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
-			"statbase": "",
-			"reducepointschoosen": [],
-			"bitmaskbool": 8
-		},
-		"DS-4":
-		{
-			"dinoindex": 254,
-			"dinoname": "Zombie Lightning Wyvern",
-			"forpillartag": "Idino_Event",
-			"allowgendar": false,
-			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
-			"statbase": "",
-			"reducepointschoosen": [],
-			"bitmaskbool": 8
-		},
-		"DS-5":
-		{
-			"dinoindex": 255,
-			"dinoname": "Zombie Fire Wyvern",
-			"forpillartag": "Idino_Event",
-			"allowgendar": false,
-			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
-			"statbase": "",
-			"reducepointschoosen": [],
-			"bitmaskbool": 8
-		}
-	},
 	"Pdx-0":
 	{
 		"GS-0":
@@ -4383,7 +4302,7 @@
 			"tag": "Idino_Wild",
 			"spawnoffset": "0,0,100,",
 			"descriptname": "I-Dino Wild",
-			"description": "Spawne einen 180er-Dino deiner Wahl \u0013 egal ob zum Leveln, Zhmen oder als Ei zum Ausbrten!",
+			"description": "Spawne einen 180er-Dino deiner Wahl \u0013egal ob zum Leveln, Zaehmen oder als Ei zum Ausbrueten!",
 			"statbase": "0,75,180,1,",
 			"reducepointschoosen": [
 				"1,15,"
@@ -6628,6 +6547,87 @@
 			"dinoindex": 267,
 			"dinoname": "Bison",
 			"forpillartag": "Idino_Wild",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		}
+	},
+	"Pdx-3":
+	{
+		"GS-3":
+		{
+			"tag": "Idino_Event",
+			"spawnoffset": "0,0,100,",
+			"descriptname": "I-Dino Event",
+			"description": "Herzlichen Glueckwunsch! Du darfst dir ein Event-Dino ganz nach deinen Wuenschen erstellen!",
+			"statbase": "2,82,330,1,",
+			"reducepointschoosen": [
+				"1,12,"
+			],
+			"allowgender": true
+		},
+		"DS-0":
+		{
+			"dinoindex": 251,
+			"dinoname": "Aberrant Drakara",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-1":
+		{
+			"dinoindex": 249,
+			"dinoname": "Arctic Drakara",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-2":
+		{
+			"dinoindex": 220,
+			"dinoname": "S-Fenrir",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-3":
+		{
+			"dinoindex": 253,
+			"dinoname": "Zombie Poison Wyvern",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-4":
+		{
+			"dinoindex": 254,
+			"dinoname": "Zombie Lightning Wyvern",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-5":
+		{
+			"dinoindex": 255,
+			"dinoname": "Zombie Fire Wyvern",
+			"forpillartag": "Idino_Event",
 			"allowgendar": false,
 			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
 			"statbase": "",
