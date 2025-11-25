@@ -3214,5 +3214,17 @@
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-268":
+	{
+		"dinostringref": "/SDinoVariants/S-Reaper/S-Xenomorph_Character_BP_Female.S-Xenomorph_Character_BP_Female_C",
+		"dinonametag": "Xenomorph",
+		"dinodescription": "S-Reaper Queen",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Reaper/S-Xenomorph_Character_BP_Female.S-Xenomorph_Character_BP_Female_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	}
 }
