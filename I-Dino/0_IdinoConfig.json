@@ -2070,6 +2070,17 @@
 		},
 		"DS-187":
 		{
+			"dinoindex": 269,
+			"dinoname": "Veilwyn",
+			"forpillartag": "Idino_Normal",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-188":
+		{
 			"dinoindex": 154,
 			"dinoname": "Velonasaur",
 			"forpillartag": "Idino_Normal",
@@ -2079,7 +2090,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-188":
+		"DS-189":
 		{
 			"dinoindex": 257,
 			"dinoname": "Winterdrachenling",
@@ -2090,7 +2101,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-189":
+		"DS-190":
 		{
 			"dinoindex": 23,
 			"dinoname": "Woolly Rhino",
@@ -2101,7 +2112,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-190":
+		"DS-191":
 		{
 			"dinoindex": 266,
 			"dinoname": "Xiphactinus",
@@ -2112,7 +2123,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-191":
+		"DS-192":
 		{
 			"dinoindex": 170,
 			"dinoname": "Yi Ling",
@@ -2123,7 +2134,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-192":
+		"DS-193":
 		{
 			"dinoindex": 22,
 			"dinoname": "Yutyrannus",
@@ -2134,7 +2145,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-193":
+		"DS-194":
 		{
 			"dinoindex": 253,
 			"dinoname": "Zombie Poison Wyvern",
@@ -2145,7 +2156,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-194":
+		"DS-195":
 		{
 			"dinoindex": 254,
 			"dinoname": "Zombie Lightning Wyvern",
@@ -2156,7 +2167,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-195":
+		"DS-196":
 		{
 			"dinoindex": 255,
 			"dinoname": "Zombie Fire Wyvern",
@@ -2167,10 +2178,10 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-196":
+		"DS-197":
 		{
-			"dinoindex": 269,
-			"dinoname": "Veilwyn",
+			"dinoindex": 270,
+			"dinoname": "Brachiosaurus",
 			"forpillartag": "Idino_Normal",
 			"allowgendar": false,
 			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
@@ -4219,6 +4230,17 @@
 		},
 		"DS-184":
 		{
+			"dinoindex": 269,
+			"dinoname": "Veilwyn",
+			"forpillartag": "Idino_Advance",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-185":
+		{
 			"dinoindex": 154,
 			"dinoname": "Velonasaur",
 			"forpillartag": "Idino_Advance",
@@ -4228,7 +4250,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-185":
+		"DS-186":
 		{
 			"dinoindex": 257,
 			"dinoname": "Winterdrachenling",
@@ -4239,7 +4261,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-186":
+		"DS-187":
 		{
 			"dinoindex": 266,
 			"dinoname": "Xiphactinus",
@@ -4250,7 +4272,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-187":
+		"DS-188":
 		{
 			"dinoindex": 170,
 			"dinoname": "Yi Ling",
@@ -4261,7 +4283,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-188":
+		"DS-189":
 		{
 			"dinoindex": 22,
 			"dinoname": "Yutyrannus",
@@ -4272,7 +4294,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-189":
+		"DS-190":
 		{
 			"dinoindex": 253,
 			"dinoname": "Zombie Poison Wyvern",
@@ -4283,7 +4305,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-190":
+		"DS-191":
 		{
 			"dinoindex": 254,
 			"dinoname": "Zombie Lightning Wyvern",
@@ -4294,7 +4316,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-191":
+		"DS-192":
 		{
 			"dinoindex": 255,
 			"dinoname": "Zombie Fire Wyvern",
@@ -4305,10 +4327,10 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-192":
+		"DS-193":
 		{
-			"dinoindex": 269,
-			"dinoname": "Veilwyn",
+			"dinoindex": 270,
+			"dinoname": "Brachiosaurus",
 			"forpillartag": "Idino_Advance",
 			"allowgendar": false,
 			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
@@ -6542,6 +6564,17 @@
 		},
 		"DS-199":
 		{
+			"dinoindex": 269,
+			"dinoname": "Veilwyn",
+			"forpillartag": "Idino_Wild",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-200":
+		{
 			"dinoindex": 154,
 			"dinoname": "Velonasaur",
 			"forpillartag": "Idino_Wild",
@@ -6551,7 +6584,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-200":
+		"DS-201":
 		{
 			"dinoindex": 257,
 			"dinoname": "Winterdrachenling",
@@ -6562,7 +6595,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-201":
+		"DS-202":
 		{
 			"dinoindex": 23,
 			"dinoname": "Woolly Rhino",
@@ -6573,7 +6606,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-202":
+		"DS-203":
 		{
 			"dinoindex": 266,
 			"dinoname": "Xiphactinus",
@@ -6584,7 +6617,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-203":
+		"DS-204":
 		{
 			"dinoindex": 170,
 			"dinoname": "Yi Ling",
@@ -6595,7 +6628,7 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-204":
+		"DS-205":
 		{
 			"dinoindex": 22,
 			"dinoname": "Yutyrannus",
@@ -6606,10 +6639,10 @@
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
 		},
-		"DS-205":
+		"DS-206":
 		{
-			"dinoindex": 269,
-			"dinoname": "Veilwyn",
+			"dinoindex": 270,
+			"dinoname": "Brachiosaurus",
 			"forpillartag": "Idino_Wild",
 			"allowgendar": false,
 			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
