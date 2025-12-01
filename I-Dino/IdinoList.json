@@ -3238,5 +3238,17 @@
 		"isboss": false,
 		"softdinoclass": "/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-270":
+	{
+		"dinostringref": "/AABrachiosaurus/Dinos/BrachiosaurusAA_Character_BP.BrachiosaurusAA_Character_BP_C",
+		"dinonametag": "BrachiosaurusAA",
+		"dinodescription": "Brachiosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/AABrachiosaurus/Dinos/BrachiosaurusAA_Character_BP.BrachiosaurusAA_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	}
 }
