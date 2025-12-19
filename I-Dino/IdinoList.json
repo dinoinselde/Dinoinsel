@@ -3274,5 +3274,65 @@
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/Cryolophosaurus/Cryolophosaurus_Character_BP.Cryolophosaurus_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-273":
+	{
+		"dinostringref": "/Game/LostColony/Dinos/AngelFox/AngelFox_Character_BP.AngelFox_Character_BP_C",
+		"dinonametag": "AngelFox",
+		"dinodescription": "Solwyn",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/LostColony/Dinos/AngelFox/AngelFox_Character_BP.AngelFox_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-274":
+	{
+		"dinostringref": "/Game/LostColony/Dinos/DevilFox/DevilFox_Character_BP.DevilFox_Character_BP_C",
+		"dinonametag": "DevilFox",
+		"dinodescription": "Malwyn",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/LostColony/Dinos/DevilFox/DevilFox_Character_BP.DevilFox_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-275":
+	{
+		"dinostringref": "/Game/LostColony/Dinos/SnowDragon/SnowDragon_Character_BP.SnowDragon_Character_BP_C",
+		"dinonametag": "SnowDragon",
+		"dinodescription": "Aureliax",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/LostColony/Dinos/SnowDragon/SnowDragon_Character_BP.SnowDragon_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-276":
+	{
+		"dinostringref": "/Game/LostColony/Dinos/LostChargePet/LostCharge_LanternPet_Char_BP.LostCharge_LanternPet_Char_BP_C",
+		"dinonametag": "LostChargePet",
+		"dinodescription": "Gloon",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/LostColony/Dinos/LostChargePet/LostCharge_LanternPet_Char_BP.LostCharge_LanternPet_Char_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-277":
+	{
+		"dinostringref": "/Game/LostColony/Dinos/BossBat/BossBat_Character_BP.BossBat_Character_BP_C",
+		"dinonametag": "BossBat",
+		"dinodescription": "Gigadesmodus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/LostColony/Dinos/BossBat/BossBat_Character_BP.BossBat_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	}
 }
