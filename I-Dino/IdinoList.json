@@ -3334,5 +3334,41 @@
 		"isboss": false,
 		"softdinoclass": "/Game/LostColony/Dinos/BossBat/BossBat_Character_BP.BossBat_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-278":
+	{
+		"dinostringref": "/AstraeosCreatures/Minotaur/Minotaur_Character_BP.Minotaur_Character_BP_C",
+		"dinonametag": "Minotaur",
+		"dinodescription": "Minotaur",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/AstraeosCreatures/Minotaur/Minotaur_Character_BP.Minotaur_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-279":
+	{
+		"dinostringref": "/AstraeosCreatures/Seahorse/Seahorse_Character_BP.Seahorse_Character_BP_C",
+		"dinonametag": "Seahorse",
+		"dinodescription": "Seahorse",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/AstraeosCreatures/Seahorse/Seahorse_Character_BP.Seahorse_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-280":
+	{
+		"dinostringref": "/AstraeosCreatures/Cyclops/Cyclops_Character_BP.Cyclops_Character_BP_C",
+		"dinonametag": "Cyclops",
+		"dinodescription": "Cyclops",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/AstraeosCreatures/Cyclops/Cyclops_Character_BP.Cyclops_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	}
 }
