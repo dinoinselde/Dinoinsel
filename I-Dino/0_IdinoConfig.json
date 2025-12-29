@@ -1,43 +1,4 @@
 {
-	"Pdx-3":
-	{
-		"GS-3":
-		{
-			"tag": "Idino_Event",
-			"spawnoffset": "0,0,100,",
-			"descriptname": "I-Dino Event",
-			"description": "Herzlichen Glueckwunsch! Du darfst dir ein Event-Dino ganz nach deinen Wuenschen erstellen!",
-			"statbase": "2,82,330,1,",
-			"reducepointschoosen": [
-				"1,12,"
-			],
-			"allowgender": true
-		},
-		"DS-0":
-		{
-			"dinoindex": 136,
-			"dinoname": "Carcharodontosaurus",
-			"forpillartag": "Idino_Event",
-			"allowgendar": true,
-			"allowablestats": "((0, 45),(1, 45),(3, 42),(4, 45),(7, 45),(8, 45))",
-			"statbase": "2,100,360,1,",
-			"reducepointschoosen": [
-				"1,18,"
-			],
-			"bitmaskbool": 0
-		},
-		"DS-1":
-		{
-			"dinoindex": 211,
-			"dinoname": "S-Carcharodontosaurus",
-			"forpillartag": "Idino_Event",
-			"allowgendar": false,
-			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
-			"statbase": "",
-			"reducepointschoosen": [],
-			"bitmaskbool": 8
-		}
-	},
 	"Pdx-0":
 	{
 		"GS-0":
@@ -6996,6 +6957,47 @@
 			"statbase": "",
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
+		}
+	},
+	"Pdx-3":
+	{
+		"GS-3":
+		{
+			"tag": "Idino_Event",
+			"spawnoffset": "0,0,100,",
+			"descriptname": "I-Dino Event",
+			"description": "Herzlichen Glueckwunsch! Du darfst dir ein Event-Dino ganz nach deinen Wuenschen erstellen!",
+			"statbase": "2,82,330,1,",
+			"reducepointschoosen": [
+				"1,12,"
+			],
+			"allowgender": true
+		},
+		"DS-0":
+		{
+			"dinoindex": 136,
+			"dinoname": "Carcharodontosaurus",
+			"forpillartag": "Idino_Event",
+			"allowgendar": true,
+			"allowablestats": "((0, 45),(1, 45),(3, 42),(4, 45),(7, 45),(8, 45))",
+			"statbase": "2,100,360,1,",
+			"reducepointschoosen": [
+				"1,18,"
+			],
+			"bitmaskbool": 0
+		},
+		"DS-1":
+		{
+			"dinoindex": 211,
+			"dinoname": "S-Carcharodontosaurus",
+			"forpillartag": "Idino_Event",
+			"allowgendar": true,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "2,100,330,1,",
+			"reducepointschoosen": [
+				"1,18,"
+			],
+			"bitmaskbool": 0
 		}
 	}
 }
