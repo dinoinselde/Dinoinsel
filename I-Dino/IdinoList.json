@@ -3370,5 +3370,17 @@
 		"isboss": false,
 		"softdinoclass": "/AstraeosCreatures/Cyclops/Cyclops_Character_BP.Cyclops_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-281":
+	{
+		"dinostringref": "/AAAcro/Dinos/AcrocanthosaurusAA_Character_BP.AcrocanthosaurusAA_Character_BP_C",
+		"dinonametag": "AcroAA",
+		"dinodescription": "Acrocanthosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/AAAcro/Dinos/AcrocanthosaurusAA_Character_BP.AcrocanthosaurusAA_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	}
 }
