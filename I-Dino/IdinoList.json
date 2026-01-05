@@ -3382,5 +3382,17 @@
 		"isboss": false,
 		"softdinoclass": "/AAAcro/Dinos/AcrocanthosaurusAA_Character_BP.AcrocanthosaurusAA_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-282":
+	{
+		"dinostringref": "/Game/LostColony/Dinos/SnowMonster/MegaSnowMonster_Character_BP.MegaSnowMonster_Character_BP_C",
+		"dinonametag": "SnowMonster",
+		"dinodescription": "Alpha Ossidon",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": true,
+		"isboss": false,
+		"softdinoclass": "/Game/LostColony/Dinos/SnowMonster/MegaSnowMonster_Character_BP.MegaSnowMonster_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
 	}
 }
