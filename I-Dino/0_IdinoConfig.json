@@ -1,19 +1,4 @@
 {
-	"Pdx-3":
-	{
-		"GS-3":
-		{
-			"tag": "Idino_Event",
-			"spawnoffset": "0,0,100,",
-			"descriptname": "I-Dino Event",
-			"description": "Herzlichen Glueckwunsch! Du darfst dir ein Event-Dino ganz nach deinen Wuenschen erstellen!",
-			"statbase": "2,82,330,1,",
-			"reducepointschoosen": [
-				"1,12,"
-			],
-			"allowgender": true
-		}
-	},
 	"Pdx-0":
 	{
 		"GS-0":
@@ -7016,6 +7001,34 @@
 			"statbase": "",
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
+		}
+	},
+	"Pdx-3":
+	{
+		"GS-3":
+		{
+			"tag": "Idino_Event",
+			"spawnoffset": "0,0,100,",
+			"descriptname": "I-Dino Event",
+			"description": "Herzlichen Glueckwunsch! Du darfst dir ein Event-Dino ganz nach deinen Wuenschen erstellen!",
+			"statbase": "2,82,330,1,",
+			"reducepointschoosen": [
+				"1,12,"
+			],
+			"allowgender": true
+		},
+		"DS-0":
+		{
+			"dinoindex": 281,
+			"dinoname": "Acrocanthosaurus",
+			"forpillartag": "Idino_Event",
+			"allowgendar": true,
+			"allowablestats": "((0, 45),(1, 45),(3, 45),(4, 42),(7, 45),(8, 45))",
+			"statbase": "2,82,419,1,",
+			"reducepointschoosen": [
+				"1,12,"
+			],
+			"bitmaskbool": 4
 		}
 	}
 }
