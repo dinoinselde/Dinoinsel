@@ -1,0 +1,410 @@
+{
+	"GenS-0":
+	{
+		"tag": "saddler",
+		"descriptname": "I-Dino Saddler",
+		"description": "Use for get customized Saddels for your Dino.",
+		"descriptnameplus": "I-Dino Saddler Plus",
+		"descriptionplus": "Use for get customized Saddels for your Dino.",
+		"prevalues": [ 25, 150 ],
+		"prequality": 0,
+		"gitimporturl": "https://raw.githubusercontent.com/dinoinselde/Dinoinsel/main/I-Dino/2_SaddlerConfig.json",
+		"gitfilenames": [
+			"0_SaddlerConfig",
+			"1_SaddlerConfig",
+			"2_SaddlerConfig"
+		]
+	},
+	"SaD-0":
+	{
+		"dinoindex": 281,
+		"dinoname": "Acrocanthosaurus",
+		"dinoclassref": "/AAAcro/Dinos/AcrocanthosaurusAA_Character_BP.AcrocanthosaurusAA_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/AAAcro/Dinos/Saddle/PrimalItemArmor_AcroSaddle.PrimalItemArmor_AcroSaddle_C",
+				"armorvalue": 1125,
+				"durability": 150,
+				"quality": 4,
+				"amount": 1
+			}
+		]
+	},
+	"SaD-1":
+	{
+		"dinoindex": 1,
+		"dinoname": "Allosaurus",
+		"dinoclassref": "/Game/PrimalEarth/Dinos/Allosaurus/Allo_Character_BP.Allo_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_AlloSaddle.PrimalItemArmor_AlloSaddle_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			}
+		]
+	},
+	"SaD-2":
+	{
+		"dinoindex": 150,
+		"dinoname": "Ankylosaurus",
+		"dinoclassref": "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_AnkyloSaddle.PrimalItemArmor_AnkyloSaddle_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			}
+		]
+	},
+	"SaD-3":
+	{
+		"dinoindex": 43,
+		"dinoname": "Araneo",
+		"dinoclassref": "/Game/PrimalEarth/Dinos/Spider-Small/SpiderS_Character_BP.SpiderS_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_SpiderSaddle.PrimalItemArmor_SpiderSaddle_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			}
+		]
+	},
+	"SaD-4":
+	{
+		"dinoindex": 258,
+		"dinoname": "Archelon",
+		"dinoclassref": "/Game/ASA/Dinos/Archelon/Dinos/Archelon_Character_BP_ASA.Archelon_Character_BP_ASA_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/ASA/Dinos/Archelon/Dinos/Saddle/PrimalItem_Armor_Archelon_Saddle_ASA.PrimalItem_Armor_Archelon_Saddle_ASA_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			}
+		]
+	},
+	"SaD-5":
+	{
+		"dinoindex": 146,
+		"dinoname": "Argentavis",
+		"dinoclassref": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_ArgentavisSaddle.PrimalItemArmor_ArgentavisSaddle_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			}
+		]
+	},
+	"SaD-6":
+	{
+		"dinoindex": 175,
+		"dinoname": "Deinosuchus",
+		"dinoclassref": "/Game/ASA/Dinos/Deinosuchus/DeinosuchusASA_Character_BP.DeinosuchusASA_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/ASA/Dinos/Deinosuchus/Saddle/PrimalItemArmor_Deinosuchus_Saddle_ASA.PrimalItemArmor_Deinosuchus_Saddle_ASA_C",
+				"armorvalue": 300,
+				"durability": 150,
+				"quality": 4,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": true,
+				"saddleclassref": "/Game/ASA/Dinos/Deinosuchus/Saddle/PrimalItemArmor_Deinosuchus_Saddle_ASA.PrimalItemArmor_Deinosuchus_Saddle_ASA_C",
+				"armorvalue": 325,
+				"durability": 150,
+				"quality": 5,
+				"amount": 10
+			}
+		]
+	},
+	"SaD-7":
+	{
+		"dinoindex": 163,
+		"dinoname": "Gasbags",
+		"dinoclassref": "/Game/Extinction/Dinos/GasBag/GasBags_Character_BP.GasBags_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/Extinction/CoreBlueprints/Items/Saddle/PrimalItemArmor_GasBagsSaddle.PrimalItemArmor_GasBagsSaddle_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			}
+		]
+	},
+	"SaD-8":
+	{
+		"dinoindex": 104,
+		"dinoname": "Giganotosaurus",
+		"dinoclassref": "/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_GigantSaddle.PrimalItemArmor_GigantSaddle_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			}
+		]
+	},
+	"SaD-9":
+	{
+		"dinoindex": 98,
+		"dinoname": "Iguanodon",
+		"dinoclassref": "/Game/PrimalEarth/Dinos/Iguanodon/Iguanodon_Character_BP.Iguanodon_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_IguanodonSaddle.PrimalItemArmor_IguanodonSaddle_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			}
+		]
+	},
+	"SaD-10":
+	{
+		"dinoindex": 96,
+		"dinoname": "Kaprosuchus",
+		"dinoclassref": "/Game/PrimalEarth/Dinos/Kaprosuchus/Kaprosuchus_Character_BP.Kaprosuchus_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_KaprosuchusSaddle.PrimalItemArmor_KaprosuchusSaddle_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			}
+		]
+	},
+	"SaD-11":
+	{
+		"dinoindex": 186,
+		"dinoname": "Karkinos",
+		"dinoclassref": "/Game/Aberration/Dinos/Crab/Crab_Character_BP.Crab_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/Aberration/Dinos/Crab/PrimalItemArmor_CrabSaddle.PrimalItemArmor_CrabSaddle_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			}
+		]
+	},
+	"SaD-12":
+	{
+		"dinoindex": 274,
+		"dinoname": "Malwyn",
+		"dinoclassref": "/Game/LostColony/Dinos/DevilFox/DevilFox_Character_BP.DevilFox_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/LostColony/Dinos/DevilFox/PrimalItemArmor_DevilFoxSaddle.PrimalItemArmor_DevilFoxSaddle_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			}
+		]
+	},
+	"SaD-13":
+	{
+		"dinoindex": 261,
+		"dinoname": "Ossidon",
+		"dinoclassref": "/Game/LostColony/Dinos/SnowMonster/SnowMonster_Character_BP.SnowMonster_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/LostColony/Dinos/SnowMonster/PrimalItemArmor_SnowMonsterSaddle.PrimalItemArmor_SnowMonsterSaddle_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			}
+		]
+	},
+	"SaD-14":
+	{
+		"dinoindex": 66,
+		"dinoname": "Procoptodon",
+		"dinoclassref": "/Game/PrimalEarth/Dinos/Procoptodon/Procoptodon_Character_BP.Procoptodon_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_ProcoptodonSaddle.PrimalItemArmor_ProcoptodonSaddle_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			}
+		]
+	},
+	"SaD-15":
+	{
+		"dinoindex": 65,
+		"dinoname": "Pteranodon",
+		"dinoclassref": "/Game/PrimalEarth/Dinos/Ptero/Ptero_Character_BP.Ptero_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_PteroSaddle.PrimalItemArmor_PteroSaddle_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			}
+		]
+	},
+	"SaD-16":
+	{
+		"dinoindex": 46,
+		"dinoname": "Pulmonoscorpius",
+		"dinoclassref": "/Game/PrimalEarth/Dinos/Scorpion/Scorpion_Character_BP.Scorpion_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_ScorpionSaddle.PrimalItemArmor_ScorpionSaddle_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			}
+		]
+	},
+	"SaD-17":
+	{
+		"dinoindex": 194,
+		"dinoname": "Armadoggo",
+		"dinoclassref": "/Game/Packs/Wasteland/Dinos/Doggo/Doggo_Character_BP.Doggo_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/Packs/Wasteland/Dinos/CompanionDino/Items/Armor/PrimalItemArmor_DinoCompanion_Gear_AmmoBox.PrimalItemArmor_DinoCompanion_Gear_AmmoBox_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/Packs/Wasteland/Dinos/CompanionDino/Items/Armor/PrimalItemArmor_DinoCompanion_Gear_Bag.PrimalItemArmor_DinoCompanion_Gear_Bag_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/Packs/Wasteland/Dinos/CompanionDino/Items/Armor/PrimalItemArmor_DinoCompanion_Gear_ChibiBasket.PrimalItemArmor_DinoCompanion_Gear_ChibiBasket_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/Packs/Wasteland/Dinos/CompanionDino/Items/Armor/PrimalItemArmor_DinoCompanion_Gear_ExtraArmor.PrimalItemArmor_DinoCompanion_Gear_ExtraArmor_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/Packs/Wasteland/Dinos/CompanionDino/Items/Armor/PrimalItemArmor_DinoCompanion_Gear_FoodBasket.PrimalItemArmor_DinoCompanion_Gear_FoodBasket_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/Packs/Wasteland/Dinos/CompanionDino/Items/Armor/PrimalItemArmor_DinoCompanion_Gear_MeatSack.PrimalItemArmor_DinoCompanion_Gear_MeatSack_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/Packs/Wasteland/Dinos/CompanionDino/Items/Armor/PrimalItemArmor_DinoCompanion_Gear_Medkit.PrimalItemArmor_DinoCompanion_Gear_Medkit_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/Packs/Wasteland/Dinos/CompanionDino/Items/Armor/PrimalItemArmor_DinoCompanion_Gear_Movespeed.PrimalItemArmor_DinoCompanion_Gear_Movespeed_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/Packs/Wasteland/Dinos/CompanionDino/Items/Armor/PrimalItemArmor_DinoCompanion_Gear_OxygenTank.PrimalItemArmor_DinoCompanion_Gear_OxygenTank_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/Packs/Wasteland/Dinos/CompanionDino/Items/Armor/PrimalItemArmor_DinoCompanion_Gear_RolledUpSleepingBag.PrimalItemArmor_DinoCompanion_Gear_RolledUpSleepingBag_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/Packs/Wasteland/Dinos/CompanionDino/Items/Armor/PrimalItemArmor_DinoCompanion_Gear_Spikes.PrimalItemArmor_DinoCompanion_Gear_Spikes_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/Packs/Wasteland/Dinos/CompanionDino/Items/Armor/PrimalItemArmor_DinoCompanion_Gear_Spyglass.PrimalItemArmor_DinoCompanion_Gear_Spyglass_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/Packs/Wasteland/Dinos/Doggo/PrimalItemArmor_DinoCompanionSaddle_Doggo.PrimalItemArmor_DinoCompanionSaddle_Doggo_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			}
+		]
+	}
+}
