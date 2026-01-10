@@ -12,26 +12,15 @@
 				"1,15,"
 			],
 			"allowgender": true
-		},
-		"DS-0":
-		{
-			"dinoindex": 152,
-			"dinoname": "Achatina",
-			"forpillartag": "Idino_Event",
-			"allowgendar": false,
-			"allowablestats": "((0, 0),(1, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
-			"statbase": "",
-			"reducepointschoosen": [],
-			"bitmaskbool": 8
 		}
 	},
-	"Pdx-0":
+	"Pdx-2":
 	{
-		"GS-0":
+		"GS-2":
 		{
-			"tag": "Idino_Normal",
+			"tag": "Idino_Wild",
 			"spawnoffset": "0,0,100,",
-			"descriptname": "I-Dino Normal",
+			"descriptname": "I-Dino Wildes",
 			"description": "",
 			"statbase": "2,75,250,1,",
 			"reducepointschoosen": [
@@ -55,15 +44,15 @@
 			"allowgender": true
 		}
 	},
-	"Pdx-2":
+	"Pdx-0":
 	{
-		"GS-2":
+		"GS-0":
 		{
-			"tag": "Idino_Wild",
+			"tag": "Idino_Normal",
 			"spawnoffset": "0,0,100,",
-			"descriptname": "I-Dino Wild",
+			"descriptname": "I-Dino Normal",
 			"description": "",
-			"statbase": "0,75,180,",
+			"statbase": "2,75,250,1,",
 			"reducepointschoosen": [
 				"1,15,"
 			],
