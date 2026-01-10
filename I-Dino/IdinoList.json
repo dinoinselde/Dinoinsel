@@ -1,6 +1,546 @@
 {
 	"BD-0":
 	{
+		"dinostringref": "/Game/ASA/Dinos/Shastasaurus/Shastasaurus_Character_BP.Shastasaurus_Character_BP_C",
+		"dinonametag": "Shasta",
+		"dinodescription": "Shastasaurus",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ASA/Dinos/Shastasaurus/Shastasaurus_Character_BP.Shastasaurus_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-1":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Allosaurus/Allo_Character_BP.Allo_Character_BP_C",
+		"dinonametag": "Allo",
+		"dinodescription": "Allosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Allosaurus/Allo_Character_BP.Allo_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-2":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP_C",
+		"dinonametag": "Rex",
+		"dinodescription": "Rex",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-3":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Rex/MegaRex_Character_BP.MegaRex_Character_BP_C",
+		"dinonametag": "Rex",
+		"dinodescription": "Alpha Rex",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": true,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Rex/MegaRex_Character_BP.MegaRex_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-4":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Basilosaurus/Basilosaurus_Character_BP.Basilosaurus_Character_BP_C",
+		"dinonametag": "Basilosaurus",
+		"dinodescription": "Basilosaurus",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Basilosaurus/Basilosaurus_Character_BP.Basilosaurus_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-5":
+	{
+		"dinostringref": "/Game/ScorchedEarth/Dinos/Vulture/Vulture_Character_BP.Vulture_Character_BP_C",
+		"dinonametag": "Vulture",
+		"dinodescription": "Vulture",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ScorchedEarth/Dinos/Vulture/Vulture_Character_BP.Vulture_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-6":
+	{
+		"dinostringref": "/Game/ScorchedEarth/Dinos/SpineyLizard/SpineyLizard_Character_BP.SpineyLizard_Character_BP_C",
+		"dinonametag": "spineyLizard",
+		"dinodescription": "Thorny Dragon",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ScorchedEarth/Dinos/SpineyLizard/SpineyLizard_Character_BP.SpineyLizard_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-7":
+	{
+		"dinostringref": "/Game/ScorchedEarth/Dinos/RockGolem/RubbleGolem_Character_BP.RubbleGolem_Character_BP_C",
+		"dinonametag": "RockElemental",
+		"dinodescription": "Rubble Golem",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ScorchedEarth/Dinos/RockGolem/RubbleGolem_Character_BP.RubbleGolem_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-8":
+	{
+		"dinostringref": "/Game/ScorchedEarth/Dinos/RockGolem/RockGolem_Character_BP.RockGolem_Character_BP_C",
+		"dinonametag": "RockElemental",
+		"dinodescription": "Rock Elemental",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ScorchedEarth/Dinos/RockGolem/RockGolem_Character_BP.RockGolem_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-9":
+	{
+		"dinostringref": "/Game/ScorchedEarth/Dinos/Phoenix/Phoenix_Character_BP.Phoenix_Character_BP_C",
+		"dinonametag": "phoenix",
+		"dinodescription": "Phoenix",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ScorchedEarth/Dinos/Phoenix/Phoenix_Character_BP.Phoenix_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-10":
+	{
+		"dinostringref": "/Game/ScorchedEarth/Dinos/Moth/Moth_Character_BP.Moth_Character_BP_C",
+		"dinonametag": "Moth",
+		"dinodescription": "Lymantria",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ScorchedEarth/Dinos/Moth/Moth_Character_BP.Moth_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-11":
+	{
+		"dinostringref": "/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP_C",
+		"dinonametag": "Mantis",
+		"dinodescription": "Mantis",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-12":
+	{
+		"dinostringref": "/Game/ScorchedEarth/Dinos/Mantis/Ghost_Mantis_Character_BP.Ghost_Mantis_Character_BP_C",
+		"dinonametag": "Mantis",
+		"dinodescription": "Mantis Ghost",
+		"hasegg": true,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ScorchedEarth/Dinos/Mantis/Ghost_Mantis_Character_BP.Ghost_Mantis_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-13":
+	{
+		"dinostringref": "/Game/ScorchedEarth/Dinos/Manticore/Manticore_Character_BP.Manticore_Character_BP_C",
+		"dinonametag": "Manticore",
+		"dinodescription": "Manticore",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": true,
+		"softdinoclass": "/Game/ScorchedEarth/Dinos/Manticore/Manticore_Character_BP.Manticore_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-14":
+	{
+		"dinostringref": "/Game/ScorchedEarth/Dinos/JugBug/Jugbug_Water_Character_BP.Jugbug_Water_Character_BP_C",
+		"dinonametag": "Jugbug",
+		"dinodescription": "Water Jug Bug",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ScorchedEarth/Dinos/Jugbug/Jugbug_Water_Character_BP.Jugbug_Water_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-15":
+	{
+		"dinostringref": "/Game/ScorchedEarth/Dinos/JugBug/Jugbug_Oil_Character_BP.Jugbug_Oil_Character_BP_C",
+		"dinonametag": "Jugbug",
+		"dinodescription": "Oil Jug Bug",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ScorchedEarth/Dinos/Jugbug/Jugbug_Oil_Character_BP.Jugbug_Oil_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-16":
+	{
+		"dinostringref": "/Game/ScorchedEarth/Dinos/Jerboa/Jerboa_Character_BP.Jerboa_Character_BP_C",
+		"dinonametag": "jerboa",
+		"dinodescription": "Jerboa",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ScorchedEarth/Dinos/Jerboa/Jerboa_Character_BP.Jerboa_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-17":
+	{
+		"dinostringref": "/Game/ScorchedEarth/Dinos/Jerboa/Bone_Jerboa_Character_BP.Bone_Jerboa_Character_BP_C",
+		"dinonametag": "jerboa",
+		"dinodescription": "Skeletal Jerboa",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ScorchedEarth/Dinos/Jerboa/Bone_Jerboa_Character_BP.Bone_Jerboa_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-18":
+	{
+		"dinostringref": "/Game/ScorchedEarth/Dinos/DodoWyvern/DodoWyvern_Character_BP.DodoWyvern_Character_BP_C",
+		"dinonametag": "Wyvern",
+		"dinodescription": "Dodo Wyvern",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": true,
+		"softdinoclass": "/Game/ScorchedEarth/Dinos/DodoWyvern/DodoWyvern_Character_BP.DodoWyvern_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-19":
+	{
+		"dinostringref": "/Game/ScorchedEarth/Dinos/Deathworm/MegaDeathworm_Character_BP.MegaDeathworm_Character_BP_C",
+		"dinonametag": "Deathworm",
+		"dinodescription": "Alpha Deathworm",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": true,
+		"isboss": false,
+		"softdinoclass": "/Game/ScorchedEarth/Dinos/Deathworm/MegaDeathworm_Character_BP.MegaDeathworm_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-20":
+	{
+		"dinostringref": "/Game/ScorchedEarth/Dinos/Deathworm/Deathworm_Character_BP.Deathworm_Character_BP_C",
+		"dinonametag": "Deathworm",
+		"dinodescription": "Deathworm",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ScorchedEarth/Dinos/DeathWorm/DeathWorm_Character_BP.Deathworm_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-21":
+	{
+		"dinostringref": "/Game/ScorchedEarth/Dinos/Camelsaurus/camelsaurus_Character_BP.camelsaurus_Character_BP_C",
+		"dinonametag": "camelsaurus",
+		"dinodescription": "Morellatops",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ScorchedEarth/Dinos/Camelsaurus/camelsaurus_Character_BP.camelsaurus_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 5, 7, 8, 9 ]
+	},
+	"BD-22":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Yutyrannus/Yutyrannus_Character_BP.Yutyrannus_Character_BP_C",
+		"dinonametag": "Yutyrannus",
+		"dinodescription": "Yutyrannus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Yutyrannus/Yutyrannus_Character_BP.Yutyrannus_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-23":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/WoollyRhino/Rhino_Character_BP.Rhino_Character_BP_C",
+		"dinonametag": "Rhino",
+		"dinodescription": "Woolly Rhino",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/WoollyRhino/Rhino_Character_BP.Rhino_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-24":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Tusoteuthis/Tusoteuthis_Character_BP.Tusoteuthis_Character_BP_C",
+		"dinonametag": "Tusoteuthis",
+		"dinodescription": "Tusoteuthis",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Tusoteuthis/Tusoteuthis_Character_BP.Tusoteuthis_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-25":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Tusoteuthis/Mega_Tusoteuthis_Character_BP.Mega_Tusoteuthis_Character_BP_C",
+		"dinonametag": "Tusoteuthis",
+		"dinodescription": "Alpha Tusoteuthis",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": true,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Tusoteuthis/Mega_Tusoteuthis_Character_BP.Mega_Tusoteuthis_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-26":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Turtle/Turtle_Character_BP.Turtle_Character_BP_C",
+		"dinonametag": "Turtle",
+		"dinodescription": "Carbonemys",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Turtle/Turtle_Character_BP.Turtle_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-27":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Tropeognathus/Tropeognathus_Character_BP.Tropeognathus_Character_BP_C",
+		"dinonametag": "Tropeognathus",
+		"dinodescription": "Tropeognathus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Tropeognathus/Tropeognathus_Character_BP.Tropeognathus_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-28":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Troodon/Troodon_Character_BP.Troodon_Character_BP_C",
+		"dinonametag": "Troodon",
+		"dinodescription": "Troodon",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Troodon/Troodon_Character_BP.Troodon_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-29":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP.Trike_Character_BP_C",
+		"dinonametag": "Trike",
+		"dinodescription": "Triceratops",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP.Trike_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-30":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Trike/Bone_Trike_Character_BP.Bone_Trike_Character_BP_C",
+		"dinonametag": "Trike",
+		"dinodescription": "Skeletal Trike",
+		"hasegg": true,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Trike/Bone_Trike_Character_BP.Bone_Trike_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-31":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Trike/BionicTrike_Character_BP.BionicTrike_Character_BP_C",
+		"dinonametag": "Trike",
+		"dinodescription": "Tek Triceratops",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Trike/BionicTrike_Character_BP.BionicTrike_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-32":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Toad/Toad_Character_BP.Toad_Character_BP_C",
+		"dinonametag": "Toad",
+		"dinodescription": "Beelzebufo",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Toad/Toad_Character_BP.Toad_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-33":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Titanosaur/Titanosaur_Character_BP.Titanosaur_Character_BP_C",
+		"dinonametag": "Titan",
+		"dinodescription": "Titanosaur",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/titanosaur/Titanosaur_Character_BP.Titanosaur_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-34":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Thylacoleo/Thylacoleo_Character_BP.Thylacoleo_Character_BP_C",
+		"dinonametag": "Thylacoleo",
+		"dinodescription": "Thylacoleo",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Thylacoleo/Thylacoleo_Character_BP.Thylacoleo_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-35":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Therizinosaurus/Therizino_Character_BP.Therizino_Character_BP_C",
+		"dinonametag": "Therizinosaurus",
+		"dinodescription": "Therizinosaur",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Therizinosaurus/Therizino_Character_BP.Therizino_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-36":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/TerrorBird/TerrorBird_Character_BP.TerrorBird_Character_BP_C",
+		"dinonametag": "TerrorBird",
+		"dinodescription": "Terror Bird",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/TerrorBird/TerrorBird_Character_BP.TerrorBird_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-37":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Tapejara/Tapejara_Character_BP.Tapejara_Character_BP_C",
+		"dinonametag": "Tapejara",
+		"dinodescription": "Tapejara",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Tapejara/Tapejara_Character_BP.Tapejara_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-38":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP.Stego_Character_BP_C",
+		"dinonametag": "Stego",
+		"dinodescription": "Stegosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP.Stego_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-39":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Stego/Bone_Stego_Character_BP.Bone_Stego_Character_BP_C",
+		"dinonametag": "Stego",
+		"dinodescription": "Skeletal Stego",
+		"hasegg": true,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Stego/Bone_Stego_Character_BP.Bone_Stego_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-40":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Stego/BionicStego_Character_BP.BionicStego_Character_BP_C",
+		"dinonametag": "Stego",
+		"dinodescription": "Tek Stegosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Stego/BionicStego_Character_BP.BionicStego_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-41":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Stag/Stag_Character_BP.Stag_Character_BP_C",
+		"dinonametag": "Stag",
+		"dinodescription": "Megaloceros",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Stag/Stag_Character_BP.Stag_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-42":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP.Spino_Character_BP_C",
+		"dinonametag": "Spino",
+		"dinodescription": "Spino",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP.Spino_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-43":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Spider-Small/SpiderS_Character_BP.SpiderS_Character_BP_C",
+		"dinonametag": "Spider",
+		"dinodescription": "Araneo",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Spider-Small/SpiderS_Character_BP.SpiderS_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-44":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Spider-Large/SpiderL_Character_BP.SpiderL_Character_BP_C",
+		"dinonametag": "Uberspider",
+		"dinodescription": "Broodmother Lysrix",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": true,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Spider-Large/SpiderL_Character_BP.SpiderL_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-45":
+	{
 		"dinostringref": "/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP_C",
 		"dinonametag": "Sheep",
 		"dinodescription": "Ovis",
@@ -10,5 +550,2849 @@
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-46":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Scorpion/Scorpion_Character_BP.Scorpion_Character_BP_C",
+		"dinonametag": "Scorpion",
+		"dinodescription": "Pulmonoscorpius",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Scorpion/Scorpion_Character_BP.Scorpion_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-47":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Sauropod/Sauropod_Character_BP.Sauropod_Character_BP_C",
+		"dinonametag": "Bronto",
+		"dinodescription": "Brontosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Sauropod/Sauropod_Character_BP.Sauropod_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-48":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Sauropod/Bone_Sauropod_Character_BP.Bone_Sauropod_Character_BP_C",
+		"dinonametag": "Bronto",
+		"dinodescription": "Skeletal Bronto",
+		"hasegg": true,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Sauropod/Bone_Sauropod_Character_BP.Bone_Sauropod_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-49":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Sarco/Sarco_Character_BP.Sarco_Character_BP_C",
+		"dinonametag": "Sarco",
+		"dinodescription": "Sarco",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Sarco/Sarco_Character_BP.Sarco_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-50":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Salmon/Salmon_Character_BP.Salmon_Character_BP_C",
+		"dinonametag": "Salmon",
+		"dinodescription": "Sabertooth Salmon",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Salmon/Salmon_Character_BP.Salmon_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-51":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Saber/Saber_Character_BP.Saber_Character_BP_C",
+		"dinonametag": "Sabertooth",
+		"dinodescription": "Sabertooth",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Saber/Saber_Character_BP.Saber_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-52":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP_C",
+		"dinonametag": "Rhynio",
+		"dinodescription": "Rhyniognatha",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-53":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Rex/Ghost_Rex_Character_BP.Ghost_Rex_Character_BP_C",
+		"dinonametag": "Rex",
+		"dinodescription": "Rex Ghost",
+		"hasegg": true,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Rex/Ghost_Rex_Character_BP.Ghost_Rex_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-54":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Rex/Bone_MegaRex_Character_BP.Bone_MegaRex_Character_BP_C",
+		"dinonametag": "Rex",
+		"dinodescription": "Alpha Skeletal Rex",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": true,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Rex/Bone_MegaRex_Character_BP.Bone_MegaRex_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-55":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Rex/BionicRex_Character_BP.BionicRex_Character_BP_C",
+		"dinonametag": "Rex",
+		"dinodescription": "Tek Rex",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Rex/BionicRex_Character_BP.BionicRex_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-56":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP.Raptor_Character_BP_C",
+		"dinonametag": "Raptor",
+		"dinodescription": "Raptor",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP.Raptor_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-57":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Raptor/MegaRaptor_Character_BP.MegaRaptor_Character_BP_C",
+		"dinonametag": "Raptor",
+		"dinodescription": "Alpha Raptor",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": true,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Raptor/MegaRaptor_Character_BP.MegaRaptor_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-58":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Raptor/Bone_MegaRaptor_Character_BP.Bone_MegaRaptor_Character_BP_C",
+		"dinonametag": "Raptor",
+		"dinodescription": "Alpha Skeletal Raptor",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": true,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Raptor/Bone_MegaRaptor_Character_BP.Bone_MegaRaptor_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-59":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Raptor/BionicRaptor_Character_BP.BionicRaptor_Character_BP_C",
+		"dinonametag": "Raptor",
+		"dinodescription": "Tek Raptor",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Raptor/BionicRaptor_Character_BP.BionicRaptor_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-60":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Quetzalcoatlus/Quetz_Character_BP.Quetz_Character_BP_C",
+		"dinonametag": "Quetz",
+		"dinodescription": "Quetzal",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Quetzalcoatlus/Quetz_Character_BP.Quetz_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-61":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Quetzalcoatlus/Bone_Quetz_Character_BP.Bone_Quetz_Character_BP_C",
+		"dinonametag": "Quetz",
+		"dinodescription": "Skeletal Quetzal",
+		"hasegg": true,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Quetzalcoatlus/Bone_Quetz_Character_BP.Bone_Quetz_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-62":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Quetzalcoatlus/BionicQuetz_Character_BP.BionicQuetz_Character_BP_C",
+		"dinonametag": "Quetz",
+		"dinodescription": "Tek Quetzal",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Quetzalcoatlus/BionicQuetz_Character_BP.BionicQuetz_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-63":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Purlovia/Purlovia_Character_BP.Purlovia_Character_BP_C",
+		"dinonametag": "Purlovia",
+		"dinodescription": "Purlovia",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Purlovia/Purlovia_Character_BP.Purlovia_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-64":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Ptero/Ptero_Minion_Character_BP.Ptero_Minion_Character_BP_C",
+		"dinonametag": "Ptera",
+		"dinodescription": "Pteranodon",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": true,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Ptero/Ptero_Minion_Character_BP.Ptero_Minion_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-65":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Ptero/Ptero_Character_BP.Ptero_Character_BP_C",
+		"dinonametag": "Ptera",
+		"dinodescription": "Pteranodon",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Ptero/Ptero_Character_BP.Ptero_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-66":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Procoptodon/Procoptodon_Character_BP.Procoptodon_Character_BP_C",
+		"dinonametag": "Kangaroo",
+		"dinodescription": "Procoptodon",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Procoptodon/Procoptodon_Character_BP.Procoptodon_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-67":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Plesiosaur/Plesiosaur_Character_BP.Plesiosaur_Character_BP_C",
+		"dinonametag": "Plesiosaur",
+		"dinodescription": "Plesiosaur",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Plesiosaur/Plesiosaur_Character_BP.Plesiosaur_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-68":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Piranha/Piranha_Character_BP.Piranha_Character_BP_C",
+		"dinonametag": "Piranha",
+		"dinodescription": "Piranha",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Piranha/Piranha_Character_BP.Piranha_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-69":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Phiomia/Phiomia_Character_BP.Phiomia_Character_BP_C",
+		"dinonametag": "Phiomia",
+		"dinodescription": "Phiomia",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Phiomia/Phiomia_Character_BP.Phiomia_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-70":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Pelagornis/Pela_Character_BP.Pela_Character_BP_C",
+		"dinonametag": "Pela",
+		"dinodescription": "Pelagornis",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Pelagornis/Pela_Character_BP.Pela_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-71":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Pegomastax/Pegomastax_Character_BP.Pegomastax_Character_BP_C",
+		"dinonametag": "Pegomastax",
+		"dinodescription": "Pegomastax",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Pegomastax/Pegomastax_Character_BP.Pegomastax_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-72":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Paraceratherium/Paracer_Character_BP.Paracer_Character_BP_C",
+		"dinonametag": "Paracer",
+		"dinodescription": "Paraceratherium",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Paraceratherium/Paracer_Character_BP.Paracer_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-73":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Para/Para_Character_BP.Para_Character_BP_C",
+		"dinonametag": "Para",
+		"dinodescription": "Parasaur",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Para/Para_Character_BP.Para_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-74":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Para/BionicPara_Character_BP.BionicPara_Character_BP_C",
+		"dinonametag": "Para",
+		"dinodescription": "Tek Parasaur",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Para/BionicPara_Character_BP.BionicPara_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-75":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Pachyrhinosaurus/Pachyrhino_Character_BP.Pachyrhino_Character_BP_C",
+		"dinonametag": "Pachyrhinosaurus",
+		"dinodescription": "Pachyrhinosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Pachyrhinosaurus/Pachyrhino_Character_BP.Pachyrhino_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-76":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Pachy/Pachy_Character_BP.Pachy_Character_BP_C",
+		"dinonametag": "Pachy",
+		"dinodescription": "Pachy",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Pachy/Pachy_Character_BP.Pachy_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-77":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Oviraptor/Oviraptor_Character_BP.Oviraptor_Character_BP_C",
+		"dinonametag": "Ovi",
+		"dinodescription": "Oviraptor",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Oviraptor/Oviraptor_Character_BP.Oviraptor_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-78":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Oviraptor/BunnyOviraptor_Character_BP.BunnyOviraptor_Character_BP_C",
+		"dinonametag": "Ovi",
+		"dinodescription": "Bunny Oviraptor",
+		"hasegg": true,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Oviraptor/BunnyOviraptor_Character_BP.BunnyOviraptor_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-79":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Otter/Otter_Character_BP.Otter_Character_BP_C",
+		"dinonametag": "Otter",
+		"dinodescription": "Otter",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Otter/Otter_Character_BP.Otter_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-80":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Moschops/Moschops_Character_BP.Moschops_Character_BP_C",
+		"dinonametag": "Moschops",
+		"dinodescription": "Moschops",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Moschops/Moschops_Character_BP.Moschops_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-81":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP.Mosa_Character_BP_C",
+		"dinonametag": "Mosasaur",
+		"dinodescription": "Mosasaurus",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP.Mosa_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-82":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Monkey/Monkey_Character_BP.Monkey_Character_BP_C",
+		"dinonametag": "Monkey",
+		"dinodescription": "Mesopithecus",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Monkey/Monkey_Character_BP.Monkey_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-83":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Microraptor/Microraptor_Character_BP.Microraptor_Character_BP_C",
+		"dinonametag": "Microraptor",
+		"dinodescription": "Microraptor",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Microraptor/Microraptor_Character_BP.Microraptor_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-84":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Megatherium/Megatherium_Character_BP.Megatherium_Character_BP_C",
+		"dinonametag": "Megatherium",
+		"dinodescription": "Megatherium",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Megatherium/Megatherium_Character_BP.Megatherium_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-85":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Megalosaurus/Megalosaurus_Character_BP.Megalosaurus_Character_BP_C",
+		"dinonametag": "Megalosaurus",
+		"dinodescription": "Megalosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Megalosaurus/Megalosaurus_Character_BP.Megalosaurus_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-86":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Megalodon/MEgaMegalodon_Character_BP.MegaMegalodon_Character_BP_C",
+		"dinonametag": "Mega",
+		"dinodescription": "Alpha Megalodon",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": true,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Megalodon/MEgaMegalodon_Character_BP.MegaMegalodon_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-87":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Megalodon/Megalodon_Character_BP.Megalodon_Character_BP_C",
+		"dinonametag": "Mega",
+		"dinodescription": "Megalodon",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Megalodon/Megalodon_Character_BP.Megalodon_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-88":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Megalania/Megalania_Character_BP.Megalania_Character_BP_C",
+		"dinonametag": "Megalania",
+		"dinodescription": "Megalania",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Megalania/Megalania_Character_BP.Megalania_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-89":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Manta/Manta_Character_BP.Manta_Character_BP_C",
+		"dinonametag": "Manta",
+		"dinodescription": "Manta",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Manta/Manta_Character_BP.Manta_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-90":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Mammoth/Mammoth_Character_BP.Mammoth_Character_BP_C",
+		"dinonametag": "Mammoth",
+		"dinodescription": "Mammoth",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Mammoth/Mammoth_Character_BP.Mammoth_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-91":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Lystrosaurus/Lystro_Character_BP.Lystro_Character_BP_C",
+		"dinonametag": "Lystro",
+		"dinodescription": "Lystrosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Lystrosaurus/Lystro_Character_BP.Lystro_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-92":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Liopleurodon/Liopleurodon_Character_BP.Liopleurodon_Character_BP_C",
+		"dinonametag": "Liopleurodon",
+		"dinodescription": "Liopleurodon",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Liopleurodon/Liopleurodon_Character_BP.Liopleurodon_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-93":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Leedsichthys/Leedsichthys_Character_BP.Leedsichthys_Character_BP_C",
+		"dinonametag": "Leedsichthys",
+		"dinodescription": "Leedsichthys",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Leedsichthys/Leedsichthys_Character_BP.Leedsichthys_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-94":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Leedsichthys/Alpha_Leedsichthys_Character_BP.Alpha_Leedsichthys_Character_BP_C",
+		"dinonametag": "Leedsichthys",
+		"dinodescription": "Alpha Leedsichthys",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": true,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Leedsichthys/Alpha_Leedsichthys_Character_BP.Alpha_Leedsichthys_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-95":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Kentrosaurus/Kentro_Character_BP.Kentro_Character_BP_C",
+		"dinonametag": "Kentro",
+		"dinodescription": "Kentrosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Kentrosaurus/Kentro_Character_BP.Kentro_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-96":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Kaprosuchus/Kaprosuchus_Character_BP.Kaprosuchus_Character_BP_C",
+		"dinonametag": "Kaprosuchus",
+		"dinodescription": "Kaprosuchus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Kaprosuchus/Kaprosuchus_Character_BP.Kaprosuchus_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-97":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Kairuku/Kairuku_Character_BP.Kairuku_Character_BP_C",
+		"dinonametag": "Kairu",
+		"dinodescription": "Kairuku",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Kairuku/Kairuku_Character_BP.Kairuku_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-98":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Iguanodon/Iguanodon_Character_BP.Iguanodon_Character_BP_C",
+		"dinonametag": "Iguanodon",
+		"dinodescription": "Iguanodon",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Iguanodon/Iguanodon_Character_BP.Iguanodon_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-99":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Ichthyornis/Ichthyornis_Character_BP.Ichthyornis_Character_BP_C",
+		"dinonametag": "Ichthyornis",
+		"dinodescription": "Ichthyornis",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Ichthyornis/Ichthyornis_Character_BP.Ichthyornis_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-100":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Hyaenodon/Hyaenodon_Character_BP.Hyaenodon_Character_BP_C",
+		"dinonametag": "Hyaenodon",
+		"dinodescription": "Hyaenodon ",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Hyaenodon/Hyaenodon_Character_BP.Hyaenodon_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-101":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Hesperornis/Hesperornis_Character_BP.Hesperornis_Character_BP_C",
+		"dinonametag": "Hesperornis",
+		"dinodescription": "Hesperornis",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Hesperornis/Hesperornis_Character_BP.Hesperornis_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-102":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP_C",
+		"dinonametag": "Griffin",
+		"dinodescription": "Griffin",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-103":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Gorilla/Gorilla_Character_BP.Gorilla_Character_BP_C",
+		"dinonametag": "Megapithecus",
+		"dinodescription": "Megapithecus",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": true,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Gorilla/Gorilla_Character_BP.Gorilla_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-104":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP_C",
+		"dinonametag": "Gigant",
+		"dinodescription": "Giganotosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-105":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Giganotosaurus/Bone_Gigant_Character_BP.Bone_Gigant_Character_BP_C",
+		"dinonametag": "Gigant",
+		"dinodescription": "Skeletal Giganotosaurus",
+		"hasegg": true,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Giganotosaurus/Bone_Gigant_Character_BP.Bone_Gigant_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-106":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Giganotosaurus/BionicGigant_Character_BP.BionicGigant_Character_BP_C",
+		"dinonametag": "Gigant",
+		"dinodescription": "Tek Giganotosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Giganotosaurus/BionicGigant_Character_BP.BionicGigant_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-107":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Gallimimus/Galli_Character_BP.Galli_Character_BP_C",
+		"dinonametag": "Galli",
+		"dinodescription": "Gallimimus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Gallimimus/Galli_Character_BP.Galli_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-108":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP_C",
+		"dinonametag": "Equus",
+		"dinodescription": "Equus",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-109":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Eel/Eel_Character_BP.Eel_Character_BP_C",
+		"dinonametag": "Eel",
+		"dinodescription": "Electrophorus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Eel/Eel_Character_BP.Eel_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-110":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Dunkleosteus/Dunkle_Character_BP.Dunkle_Character_BP_C",
+		"dinonametag": "Dunkle",
+		"dinodescription": "Dunkleosteus",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Dunkleosteus/Dunkle_Character_BP.Dunkle_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-111":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP.DungBeetle_Character_BP_C",
+		"dinonametag": "Beetle",
+		"dinodescription": "Dung Beetle",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP.DungBeetle_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-112":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Dragonfly/Dragonfly_Character_BP.Dragonfly_Character_BP_C",
+		"dinonametag": "Dragonfly",
+		"dinodescription": "Meganeura",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Dragonfly/Dragonfly_Character_BP.Dragonfly_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-113":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Dolphin/Dolphin_Character_BP.Dolphin_Character_BP_C",
+		"dinonametag": "Dolphin",
+		"dinodescription": "Ichthyosaurus",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Dolphin/Dolphin_Character_BP.Dolphin_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-114":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP.Doed_Character_BP_C",
+		"dinonametag": "Doed",
+		"dinodescription": "Doedicurus",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP.Doed_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-115":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/DodoRex/DodoRex_Character_BP.DodoRex_Character_BP_C",
+		"dinonametag": "DodoRex",
+		"dinodescription": "DodoRex",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": true,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/DodoRex/DodoRex_Character_BP.DodoRex_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-116":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Dodo/ZombieDodo_Character_BP.ZombieDodo_Character_BP_C",
+		"dinonametag": "Dodo",
+		"dinodescription": "Zomdodo",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Dodo/ZombieDodo_Character_BP.ZombieDodo_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-117":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Dodo/Turkey_Character_BP.Turkey_Character_BP_C",
+		"dinonametag": "Turkey",
+		"dinodescription": "Murder Turkey",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Dodo/Turkey_Character_BP.Turkey_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-118":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Dodo/TurkeyBase_Character_BP.TurkeyBase_Character_BP_C",
+		"dinonametag": "None",
+		"dinodescription": "Turkey",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Dodo/TurkeyBase_Character_BP.TurkeyBase_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-119":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP.Dodo_Character_BP_C",
+		"dinonametag": "Dodo",
+		"dinodescription": "Dodo",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP.Dodo_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-120":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Direwolf/Ghost_Direwolf_Character_BP.Ghost_Direwolf_Character_BP_C",
+		"dinonametag": "Direwolf",
+		"dinodescription": "Direwolf Ghost",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Direwolf/Ghost_Direwolf_Character_BP.Ghost_Direwolf_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-121":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Direwolf/Direwolf_Character_BP.Direwolf_Character_BP_C",
+		"dinonametag": "Direwolf",
+		"dinodescription": "Direwolf",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Direwolf/Direwolf_Character_BP.Direwolf_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-122":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Direbear/Direbear_Character_BP.Direbear_Character_BP_C",
+		"dinonametag": "Direbear",
+		"dinodescription": "Dire Bear",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Direbear/Direbear_Character_BP.Direbear_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-123":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Diplodocus/Diplodocus_Character_BP.Diplodocus_Character_BP_C",
+		"dinonametag": "Diplo",
+		"dinodescription": "Diplodocus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Diplodocus/Diplodocus_Character_BP.Diplodocus_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-124":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Diplocaulus/Diplocaulus_Character_BP.Diplocaulus_Character_BP_C",
+		"dinonametag": "Diplocaulus",
+		"dinodescription": "Diplocaulus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Diplocaulus/Diplocaulus_Character_BP.Diplocaulus_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-125":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Dimorphodon/Dimorph_Character_BP.Dimorph_Character_BP_C",
+		"dinonametag": "Dimorph",
+		"dinodescription": "Dimorphodon",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Dimorphodon/Dimorph_Character_BP.Dimorph_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-126":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Dimetrodon/Dimetro_Character_BP.Dimetro_Character_BP_C",
+		"dinonametag": "Dimetro",
+		"dinodescription": "Dimetrodon",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Dimetrodon/Dimetro_Character_BP.Dimetro_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-127":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Dilo/Dilo_Character_BP.Dilo_Character_BP_C",
+		"dinonametag": "Dilo",
+		"dinodescription": "Dilophosaur",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Dilo/Dilo_Character_BP.Dilo_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-128":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Daeodon/Daeodon_Character_BP.Daeodon_Character_BP_C",
+		"dinonametag": "Daeodon",
+		"dinodescription": "Daeodon",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Daeodon/Daeodon_Character_BP.Daeodon_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-129":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Compy/Compy_Character_BP.Compy_Character_BP_C",
+		"dinonametag": "Compy",
+		"dinodescription": "Compy",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Compy/Compy_Character_BP.Compy_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-130":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Coelacanth/Coel_Character_BP.Coel_Character_BP_C",
+		"dinonametag": "Coel",
+		"dinodescription": "Coelacanth",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Coelacanth/Coel_Character_BP.Coel_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-131":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Cnidaria/Cnidaria_Character_BP.Cnidaria_Character_BP_C",
+		"dinonametag": "Cnidaria",
+		"dinodescription": "Cnidaria",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Cnidaria/Cnidaria_Character_BP.Cnidaria_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-132":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Chalicotherium/Chalico_Character_BP.Chalico_Character_BP_C",
+		"dinonametag": "Chalico",
+		"dinodescription": "Chalicotherium",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Chalicotherium/Chalico_Character_BP.Chalico_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-133":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Carno/MegaCarno_Character_BP.MegaCarno_Character_BP_C",
+		"dinonametag": "Carno",
+		"dinodescription": "Alpha Carnotaurus",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": true,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Carno/MegaCarno_Character_BP.MegaCarno_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-134":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Carno/Carno_Character_BP.Carno_Character_BP_C",
+		"dinonametag": "Carno",
+		"dinodescription": "Carnotaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Carno/Carno_Character_BP.Carno_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-135":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Carno/Bone_MegaCarno_Character_BP.Bone_MegaCarno_Character_BP_C",
+		"dinonametag": "Carno",
+		"dinodescription": "Alpha Skeletal Carnotaurus",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": true,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Carno/Bone_MegaCarno_Character_BP.Bone_MegaCarno_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-136":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP_C",
+		"dinonametag": "Carcha",
+		"dinodescription": "Carcharodontosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-137":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/BoaFrill/BoaFrill_Character_BP.BoaFrill_Character_BP_C",
+		"dinonametag": "Titanboa",
+		"dinodescription": "Titanoboa",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/BoaFrill/BoaFrill_Character_BP.BoaFrill_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-138":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Bigfoot/Yeti_Character_BP.Yeti_Character_BP_C",
+		"dinonametag": "Bigfoot",
+		"dinodescription": "Yeti",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Bigfoot/Yeti_Character_BP.Yeti_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-139":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Bigfoot/Bigfoot_Character_BP.Bigfoot_Character_BP_C",
+		"dinonametag": "Bigfoot",
+		"dinodescription": "Gigantopithecus",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Bigfoot/Bigfoot_Character_BP.Bigfoot_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-140":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Bee/Bee_Queen_Character_BP.Bee_Queen_Character_BP_C",
+		"dinonametag": "Bee",
+		"dinodescription": "Giant Queen Bee",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Bee/Bee_Queen_Character_BP.Bee_Queen_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-141":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Bee/Bee_Character_BP.Bee_Character_BP_C",
+		"dinonametag": "Bee",
+		"dinodescription": "Giant Bee",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Bee/Bee_Character_BP.Bee_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-142":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP_C",
+		"dinonametag": "Beaver",
+		"dinodescription": "Castoroides",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-143":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Bat/Bat_Character_BP.Bat_Character_BP_C",
+		"dinonametag": "Bat",
+		"dinodescription": "Onyc",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Bat/Bat_Character_BP.Bat_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-144":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Baryonyx/Baryonyx_Character_BP.Baryonyx_Character_BP_C",
+		"dinonametag": "Baryonyx",
+		"dinodescription": "Baryonyx",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Baryonyx/Baryonyx_Character_BP.Baryonyx_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-145":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Arthropluera/Arthro_Character_BP.Arthro_Character_BP_C",
+		"dinonametag": "Arthro",
+		"dinodescription": "Arthropluera",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Arthropluera/Arthro_Character_BP.Arthro_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-146":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP_C",
+		"dinonametag": "Argent",
+		"dinodescription": "Argentavis",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-147":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Archaeopteryx/Archa_Character_BP.Archa_Character_BP_C",
+		"dinonametag": "Archa",
+		"dinodescription": "Archaeopteryx",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Archaeopteryx/Archa_Character_BP.Archa_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-148":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Ant/FlyingAnt_Character_BP.FlyingAnt_Character_BP_C",
+		"dinonametag": "Ant",
+		"dinodescription": "Titanomyrma Soldier",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Ant/FlyingAnt_Character_BP.FlyingAnt_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-149":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Ant/Ant_Character_BP.Ant_Character_BP_C",
+		"dinonametag": "Ant",
+		"dinodescription": "Titanomyrma Drone",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Ant/Ant_Character_BP.Ant_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-150":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP_C",
+		"dinonametag": "Anky",
+		"dinodescription": "Ankylosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-151":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP_C",
+		"dinonametag": "Angler",
+		"dinodescription": "Anglerfish",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-152":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
+		"dinonametag": "Achatina",
+		"dinodescription": "Achatina",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-153":
+	{
+		"dinostringref": "/Game/Extinction/Dinos/Tank/Defender_Character_BP.Defender_Character_BP_C",
+		"dinonametag": "EndTank",
+		"dinodescription": "Defense Unit",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Extinction/Dinos/Tank/Defender_Character_BP.Defender_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-154":
+	{
+		"dinostringref": "/Game/Extinction/Dinos/Spindles/Spindles_Character_BP.Spindles_Character_BP_C",
+		"dinonametag": "Velonasaur",
+		"dinodescription": "Velonasaur",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Extinction/Dinos/Spindles/Spindles_Character_BP.Spindles_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-155":
+	{
+		"dinostringref": "/Game/Extinction/Dinos/Scout/Scout_Character_BP.Scout_Character_BP_C",
+		"dinonametag": "Scout",
+		"dinodescription": "Scout",
+		"hasegg": true,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Extinction/Dinos/Scout/Scout_Character_BP.Scout_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-156":
+	{
+		"dinostringref": "/Game/Extinction/Dinos/Owl/Owl_Character_BP.Owl_Character_BP_C",
+		"dinonametag": "Owl",
+		"dinodescription": "Snow Owl",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Extinction/Dinos/Owl/Owl_Character_BP.Owl_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-157":
+	{
+		"dinostringref": "/Game/Extinction/Dinos/Owl/Ghost_Owl_Character_BP.Ghost_Owl_Character_BP_C",
+		"dinonametag": "Owl",
+		"dinodescription": "Snow Owl Ghost",
+		"hasegg": true,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Extinction/Dinos/Owl/Ghost_Owl_Character_BP.Ghost_Owl_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-158":
+	{
+		"dinostringref": "/Game/Extinction/Dinos/Mek/Mek_Character_BP.Mek_Character_BP_C",
+		"dinonametag": "Mek",
+		"dinodescription": "Mek",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Extinction/Dinos/Mek/Mek_Character_BP.Mek_Character_BP_C",
+		"possiblestats": [ 0, 1, 7, 8, 9 ]
+	},
+	"BD-159":
+	{
+		"dinostringref": "/Game/Extinction/Dinos/Mek/MegaMek_Character_BP.MegaMek_Character_BP_C",
+		"dinonametag": "MegaMek",
+		"dinodescription": "Mega Mek",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Extinction/Dinos/Mek/MegaMek_Character_BP.MegaMek_Character_BP_C",
+		"possiblestats": [ 0, 1, 7, 8, 9 ]
+	},
+	"BD-160":
+	{
+		"dinostringref": "/Game/Extinction/Dinos/KingKaiju/KingKaiju_Character_BP.KingKaiju_Character_BP_C",
+		"dinonametag": "King Titan",
+		"dinodescription": "Gamma King Titan",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": true,
+		"softdinoclass": "/Game/Extinction/Dinos/KingKaiju/KingKaiju_Character_BP.KingKaiju_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-161":
+	{
+		"dinostringref": "/Game/Extinction/Dinos/IceKaiju/IceKaiju_Character_BP.IceKaiju_Character_BP_C",
+		"dinonametag": "IceTitan",
+		"dinodescription": "Ice Titan",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": true,
+		"softdinoclass": "/Game/Extinction/Dinos/IceKaiju/IceKaiju_Character_BP.IceKaiju_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-162":
+	{
+		"dinostringref": "/Game/Extinction/Dinos/IceJumper/IceJumper_Character_BP.IceJumper_Character_BP_C",
+		"dinonametag": "Managarmr",
+		"dinodescription": "Managarmr",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Extinction/Dinos/IceJumper/IceJumper_Character_BP.IceJumper_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-163":
+	{
+		"dinostringref": "/Game/Extinction/Dinos/GasBag/GasBags_Character_BP.GasBags_Character_BP_C",
+		"dinonametag": "GasBags",
+		"dinodescription": "Gasbags",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Extinction/Dinos/GasBag/GasBags_Character_BP.GasBags_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-164":
+	{
+		"dinostringref": "/Game/Extinction/Dinos/Gacha/Gacha_Character_BP.Gacha_Character_BP_C",
+		"dinonametag": "Gacha",
+		"dinodescription": "Gacha",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Extinction/Dinos/Gacha/Gacha_Character_BP.Gacha_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9, 11 ]
+	},
+	"BD-165":
+	{
+		"dinostringref": "/Game/Extinction/Dinos/ForestKaiju/ForestKaiju_Character_BP.ForestKaiju_Character_BP_C",
+		"dinonametag": "ForestTitan",
+		"dinodescription": "Forest Titan",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": true,
+		"softdinoclass": "/Game/Extinction/Dinos/ForestKaiju/ForestKaiju_Character_BP.ForestKaiju_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-166":
+	{
+		"dinostringref": "/Game/Extinction/Dinos/Enforcer/Enforcer_Character_BP.Enforcer_Character_BP_C",
+		"dinonametag": "Enforcer",
+		"dinodescription": "Enforcer",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Extinction/Dinos/Enforcer/Enforcer_Character_BP.Enforcer_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-167":
+	{
+		"dinostringref": "/Game/Extinction/Dinos/DesertKaiju/DesertKaiju_Character_BP.DesertKaiju_Character_BP_C",
+		"dinonametag": "DesertTitan",
+		"dinodescription": "Desert Titan",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": true,
+		"softdinoclass": "/Game/Extinction/Dinos/DesertKaiju/DesertKaiju_Character_BP.DesertKaiju_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-168":
+	{
+		"dinostringref": "/Game/EndGame/Dinos/Tank/EndTank_Character_BP.EndTank_Character_BP_C",
+		"dinonametag": "EndTank",
+		"dinodescription": "Defense Unit",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": true,
+		"softdinoclass": "/Game/EndGame/Dinos/Tank/EndTank_Character_BP.EndTank_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-169":
+	{
+		"dinostringref": "/Game/EndGame/Dinos/Drone/EndDrone_Character_BP.EndDrone_Character_BP_C",
+		"dinonametag": "EndDrone",
+		"dinodescription": "Attack Drone",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": true,
+		"softdinoclass": "/Game/EndGame/Dinos/Drone/EndDrone_Character_BP.EndDrone_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-170":
+	{
+		"dinostringref": "/Game/ASA/Dinos/YiLing/YiLing_Character_BP.YiLing_Character_BP_C",
+		"dinonametag": "YiLing",
+		"dinodescription": "Yi Ling",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ASA/Dinos/YiLing/YiLing_Character_BP.YiLing_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-171":
+	{
+		"dinostringref": "/Game/ASA/Dinos/Gigantoraptor/Gigantoraptor_Character_BP.Gigantoraptor_Character_BP_C",
+		"dinonametag": "Gigantoraptor",
+		"dinodescription": "Gigantoraptor",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ASA/Dinos/Gigantoraptor/Gigantoraptor_Character_BP.Gigantoraptor_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-172":
+	{
+		"dinostringref": "/Game/ASA/Dinos/FireLion/FireLion_Character_BP.FireLion_Character_BP_C",
+		"dinonametag": "FireLion",
+		"dinodescription": "Pyromane",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ASA/Dinos/FireLion/FireLion_Character_BP.FireLion_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-173":
+	{
+		"dinostringref": "/Game/ASA/Dinos/Fasolasuchus/Fasola_Character_BP.Fasola_Character_BP_C",
+		"dinonametag": "Fasola",
+		"dinodescription": "Fasolasuchus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ASA/Dinos/Fasolasuchus/Fasola_Character_BP.Fasola_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-174":
+	{
+		"dinostringref": "/Game/ASA/Dinos/Dreadnoughtus/Dreadnoughtus_Character_BP.Dreadnoughtus_Character_BP_C",
+		"dinonametag": "Dreadnoughtus",
+		"dinodescription": "Dreadnoughtus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ASA/Dinos/Dreadnoughtus/Dreadnoughtus_Character_BP.Dreadnoughtus_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-175":
+	{
+		"dinostringref": "/Game/ASA/Dinos/Deinosuchus/DeinosuchusASA_Character_BP.DeinosuchusASA_Character_BP_C",
+		"dinonametag": "DeinosuchusAA",
+		"dinodescription": "Deinosuchus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ASA/Dinos/Deinosuchus/DeinosuchusASA_Character_BP.DeinosuchusASA_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-176":
+	{
+		"dinostringref": "/Game/ASA/Dinos/DarkPegasus/DarkPegasus_Character_BP.DarkPegasus_Character_BP_C",
+		"dinonametag": "DarkPegasus",
+		"dinodescription": "Dreadmare",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ASA/Dinos/DarkPegasus/DarkPegasus_Character_BP.DarkPegasus_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-177":
+	{
+		"dinostringref": "/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP_C",
+		"dinonametag": "RockDrake",
+		"dinodescription": "Rock Drake",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-178":
+	{
+		"dinostringref": "/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Male_Tamed.Xenomorph_Character_BP_Male_Tamed_C",
+		"dinonametag": "Xenomorph",
+		"dinodescription": "Reaper King",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Male_Tamed.Xenomorph_Character_BP_Male_Tamed_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-179":
+	{
+		"dinostringref": "/Game/Aberration/Dinos/MoleRat/MoleRat_Character_BP.MoleRat_Character_BP_C",
+		"dinonametag": "MoleRat",
+		"dinodescription": "Roll Rat",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Aberration/Dinos/MoleRat/MoleRat_Character_BP.MoleRat_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-180":
+	{
+		"dinostringref": "/Game/Aberration/Dinos/LanternPug/LanternPug_Character_BP.LanternPug_Character_BP_C",
+		"dinonametag": "Pug",
+		"dinodescription": "Bulbdog",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Aberration/Dinos/LanternPug/LanternPug_Character_BP.LanternPug_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-181":
+	{
+		"dinostringref": "/Game/Aberration/Dinos/LanternPug/Ghost_LanternPug_Character_BP.Ghost_LanternPug_Character_BP_C",
+		"dinonametag": "Pug",
+		"dinodescription": "Bulbdog Ghost",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Aberration/Dinos/LanternPug/Ghost_LanternPug_Character_BP.Ghost_LanternPug_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-182":
+	{
+		"dinostringref": "/Game/Aberration/Dinos/LanternLizard/LanternLizard_Character_BP.LanternLizard_Character_BP_C",
+		"dinonametag": "Lantern Lizard",
+		"dinodescription": "Glowtail",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Aberration/Dinos/LanternLizard/LanternLizard_Character_BP.LanternLizard_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-183":
+	{
+		"dinostringref": "/Game/Aberration/Dinos/LanternGoat/LanternGoat_Character_BP.LanternGoat_Character_BP_C",
+		"dinonametag": "Lantern Goat",
+		"dinodescription": "Shinehorn",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Aberration/Dinos/LanternGoat/LanternGoat_Character_BP.LanternGoat_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-184":
+	{
+		"dinostringref": "/Game/Aberration/Dinos/LanternBird/LanternBird_Character_BP.LanternBird_Character_BP_C",
+		"dinonametag": "Lantern Bird",
+		"dinodescription": "Featherlight",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Aberration/Dinos/LanternBird/LanternBird_Character_BP.LanternBird_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-185":
+	{
+		"dinostringref": "/Game/Aberration/Dinos/Crab/MegaCrab_Character_BP.MegaCrab_Character_BP_C",
+		"dinonametag": "CaveCrab",
+		"dinodescription": "Alpha Karkinos",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": true,
+		"isboss": false,
+		"softdinoclass": "/Game/Aberration/Dinos/Crab/MegaCrab_Character_BP.MegaCrab_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-186":
+	{
+		"dinostringref": "/Game/Aberration/Dinos/Crab/Crab_Character_BP.Crab_Character_BP_C",
+		"dinonametag": "CaveCrab",
+		"dinodescription": "Karkinos",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Aberration/Dinos/Crab/Crab_Character_BP.Crab_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-187":
+	{
+		"dinostringref": "/Game/Aberration/Dinos/ChupaCabra/ChupaCabra_Character_BP.ChupaCabra_Character_BP_C",
+		"dinonametag": "Chupacabra",
+		"dinodescription": "Nameless",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Aberration/Dinos/ChupaCabra/ChupaCabra_Character_BP.ChupaCabra_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-188":
+	{
+		"dinostringref": "/Game/Aberration/Dinos/CaveWolf/CaveWolf_Character_BP.CaveWolf_Character_BP_C",
+		"dinonametag": "CaveWolf",
+		"dinodescription": "Ravager",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Aberration/Dinos/CaveWolf/CaveWolf_Character_BP.CaveWolf_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-189":
+	{
+		"dinostringref": "/Game/Aberration/Dinos/Basilisk/MegaBasilisk_Character_BP.MegaBasilisk_Character_BP_C",
+		"dinonametag": "Basilisk",
+		"dinodescription": "Alpha Basilisk",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": true,
+		"isboss": false,
+		"softdinoclass": "/Game/Aberration/Dinos/Basilisk/MegaBasilisk_Character_BP.MegaBasilisk_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-190":
+	{
+		"dinostringref": "/Game/Aberration/Dinos/Basilisk/Ghost_Basilisk_Character_BP.Ghost_Basilisk_Character_BP_C",
+		"dinonametag": "Basilisk",
+		"dinodescription": "Basilisk Ghost",
+		"hasegg": true,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Aberration/Dinos/Basilisk/Ghost_Basilisk_Character_BP.Ghost_Basilisk_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-191":
+	{
+		"dinostringref": "/Game/Aberration/Dinos/Basilisk/Basilisk_Character_BP.Basilisk_Character_BP_C",
+		"dinonametag": "Basilisk",
+		"dinodescription": "Basilisk",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Aberration/Dinos/Basilisk/Basilisk_Character_BP.Basilisk_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-192":
+	{
+		"dinostringref": "/Game/Aberration/Boss/Rockwell/Rockwell_Character_BP.Rockwell_Character_BP_C",
+		"dinonametag": "Rockwell",
+		"dinodescription": "Rockwell",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": true,
+		"softdinoclass": "/Game/Aberration/Boss/Rockwell/Rockwell_Character_BP.Rockwell_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-193":
+	{
+		"dinostringref": "/Game/PrimalEarth/Dinos/Raptor/Uberraptor/Deinonychus_Character_BP.Deinonychus_Character_BP_C",
+		"dinonametag": "Deinonychus",
+		"dinodescription": "Deinonychus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/PrimalEarth/Dinos/Raptor/Uberraptor/Deinonychus_Character_BP.Deinonychus_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-194":
+	{
+		"dinostringref": "/Game/Packs/Wasteland/Dinos/Doggo/Doggo_Character_BP.Doggo_Character_BP_C",
+		"dinonametag": "Armadoggo",
+		"dinodescription": "Armadoggo",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Packs/Wasteland/Dinos/Doggo/Doggo_Character_BP.Doggo_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-195":
+	{
+		"dinostringref": "/Game/Packs/Steampunk/Dinos/Zeppelin/Zeppelin_Character_BP.Zeppelin_Character_BP_C",
+		"dinonametag": "Zeppelin",
+		"dinodescription": "Zeppelin",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Packs/Steampunk/Dinos/Zeppelin/Zeppelin_Character_BP.Zeppelin_Character_BP_C",
+		"possiblestats": [ 0, 7 ]
+	},
+	"BD-196":
+	{
+		"dinostringref": "/Game/Packs/Steampunk/Dinos/JumpingSpider/JumpingSpider_Character_BP.JumpingSpider_Character_BP_C",
+		"dinonametag": "JumpingSpider",
+		"dinodescription": "Cosmo",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Packs/Steampunk/Dinos/JumpingSpider/JumpingSpider_Character_BP.JumpingSpider_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-197":
+	{
+		"dinostringref": "/Game/Packs/Frontier/Dinos/Oasisaur/Oasisaur_Character_BP.Oasisaur_Character_BP_C",
+		"dinonametag": "Oasisaur",
+		"dinodescription": "Oasisaur",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Packs/Frontier/Dinos/Oasisaur/Oasisaur_Character_BP.Oasisaur_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 9 ]
+	},
+	"BD-198":
+	{
+		"dinostringref": "/Game/EndGame/Dinos/Endboss/EndbossSpider/EndBossSpiderL_Character_BP.EndBossSpiderL_Character_BP_C",
+		"dinonametag": "Uberspider",
+		"dinodescription": "Broodmother Guardian",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": true,
+		"softdinoclass": "/Game/EndGame/Dinos/Endboss/EndbossSpider/EndBossSpiderL_Character_BP.EndBossSpiderL_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-199":
+	{
+		"dinostringref": "/Game/EndGame/Dinos/Endboss/EndbossGorilla/EndBossGorilla_Character_BP.EndBossGorilla_Character_BP_C",
+		"dinonametag": "Megapithecus",
+		"dinodescription": "Megapithecus Guardian",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": true,
+		"softdinoclass": "/Game/EndGame/Dinos/Endboss/EndbossGorilla/EndBossGorilla_Character_BP.EndBossGorilla_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-200":
+	{
+		"dinostringref": "/Game/EndGame/Dinos/Endboss/EndbossDragon/EndBossDragon_Character_BP.EndBossDragon_Character_BP_C",
+		"dinonametag": "Dragon",
+		"dinodescription": "Dragon Guardian",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": true,
+		"softdinoclass": "/Game/EndGame/Dinos/Endboss/EndbossDragon/EndBossDragon_Character_BP.EndBossDragon_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-201":
+	{
+		"dinostringref": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire_C",
+		"dinonametag": "Wyvern",
+		"dinodescription": "Fire Wyvern",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-202":
+	{
+		"dinostringref": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning_C",
+		"dinonametag": "Wyvern",
+		"dinodescription": "Lightning Wyvern",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-203":
+	{
+		"dinostringref": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Poison.Wyvern_Character_BP_Poison_C",
+		"dinonametag": "Wyvern",
+		"dinodescription": "Poison Wyvern",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Poison.Wyvern_Character_BP_Poison_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-204":
+	{
+		"dinostringref": "/SDinoVariants/S-Rhynio/S-Rhynio_Character_BP.S-Rhynio_Character_BP_C",
+		"dinonametag": "Rhynio",
+		"dinodescription": "S-Rhyniognatha",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Rhynio/S-Rhynio_Character_BP.S-Rhynio_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-205":
+	{
+		"dinostringref": "/SDinoVariants/S-Spinosaurus/S-Spino_Character_BP.S-Spino_Character_BP_C",
+		"dinonametag": "Spino",
+		"dinodescription": "S-Spino",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Spinosaurus/S-Spino_Character_BP.S-Spino_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-206":
+	{
+		"dinostringref": "/SDinoVariants/S-Rex/S-Rex_Character_BP.S-Rex_Character_BP_C",
+		"dinonametag": "Rex",
+		"dinodescription": "S-Rex",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Rex/S-Rex_Character_BP.S-Rex_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-207":
+	{
+		"dinostringref": "/SDinoVariants/S-Cerato/S-Ceratosaurus_Character_BP_ASA.S-Ceratosaurus_Character_BP_ASA_C",
+		"dinonametag": "CeratosaurusAA",
+		"dinodescription": "S-Ceratosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Cerato/S-Ceratosaurus_Character_BP_ASA.S-Ceratosaurus_Character_BP_ASA_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-208":
+	{
+		"dinostringref": "/SDinoVariants/S-Allosaurus/S-Allo_Character_BP.S-Allo_Character_BP_C",
+		"dinonametag": "Allo",
+		"dinodescription": "S-Allosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Allosaurus/S-Allo_Character_BP.S-Allo_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-209":
+	{
+		"dinostringref": "/SDinoVariants/S-Ankylosaurus/S-Ankylo_Character_BP.S-Ankylo_Character_BP_C",
+		"dinonametag": "Anky",
+		"dinodescription": "S-Ankylosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Ankylosaurus/S-Ankylo_Character_BP.S-Ankylo_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-210":
+	{
+		"dinostringref": "/SDinoVariants/S-Basilosaurus/S-Basilosaurus_Character_BP.S-Basilosaurus_Character_BP_C",
+		"dinonametag": "Basilosaurus",
+		"dinodescription": "S-Basilosaurus",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Basilosaurus/S-Basilosaurus_Character_BP.S-Basilosaurus_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-211":
+	{
+		"dinostringref": "/SDinoVariants/S-Carcha/S-Carcha_Character_BP.S-Carcha_Character_BP_C",
+		"dinonametag": "Carcha",
+		"dinodescription": "S-Carcharodontosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Carcha/S-Carcha_Character_BP.S-Carcha_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-212":
+	{
+		"dinostringref": "/SDinoVariants/S-Cat/S-Cat_Character_BP.S-Cat_Character_BP_C",
+		"dinonametag": "Cat",
+		"dinodescription": "S-Cat",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Cat/S-Cat_Character_BP.S-Cat_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-213":
+	{
+		"dinostringref": "/SDinoVariants/S-Daeodon/S-Daeodon_Character_BP.S-Daeodon_Character_BP_C",
+		"dinonametag": "Daeodon",
+		"dinodescription": "S-Daeodon",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Daeodon/S-Daeodon_Character_BP.S-Daeodon_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-214":
+	{
+		"dinostringref": "/SDinoVariants/S-Deinonychus/S-Deinonychus_Character_BP.S-Deinonychus_Character_BP_C",
+		"dinonametag": "Deinonychus",
+		"dinodescription": "S-Deinonychus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Deinonychus/S-Deinonychus_Character_BP.S-Deinonychus_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-215":
+	{
+		"dinostringref": "/SDinoVariants/S-Deinosuchus/S-DeinosuchusASA_Character_BP.S-DeinosuchusASA_Character_BP_C",
+		"dinonametag": "DeinosuchusAA",
+		"dinodescription": "S-Deinosuchus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Deinosuchus/S-DeinosuchusASA_Character_BP.S-DeinosuchusASA_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-216":
+	{
+		"dinostringref": "/SDinoVariants/S-Direbear/S-Direbear_Character_BP.S-Direbear_Character_BP_C",
+		"dinonametag": "Direbear",
+		"dinodescription": "S-Dire Bear",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Direbear/S-Direbear_Character_BP.S-Direbear_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-217":
+	{
+		"dinostringref": "/SDinoVariants/S-Doedicurus/S-Doed_Character_BP.S-Doed_Character_BP_C",
+		"dinonametag": "Doed",
+		"dinodescription": "S-Doedicurus",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Doedicurus/S-Doed_Character_BP.S-Doed_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-218":
+	{
+		"dinostringref": "/SDinoVariants/S-Unicorn/S-Equus_Character_BP_Unicorn.S-Equus_Character_BP_Unicorn_C",
+		"dinonametag": "Equus",
+		"dinodescription": "S-Unicorn",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Unicorn/S-Equus_Character_BP_Unicorn.S-Equus_Character_BP_Unicorn_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-219":
+	{
+		"dinostringref": "/SDinoVariants/S-Fasolasuchus/S-Fasola_Character_BP.S-Fasola_Character_BP_C",
+		"dinonametag": "Fasola",
+		"dinodescription": "S-Fasolasuchus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Fasolasuchus/S-Fasola_Character_BP.S-Fasola_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-220":
+	{
+		"dinostringref": "/SDinoVariants/S-Fenrir/S-Fenrir_Character_BP.S-Fenrir_Character_BP_C",
+		"dinonametag": "Fenrir Wolf",
+		"dinodescription": "S-Fenrir",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Fenrir/S-Fenrir_Character_BP.S-Fenrir_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-221":
+	{
+		"dinostringref": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Fire.S-Wyvern_Character_BP_Fire_C",
+		"dinonametag": "Wyvern",
+		"dinodescription": "S-Fire Wyvern",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Fire.S-Wyvern_Character_BP_Fire_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-222":
+	{
+		"dinostringref": "/SDinoVariants/S-Griffin/S-Griffin_Character_BP.S-Griffin_Character_BP_C",
+		"dinonametag": "Griffin",
+		"dinodescription": "S-Griffin",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Griffin/S-Griffin_Character_BP.S-Griffin_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-223":
+	{
+		"dinostringref": "/SDinoVariants/S-IceWyvern/S-Wyvern_Character_BP_Ice.S-Wyvern_Character_BP_Ice_C",
+		"dinonametag": "Wyvern",
+		"dinodescription": "S-Ice Wyvern",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-IceWyvern/S-Wyvern_Character_BP_Ice.S-Wyvern_Character_BP_Ice_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-224":
+	{
+		"dinostringref": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Lightning.S-Wyvern_Character_BP_Lightning_C",
+		"dinonametag": "Wyvern",
+		"dinodescription": "S-Lightning Wyvern",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Lightning.S-Wyvern_Character_BP_Lightning_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-225":
+	{
+		"dinostringref": "/SDinoVariants/S-Maeguana/S-Maelizard_Character_BP.S-Maelizard_Character_BP_C",
+		"dinonametag": "Maelizard",
+		"dinodescription": "S-Maeguana",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Maeguana/S-Maelizard_Character_BP.S-Maelizard_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-226":
+	{
+		"dinostringref": "/SDinoVariants/S-Maewing/S-MilkGlider_Character_BP.S-MilkGlider_Character_BP_C",
+		"dinonametag": "Maewing",
+		"dinodescription": "S-Maewing",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Maewing/S-MilkGlider_Character_BP.S-MilkGlider_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-227":
+	{
+		"dinostringref": "/SDinoVariants/S-Mantis/S-Mantis_Character_BP.S-Mantis_Character_BP_C",
+		"dinonametag": "Mantis",
+		"dinodescription": "S-Mantis",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Mantis/S-Mantis_Character_BP.S-Mantis_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-228":
+	{
+		"dinostringref": "/SDinoVariants/S-Megalosaurus/S-Megalosaurus_Character_BP.S-Megalosaurus_Character_BP_C",
+		"dinonametag": "Megalosaurus",
+		"dinodescription": "S-Megalosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Megalosaurus/S-Megalosaurus_Character_BP.S-Megalosaurus_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-229":
+	{
+		"dinostringref": "/SDinoVariants/S-Mosa/S-Mosa_Character_BP.S-Mosa_Character_BP_C",
+		"dinonametag": "Mosasaur",
+		"dinodescription": "S-Mosasaurus",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Mosa/S-Mosa_Character_BP.S-Mosa_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-230":
+	{
+		"dinostringref": "/SDinoVariants/S-Otter/S-Otter_Character_BP.S-Otter_Character_BP_C",
+		"dinonametag": "Otter",
+		"dinodescription": "S-Otter",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Otter/S-Otter_Character_BP.S-Otter_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-231":
+	{
+		"dinostringref": "/SDinoVariants/S-Plesiosaur/S-Plesiosaur_Character_BP.S-Plesiosaur_Character_BP_C",
+		"dinonametag": "Plesiosaur",
+		"dinodescription": "S-Plesiosaur",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Plesiosaur/S-Plesiosaur_Character_BP.S-Plesiosaur_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-232":
+	{
+		"dinostringref": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Poison.S-Wyvern_Character_BP_Poison_C",
+		"dinonametag": "Wyvern",
+		"dinodescription": "S-Poison Wyvern",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Poison.S-Wyvern_Character_BP_Poison_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-233":
+	{
+		"dinostringref": "/SDinoVariants/S-Reaper/S-Xenomorph_Character_BP_Male_Tamed.S-Xenomorph_Character_BP_Male_Tamed_C",
+		"dinonametag": "Xenomorph",
+		"dinodescription": "S-Reaper King",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Reaper/S-Xenomorph_Character_BP_Male_Tamed.S-Xenomorph_Character_BP_Male_Tamed_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-234":
+	{
+		"dinostringref": "/SDinoVariants/S-Rockdrake/S-RockDrake_Character_BP.S-RockDrake_Character_BP_C",
+		"dinonametag": "RockDrake",
+		"dinodescription": "S-Rock Drake",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Rockdrake/S-RockDrake_Character_BP.S-RockDrake_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-235":
+	{
+		"dinostringref": "/SDinoVariants/S-Shinehorn/S-LanternGoat_Character_BP.S-LanternGoat_Character_BP_C",
+		"dinonametag": "Lantern Goat",
+		"dinodescription": "S-Shinehorn",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Shinehorn/S-LanternGoat_Character_BP.S-LanternGoat_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-236":
+	{
+		"dinostringref": "/SDinoVariants/S-SnowOwl/S-Owl_Character_BP.S-Owl_Character_BP_C",
+		"dinonametag": "Owl",
+		"dinodescription": "S-Snow Owl",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-SnowOwl/S-Owl_Character_BP.S-Owl_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-237":
+	{
+		"dinostringref": "/SDinoVariants/S-Therizinosaur/S-Therizino_Character_BP.S-Therizino_Character_BP_C",
+		"dinonametag": "Therizinosaurus",
+		"dinodescription": "S-Therizinosaur",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Therizinosaur/S-Therizino_Character_BP.S-Therizino_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-238":
+	{
+		"dinostringref": "/SDinoVariants/S-Thylacoleo/S-Thylacoleo_Character_BP.S-Thylacoleo_Character_BP_C",
+		"dinonametag": "Thylacoleo",
+		"dinodescription": "S-Thylacoleo",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Thylacoleo/S-Thylacoleo_Character_BP.S-Thylacoleo_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-239":
+	{
+		"dinostringref": "/SDinoVariants/S-Trike/S-Trike_Character_BP.S-Trike_Character_BP_C",
+		"dinonametag": "Trike",
+		"dinodescription": "S-Triceratops",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Trike/S-Trike_Character_BP.S-Trike_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-240":
+	{
+		"dinostringref": "/SDinoVariants/S-Velonasaur/S-Spindles_Character_BP.S-Spindles_Character_BP_C",
+		"dinonametag": "Velonasaur",
+		"dinodescription": "S-Velonasaur",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Velonasaur/S-Spindles_Character_BP.S-Spindles_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-241":
+	{
+		"dinostringref": "/SDinoVariants/S-Megaraptor/S-Megaraptor_Character_BP.S-Megaraptor_Character_BP_C",
+		"dinonametag": "Megaraptor",
+		"dinodescription": "S-Megaraptor",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Megaraptor/S-Megaraptor_Character_BP.S-Megaraptor_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-242":
+	{
+		"dinostringref": "/SDinoVariants/S-Desmodus/S-Desmodus_Character_BP.S-Desmodus_Character_BP_C",
+		"dinonametag": "Desmodus",
+		"dinodescription": "S-Desmodus",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Desmodus/S-Desmodus_Character_BP.S-Desmodus_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-243":
+	{
+		"dinostringref": "/SDinoVariants/S-Andrewsarchus/S-Andrewsarchus_Character_BP.S-Andrewsarchus_Character_BP_C",
+		"dinonametag": "Andrewsarchus",
+		"dinodescription": "S-Andrewsarchus",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Andrewsarchus/S-Andrewsarchus_Character_BP.S-Andrewsarchus_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-244":
+	{
+		"dinostringref": "/SDinoVariants/S-Direwolf/S-Direwolf_Character_BP.S-Direwolf_Character_BP_C",
+		"dinonametag": "Direwolf",
+		"dinodescription": "S-Direwolf",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Direwolf/S-Direwolf_Character_BP.S-Direwolf_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-245":
+	{
+		"dinostringref": "/Game/ASA/Dinos/SpiritBear/SpiritBear_Character_BP.SpiritBear_Character_BP_C",
+		"dinonametag": "SpiritBear",
+		"dinodescription": "Elderclaw",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ASA/Dinos/SpiritBear/SpiritBear_Character_BP.SpiritBear_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-246":
+	{
+		"dinostringref": "/Game/ASA/Dinos/IceGolem/IceGolem_Character_BP.IceGolem_Character_BP_C",
+		"dinonametag": "RockElemental",
+		"dinodescription": "Eiselementar",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ASA/Dinos/IceGolem/IceGolem_Character_BP.IceGolem_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-247":
+	{
+		"dinostringref": "/Game/ASA/Dinos/ChalkGolem/ChalkGolem_Character_BP.ChalkGolem_Character_BP_C",
+		"dinonametag": "RockElemental",
+		"dinodescription": "Kreideelementar",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ASA/Dinos/ChalkGolem/ChalkGolem_Character_BP.ChalkGolem_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-248":
+	{
+		"dinostringref": "/skyshroud_drakara/Dinos/Drakara/Drakara_Character_BP.Drakara_Character_BP_C",
+		"dinonametag": "Drakara",
+		"dinodescription": "Drakara",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/skyshroud_drakara/Dinos/Drakara/Drakara_Character_BP.Drakara_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-249":
+	{
+		"dinostringref": "/skyshroud_drakara/Dinos/Drakara/Drakara_Character_BP_Arctic.Drakara_Character_BP_Arctic_C",
+		"dinonametag": "Drakara",
+		"dinodescription": "Arctic Drakara",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/skyshroud_drakara/Dinos/Drakara/Drakara_Character_BP_Arctic.Drakara_Character_BP_Arctic_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-250":
+	{
+		"dinostringref": "/skyshroud_drakara/Dinos/Drakara/Drakara_Character_BP_Bloodfang.Drakara_Character_BP_Bloodfang_C",
+		"dinonametag": "Drakara",
+		"dinodescription": "Bloodfang Drakara",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/skyshroud_drakara/Dinos/Drakara/Drakara_Character_BP_Bloodfang.Drakara_Character_BP_Bloodfang_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-251":
+	{
+		"dinostringref": "/skyshroud_drakara/Dinos/Drakara/Drakara_Character_BP_Aberrant.Drakara_Character_BP_Aberrant_C",
+		"dinonametag": "Drakara",
+		"dinodescription": "Aberrant Drakara",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/skyshroud_drakara/Dinos/Drakara/Drakara_Character_BP_Aberrant.Drakara_Character_BP_Aberrant_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-252":
+	{
+		"dinostringref": "/skyshroud_drakara/Dinos/Drakara/Drakara_Character_BP_Dwarfs.Drakara_Character_BP_Dwarfs_C",
+		"dinonametag": "Drakara",
+		"dinodescription": "Dwarf Drakara",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/skyshroud_drakara/Dinos/Drakara/Drakara_Character_BP_Dwarfs.Drakara_Character_BP_Dwarfs_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-253":
+	{
+		"dinostringref": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_ZombiePoison.Wyvern_Character_BP_ZombiePoison_C",
+		"dinonametag": "Wyvern",
+		"dinodescription": "Zombie Poison Wyvern",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_ZombiePoison.Wyvern_Character_BP_ZombiePoison_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-254":
+	{
+		"dinostringref": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_ZombieLightning.Wyvern_Character_BP_ZombieLightning_C",
+		"dinonametag": "Wyvern",
+		"dinodescription": "Zombie Lightning Wyvern",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_ZombieLightning.Wyvern_Character_BP_ZombieLightning_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-255":
+	{
+		"dinostringref": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_ZombieFire.Wyvern_Character_BP_ZombieFire_C",
+		"dinonametag": "Wyvern",
+		"dinodescription": "Zombie Fire Wyvern",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_ZombieFire.Wyvern_Character_BP_ZombieFire_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-256":
+	{
+		"dinostringref": "/Game/ASA/Dinos/Megaraptor/ValMegaraptor_Character_BP.ValMegaraptor_Character_BP_C",
+		"dinonametag": "Megaraptor",
+		"dinodescription": "Megaraptor",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ASA/Dinos/Megaraptor/ValMegaraptor_Character_BP.ValMegaraptor_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-257":
+	{
+		"dinostringref": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Winter.ShoulderDragon_Character_BP_Winter_C",
+		"dinonametag": "ShoulderDragon",
+		"dinodescription": "Winterdrachenling",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Winter.ShoulderDragon_Character_BP_Winter_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-258":
+	{
+		"dinostringref": "/Game/ASA/Dinos/Archelon/Dinos/Archelon_Character_BP_ASA.Archelon_Character_BP_ASA_C",
+		"dinonametag": "ArchelonAA",
+		"dinodescription": "Archelon",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ASA/Dinos/Archelon/Dinos/Archelon_Character_BP_ASA.Archelon_Character_BP_ASA_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-259":
+	{
+		"dinostringref": "/Game/ASA/Dinos/Ceratosaurus/Dinos/Ceratosaurus_Character_BP_ASA.Ceratosaurus_Character_BP_ASA_C",
+		"dinonametag": "CeratosaurusAA",
+		"dinodescription": "Ceratosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ASA/Dinos/Ceratosaurus/Dinos/Ceratosaurus_Character_BP_ASA.Ceratosaurus_Character_BP_ASA_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-260":
+	{
+		"dinostringref": "/Game/ASA/Dinos/Deinotherium/Dinos/DeinotheriumASA_Character_BP.DeinotheriumASA_Character_BP_C",
+		"dinonametag": "DeinotheriumASA",
+		"dinodescription": "Deinotherium",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ASA/Dinos/Deinotherium/Dinos/DeinotheriumASA_Character_BP.DeinotheriumASA_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-261":
+	{
+		"dinostringref": "/Game/LostColony/Dinos/SnowMonster/SnowMonster_Character_BP.SnowMonster_Character_BP_C",
+		"dinonametag": "SnowMonster",
+		"dinodescription": "Ossidon",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/LostColony/Dinos/SnowMonster/SnowMonster_Character_BP.SnowMonster_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-262":
+	{
+		"dinostringref": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Autumn.ShoulderDragon_Character_BP_Autumn_C",
+		"dinonametag": "ShoulderDragon",
+		"dinodescription": "Autumn Drakeling",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Autumn.ShoulderDragon_Character_BP_Autumn_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-263":
+	{
+		"dinostringref": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Summer.ShoulderDragon_Character_BP_Summer_C",
+		"dinonametag": "ShoulderDragon",
+		"dinodescription": "Summer Drakeling",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Summer.ShoulderDragon_Character_BP_Summer_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-264":
+	{
+		"dinostringref": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Spring.ShoulderDragon_Character_BP_Spring_C",
+		"dinonametag": "ShoulderDragon",
+		"dinodescription": "Spring Drakeling",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Spring.ShoulderDragon_Character_BP_Spring_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-265":
+	{
+		"dinostringref": "/Game/ASA/Dinos/IceWyvern/Wyvern_Character_BP_Ice.Wyvern_Character_BP_Ice_C",
+		"dinonametag": "Wyvern",
+		"dinodescription": "Ice Wyvern",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ASA/Dinos/IceWyvern/Wyvern_Character_BP_Ice.Wyvern_Character_BP_Ice_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-266":
+	{
+		"dinostringref": "/Game/ASA/Dinos/Xiphactinus/Dinos/Xiphactinus_Character_BP_ASA.Xiphactinus_Character_BP_ASA_C",
+		"dinonametag": "XiphactinusAA",
+		"dinodescription": "Xiphactinus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ASA/Dinos/Xiphactinus/Dinos/Xiphactinus_Character_BP_ASA.Xiphactinus_Character_BP_ASA_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-267":
+	{
+		"dinostringref": "/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP_C",
+		"dinonametag": "Bison",
+		"dinodescription": "Bison",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-268":
+	{
+		"dinostringref": "/SDinoVariants/S-Reaper/S-Xenomorph_Character_BP_Female.S-Xenomorph_Character_BP_Female_C",
+		"dinonametag": "Xenomorph",
+		"dinodescription": "S-Reaper Queen",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Reaper/S-Xenomorph_Character_BP_Female.S-Xenomorph_Character_BP_Female_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-269":
+	{
+		"dinostringref": "/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP_C",
+		"dinonametag": "Young Ice Fox",
+		"dinodescription": "Veilwyn",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-270":
+	{
+		"dinostringref": "/AABrachiosaurus/Dinos/BrachiosaurusAA_Character_BP.BrachiosaurusAA_Character_BP_C",
+		"dinonametag": "BrachiosaurusAA",
+		"dinodescription": "Brachiosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/AABrachiosaurus/Dinos/BrachiosaurusAA_Character_BP.BrachiosaurusAA_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-271":
+	{
+		"dinostringref": "/Game/Fjordur/Dinos/Desmodus/Desmodus_Character_BP.Desmodus_Character_BP_C",
+		"dinonametag": "Desmodus",
+		"dinodescription": "Desmodus",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Fjordur/Dinos/Desmodus/Desmodus_Character_BP.Desmodus_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-272":
+	{
+		"dinostringref": "/Game/ASA/Dinos/Cryolophosaurus/Cryolophosaurus_Character_BP.Cryolophosaurus_Character_BP_C",
+		"dinonametag": "Cryolophosaurus",
+		"dinodescription": "Cryolophosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ASA/Dinos/Cryolophosaurus/Cryolophosaurus_Character_BP.Cryolophosaurus_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-273":
+	{
+		"dinostringref": "/Game/LostColony/Dinos/AngelFox/AngelFox_Character_BP.AngelFox_Character_BP_C",
+		"dinonametag": "AngelFox",
+		"dinodescription": "Solwyn",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/LostColony/Dinos/AngelFox/AngelFox_Character_BP.AngelFox_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-274":
+	{
+		"dinostringref": "/Game/LostColony/Dinos/DevilFox/DevilFox_Character_BP.DevilFox_Character_BP_C",
+		"dinonametag": "DevilFox",
+		"dinodescription": "Malwyn",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/LostColony/Dinos/DevilFox/DevilFox_Character_BP.DevilFox_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-275":
+	{
+		"dinostringref": "/Game/LostColony/Dinos/SnowDragon/SnowDragon_Character_BP.SnowDragon_Character_BP_C",
+		"dinonametag": "SnowDragon",
+		"dinodescription": "Aureliax",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/LostColony/Dinos/SnowDragon/SnowDragon_Character_BP.SnowDragon_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-276":
+	{
+		"dinostringref": "/Game/LostColony/Dinos/LostChargePet/LostCharge_LanternPet_Char_BP.LostCharge_LanternPet_Char_BP_C",
+		"dinonametag": "LostChargePet",
+		"dinodescription": "Gloon",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/LostColony/Dinos/LostChargePet/LostCharge_LanternPet_Char_BP.LostCharge_LanternPet_Char_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-277":
+	{
+		"dinostringref": "/Game/LostColony/Dinos/BossBat/BossBat_Character_BP.BossBat_Character_BP_C",
+		"dinonametag": "BossBat",
+		"dinodescription": "Gigadesmodus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/LostColony/Dinos/BossBat/BossBat_Character_BP.BossBat_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-278":
+	{
+		"dinostringref": "/AstraeosCreatures/Minotaur/Minotaur_Character_BP.Minotaur_Character_BP_C",
+		"dinonametag": "Minotaur",
+		"dinodescription": "Minotaur",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/AstraeosCreatures/Minotaur/Minotaur_Character_BP.Minotaur_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-279":
+	{
+		"dinostringref": "/AstraeosCreatures/Seahorse/Seahorse_Character_BP.Seahorse_Character_BP_C",
+		"dinonametag": "Seahorse",
+		"dinodescription": "Seahorse",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/AstraeosCreatures/Seahorse/Seahorse_Character_BP.Seahorse_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-280":
+	{
+		"dinostringref": "/AstraeosCreatures/Cyclops/Cyclops_Character_BP.Cyclops_Character_BP_C",
+		"dinonametag": "Cyclops",
+		"dinodescription": "Cyclops",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/AstraeosCreatures/Cyclops/Cyclops_Character_BP.Cyclops_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-281":
+	{
+		"dinostringref": "/AAAcro/Dinos/AcrocanthosaurusAA_Character_BP.AcrocanthosaurusAA_Character_BP_C",
+		"dinonametag": "AcroAA",
+		"dinodescription": "Acrocanthosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/AAAcro/Dinos/AcrocanthosaurusAA_Character_BP.AcrocanthosaurusAA_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-282":
+	{
+		"dinostringref": "/Game/LostColony/Dinos/SnowMonster/MegaSnowMonster_Character_BP.MegaSnowMonster_Character_BP_C",
+		"dinonametag": "SnowMonster",
+		"dinodescription": "Alpha Ossidon",
+		"hasegg": false,
+		"tameable": false,
+		"isalpha": true,
+		"isboss": false,
+		"softdinoclass": "/Game/LostColony/Dinos/SnowMonster/MegaSnowMonster_Character_BP.MegaSnowMonster_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
 	}
 }
