@@ -1,26 +1,11 @@
 {
-	"Pdx-3":
+	"Pdx-0":
 	{
-		"GS-3":
+		"GS-0":
 		{
-			"tag": "Idino_Event",
+			"tag": "Idino_Normal",
 			"spawnoffset": "0,0,100,",
-			"descriptname": "I-Dino Event",
-			"description": "",
-			"statbase": "2,75,250,1,",
-			"reducepointschoosen": [
-				"1,15,"
-			],
-			"allowgender": true
-		}
-	},
-	"Pdx-2":
-	{
-		"GS-2":
-		{
-			"tag": "Idino_Wild",
-			"spawnoffset": "0,0,100,",
-			"descriptname": "I-Dino Wildes",
+			"descriptname": "I-Dino Normal",
 			"description": "",
 			"statbase": "2,75,250,1,",
 			"reducepointschoosen": [
@@ -44,13 +29,28 @@
 			"allowgender": true
 		}
 	},
-	"Pdx-0":
+	"Pdx-2":
 	{
-		"GS-0":
+		"GS-2":
 		{
-			"tag": "Idino_Normal",
+			"tag": "Idino_Wild",
 			"spawnoffset": "0,0,100,",
-			"descriptname": "I-Dino Normal",
+			"descriptname": "I-Dino Wildes",
+			"description": "",
+			"statbase": "2,75,250,1,",
+			"reducepointschoosen": [
+				"1,15,"
+			],
+			"allowgender": true
+		}
+	},
+	"Pdx-3":
+	{
+		"GS-3":
+		{
+			"tag": "Idino_Event",
+			"spawnoffset": "0,0,100,",
+			"descriptname": "I-Dino Event",
 			"description": "",
 			"statbase": "2,75,250,1,",
 			"reducepointschoosen": [
