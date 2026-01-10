@@ -1,0 +1,18 @@
+{
+	"GenS-0":
+	{
+		"tag": "saddler",
+		"descriptname": "I-Dino Saddler",
+		"description": "Use for get customized Saddels \r\nfor your Dino.",
+		"descriptnameplus": "I-Dino Saddler Plus",
+		"descriptionplus": "Use for get customized Saddels \r\nfor your Dino.",
+		"prevalues": [ 25, 150 ],
+		"prequality": 0,
+		"gitimporturl": "https://raw.githubusercontent.com/dinoinselde/Dinoinsel/main/I-Dino/1_SaddlerConfig.json",
+		"gitfilenames": [
+			"0_SaddlerConfig",
+			"1_SaddlerConfig",
+			"2_SaddlerConfig"
+		]
+	}
+}
