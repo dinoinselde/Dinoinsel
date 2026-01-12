@@ -12,19 +12,6 @@
 				"1,12,"
 			],
 			"allowgender": true
-		},
-		"DS-0":
-		{
-			"dinoindex": 281,
-			"dinoname": "Acrocanthosaurus",
-			"forpillartag": "Idino_Event",
-			"allowgendar": true,
-			"allowablestats": "((0, 45),(1, 45),(3, 45),(4, 42),(7, 45),(8, 45))",
-			"statbase": "2,82,419,1,",
-			"reducepointschoosen": [
-				"1,12,"
-			],
-			"bitmaskbool": 4
 		}
 	},
 	"Pdx-2":
