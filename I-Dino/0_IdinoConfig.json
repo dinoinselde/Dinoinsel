@@ -1,4 +1,32 @@
 {
+	"Pdx-3":
+	{
+		"GS-3":
+		{
+			"tag": "Idino_Event",
+			"spawnoffset": "0,0,100,",
+			"descriptname": "I-Dino Event",
+			"description": "Herzlichen Glueckwunsch! Du darfst dir ein Event-Dino ganz nach deinen Wuenschen erstellen!",
+			"statbase": "2,82,330,1,",
+			"reducepointschoosen": [
+				"1,12,"
+			],
+			"allowgender": true
+		},
+		"DS-0":
+		{
+			"dinoindex": 281,
+			"dinoname": "Acrocanthosaurus",
+			"forpillartag": "Idino_Event",
+			"allowgendar": true,
+			"allowablestats": "((0, 45),(1, 45),(3, 45),(4, 42),(7, 45),(8, 45))",
+			"statbase": "2,82,419,1,",
+			"reducepointschoosen": [
+				"1,12,"
+			],
+			"bitmaskbool": 4
+		}
+	},
 	"Pdx-2":
 	{
 		"GS-2":
@@ -2161,77 +2189,91 @@
 			"dinoindex": 31,
 			"dinoname": "Tek Triceratops",
 			"forpillartag": "Idino_Wild",
-			"allowgendar": false,
+			"allowgendar": true,
 			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
-			"statbase": "",
-			"reducepointschoosen": [],
-			"bitmaskbool": 8
+			"statbase": "0,75,216,1,",
+			"reducepointschoosen": [
+				"1,15,"
+			],
+			"bitmaskbool": 0
 		},
 		"DS-194":
 		{
 			"dinoindex": 40,
 			"dinoname": "Tek Stegosaurus",
 			"forpillartag": "Idino_Wild",
-			"allowgendar": false,
+			"allowgendar": true,
 			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
-			"statbase": "",
-			"reducepointschoosen": [],
-			"bitmaskbool": 8
+			"statbase": "0,75,216,1,",
+			"reducepointschoosen": [
+				"1,15,"
+			],
+			"bitmaskbool": 0
 		},
 		"DS-195":
 		{
 			"dinoindex": 55,
 			"dinoname": "Tek Rex",
 			"forpillartag": "Idino_Wild",
-			"allowgendar": false,
+			"allowgendar": true,
 			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
-			"statbase": "",
-			"reducepointschoosen": [],
-			"bitmaskbool": 8
+			"statbase": "0,75,216,1,",
+			"reducepointschoosen": [
+				"1,15,"
+			],
+			"bitmaskbool": 0
 		},
 		"DS-196":
 		{
 			"dinoindex": 59,
 			"dinoname": "Tek Raptor",
 			"forpillartag": "Idino_Wild",
-			"allowgendar": false,
+			"allowgendar": true,
 			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
-			"statbase": "",
-			"reducepointschoosen": [],
-			"bitmaskbool": 8
+			"statbase": "0,75,216,1,",
+			"reducepointschoosen": [
+				"1,15,"
+			],
+			"bitmaskbool": 0
 		},
 		"DS-197":
 		{
 			"dinoindex": 62,
 			"dinoname": "Tek Quetzal",
 			"forpillartag": "Idino_Wild",
-			"allowgendar": false,
+			"allowgendar": true,
 			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
-			"statbase": "",
-			"reducepointschoosen": [],
-			"bitmaskbool": 8
+			"statbase": "0,75,216,1,",
+			"reducepointschoosen": [
+				"1,15,"
+			],
+			"bitmaskbool": 0
 		},
 		"DS-198":
 		{
 			"dinoindex": 74,
 			"dinoname": "Tek Parasaur",
 			"forpillartag": "Idino_Wild",
-			"allowgendar": false,
+			"allowgendar": true,
 			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
-			"statbase": "",
-			"reducepointschoosen": [],
-			"bitmaskbool": 8
+			"statbase": "0,75,216,1,",
+			"reducepointschoosen": [
+				"1,15,"
+			],
+			"bitmaskbool": 0
 		},
 		"DS-199":
 		{
 			"dinoindex": 106,
 			"dinoname": "Tek Giganotosaurus",
 			"forpillartag": "Idino_Wild",
-			"allowgendar": false,
+			"allowgendar": true,
 			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
-			"statbase": "",
-			"reducepointschoosen": [],
-			"bitmaskbool": 8
+			"statbase": "0,75,216,1,",
+			"reducepointschoosen": [
+				"1,15,"
+			],
+			"bitmaskbool": 0
 		},
 		"DS-200":
 		{
@@ -6990,34 +7032,6 @@
 			"statbase": "",
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
-		}
-	},
-	"Pdx-3":
-	{
-		"GS-3":
-		{
-			"tag": "Idino_Event",
-			"spawnoffset": "0,0,100,",
-			"descriptname": "I-Dino Event",
-			"description": "Herzlichen Glueckwunsch! Du darfst dir ein Event-Dino ganz nach deinen Wuenschen erstellen!",
-			"statbase": "2,82,330,1,",
-			"reducepointschoosen": [
-				"1,12,"
-			],
-			"allowgender": true
-		},
-		"DS-0":
-		{
-			"dinoindex": 281,
-			"dinoname": "Acrocanthosaurus",
-			"forpillartag": "Idino_Event",
-			"allowgendar": true,
-			"allowablestats": "((0, 45),(1, 45),(3, 45),(4, 42),(7, 45),(8, 45))",
-			"statbase": "2,82,419,1,",
-			"reducepointschoosen": [
-				"1,12,"
-			],
-			"bitmaskbool": 4
 		}
 	}
 }
