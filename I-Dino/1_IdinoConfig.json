@@ -12,6 +12,17 @@
 				"1,12,"
 			],
 			"allowgender": true
+		},
+		"DS-0":
+		{
+			"dinoindex": 152,
+			"dinoname": "Achatina",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
 		}
 	},
 	"Pdx-0":
