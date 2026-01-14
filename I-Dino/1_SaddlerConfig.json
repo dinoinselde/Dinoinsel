@@ -17,29 +17,13 @@
 	},
 	"SaD-0":
 	{
-		"dinoindex": 65,
-		"dinoname": "Pteranodon",
-		"dinoclassref": "/Game/PrimalEarth/Dinos/Ptero/Ptero_Character_BP.Ptero_Character_BP_C",
+		"dinoindex": 186,
+		"dinoname": "Karkinos",
+		"dinoclassref": "/Game/Aberration/Dinos/Crab/Crab_Character_BP.Crab_Character_BP_C",
 		"singlesaddels": [
 			{
 				"issaddlerplus": false,
-				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_PteroSaddle.PrimalItemArmor_PteroSaddle_C",
-				"armorvalue": 25,
-				"durability": 150,
-				"quality": 0,
-				"amount": 1
-			}
-		]
-	},
-	"SaD-1":
-	{
-		"dinoindex": 46,
-		"dinoname": "Pulmonoscorpius",
-		"dinoclassref": "/Game/PrimalEarth/Dinos/Scorpion/Scorpion_Character_BP.Scorpion_Character_BP_C",
-		"singlesaddels": [
-			{
-				"issaddlerplus": false,
-				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_ScorpionSaddle.PrimalItemArmor_ScorpionSaddle_C",
+				"saddleclassref": "/Game/Aberration/Dinos/Crab/PrimalItemArmor_CrabSaddle.PrimalItemArmor_CrabSaddle_C",
 				"armorvalue": 25,
 				"durability": 150,
 				"quality": 0,
