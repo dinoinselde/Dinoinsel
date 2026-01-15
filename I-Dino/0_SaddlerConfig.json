@@ -24,9 +24,9 @@
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/AAAcro/Dinos/Saddle/PrimalItemArmor_AcroSaddle.PrimalItemArmor_AcroSaddle_C",
-				"armorvalue": 25,
+				"armorvalue": 300,
 				"durability": 150,
-				"quality": 0,
+				"quality": 5,
 				"amount": 1
 			},
 			{
@@ -408,9 +408,9 @@
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CarchaSaddle.PrimalItemArmor_CarchaSaddle_C",
-				"armorvalue": 25,
+				"armorvalue": 300,
 				"durability": 150,
-				"quality": 0,
+				"quality": 5,
 				"amount": 1
 			},
 			{
@@ -464,9 +464,9 @@
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/Game/ASA/Dinos/Ceratosaurus/Dinos/Saddle/PrimalItemArmor_CeratosaurusSaddle_ASA.PrimalItemArmor_CeratosaurusSaddle_ASA_C",
-				"armorvalue": 25,
+				"armorvalue": 300,
 				"durability": 150,
-				"quality": 0,
+				"quality": 5,
 				"amount": 1
 			},
 			{
@@ -536,9 +536,9 @@
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DaeodonSaddle.PrimalItemArmor_DaeodonSaddle_C",
-				"armorvalue": 25,
+				"armorvalue": 300,
 				"durability": 150,
-				"quality": 0,
+				"quality": 5,
 				"amount": 1
 			},
 			{
@@ -560,9 +560,9 @@
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/Game/ASA/Dinos/Deinosuchus/Saddle/PrimalItemArmor_Deinosuchus_Saddle_ASA.PrimalItemArmor_Deinosuchus_Saddle_ASA_C",
-				"armorvalue": 25,
+				"armorvalue": 300,
 				"durability": 150,
-				"quality": 0,
+				"quality": 5,
 				"amount": 1
 			},
 			{
@@ -584,9 +584,9 @@
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/Game/ASA/Dinos/Deinotherium/Dinos/Saddle/PrimalItemArmor_DeinotheriumSaddle_ASA.PrimalItemArmor_DeinotheriumSaddle_ASA_C",
-				"armorvalue": 25,
+				"armorvalue": 300,
 				"durability": 150,
-				"quality": 0,
+				"quality": 5,
 				"amount": 1
 			},
 			{
@@ -696,15 +696,15 @@
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/Game/ASA/Dinos/Dreadnoughtus/PrimalItemArmor_DreadSaddle_Platform.PrimalItemArmor_DreadSaddle_Platform_C",
-				"armorvalue": 25,
+				"armorvalue": 150,
 				"durability": 150,
-				"quality": 0,
+				"quality": 5,
 				"amount": 1
 			},
 			{
 				"issaddlerplus": true,
 				"saddleclassref": "/Game/ASA/Dinos/Dreadnoughtus/PrimalItemArmor_DreadSaddle_Platform.PrimalItemArmor_DreadSaddle_Platform_C",
-				"armorvalue": 300,
+				"armorvalue": 150,
 				"durability": 750,
 				"quality": 5,
 				"amount": 10
@@ -832,9 +832,9 @@
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_GigantSaddle.PrimalItemArmor_GigantSaddle_C",
-				"armorvalue": 25,
+				"armorvalue": 300,
 				"durability": 150,
-				"quality": 0,
+				"quality": 5,
 				"amount": 1
 			},
 			{
@@ -1088,9 +1088,9 @@
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MegatheriumSaddle.PrimalItemArmor_MegatheriumSaddle_C",
-				"armorvalue": 25,
+				"armorvalue": 300,
 				"durability": 150,
-				"quality": 0,
+				"quality": 5,
 				"amount": 1
 			},
 			{
@@ -1264,9 +1264,9 @@
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/Game/LostColony/Dinos/SnowMonster/PrimalItemArmor_SnowMonsterSaddle.PrimalItemArmor_SnowMonsterSaddle_C",
-				"armorvalue": 25,
+				"armorvalue": 300,
 				"durability": 150,
-				"quality": 0,
+				"quality": 5,
 				"amount": 1
 			},
 			{
@@ -1520,9 +1520,9 @@
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle_Tek.PrimalItemArmor_RexSaddle_Tek_C",
-				"armorvalue": 25,
+				"armorvalue": 300,
 				"durability": 150,
-				"quality": 0,
+				"quality": 5,
 				"amount": 1
 			},
 			{
@@ -1532,6 +1532,14 @@
 				"durability": 750,
 				"quality": 5,
 				"amount": 10
+			},
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle_Tek.PrimalItemArmor_RexSaddle_Tek_C",
+				"armorvalue": 300,
+				"durability": 150,
+				"quality": 5,
+				"amount": 1
 			}
 		]
 	},
@@ -1712,9 +1720,9 @@
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_SpinoSaddle.PrimalItemArmor_SpinoSaddle_C",
-				"armorvalue": 25,
+				"armorvalue": 300,
 				"durability": 150,
-				"quality": 0,
+				"quality": 5,
 				"amount": 1
 			},
 			{
@@ -1736,9 +1744,9 @@
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_StegoSaddle.PrimalItemArmor_StegoSaddle_C",
-				"armorvalue": 25,
-				"durability": 150,
-				"quality": 0,
+				"armorvalue": 300,
+				"durability": 750,
+				"quality": 5,
 				"amount": 1
 			},
 			{
@@ -1800,9 +1808,9 @@
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TherizinosaurusSaddle.PrimalItemArmor_TherizinosaurusSaddle_C",
-				"armorvalue": 25,
+				"armorvalue": 300,
 				"durability": 150,
-				"quality": 0,
+				"quality": 5,
 				"amount": 1
 			},
 			{
@@ -1936,9 +1944,9 @@
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_YutySaddle.PrimalItemArmor_YutySaddle_C",
-				"armorvalue": 25,
+				"armorvalue": 300,
 				"durability": 150,
-				"quality": 0,
+				"quality": 5,
 				"amount": 1
 			},
 			{
