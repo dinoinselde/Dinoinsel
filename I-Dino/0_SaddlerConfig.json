@@ -8,7 +8,7 @@
 		"descriptionplus": "Use for get customized Saddels for your Dino.",
 		"prevalues": [ 25, 150 ],
 		"prequality": 0,
-		"gitimporturl": "https://raw.githubusercontent.com/dinoinselde/Dinoinsel/main/I-Dino/1_SaddlerConfig.json",
+		"gitimporturl": "https://raw.githubusercontent.com/dinoinselde/Dinoinsel/main/I-Dino/0_SaddlerConfig.json",
 		"gitfilenames": [
 			"0_SaddlerConfig",
 			"1_SaddlerConfig",
