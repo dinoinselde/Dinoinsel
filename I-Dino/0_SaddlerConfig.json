@@ -8,11 +8,371 @@
 		"descriptionplus": "Use for get customized Saddels for your Dino.",
 		"prevalues": [ 25, 150 ],
 		"prequality": 0,
-		"gitimporturl": "https://raw.githubusercontent.com/dinoinselde/Dinoinsel/main/I-Dino/0_SaddlerConfig.json",
+		"gitimporturl": "https://raw.githubusercontent.com/dinoinselde/Dinoinsel/main/I-Dino/1_SaddlerConfig.json",
 		"gitfilenames": [
 			"0_SaddlerConfig",
 			"1_SaddlerConfig",
 			"2_SaddlerConfig"
+		]
+	},
+	"SaD-0":
+	{
+		"dinoindex": 281,
+		"dinoname": "Acrocanthosaurus",
+		"dinoclassref": "/AAAcro/Dinos/AcrocanthosaurusAA_Character_BP.AcrocanthosaurusAA_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/AAAcro/Dinos/Saddle/PrimalItemArmor_AcroSaddle.PrimalItemArmor_AcroSaddle_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": true,
+				"saddleclassref": "/AAAcro/Dinos/Saddle/PrimalItemArmor_AcroSaddle.PrimalItemArmor_AcroSaddle_C",
+				"armorvalue": 300,
+				"durability": 750,
+				"quality": 5,
+				"amount": 10
+			}
+		]
+	},
+	"SaD-1":
+	{
+		"dinoindex": 136,
+		"dinoname": "Carcharodontosaurus",
+		"dinoclassref": "/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CarchaSaddle.PrimalItemArmor_CarchaSaddle_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": true,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_CarchaSaddle.PrimalItemArmor_CarchaSaddle_C",
+				"armorvalue": 300,
+				"durability": 750,
+				"quality": 5,
+				"amount": 10
+			}
+		]
+	},
+	"SaD-2":
+	{
+		"dinoindex": 259,
+		"dinoname": "Ceratosaurus",
+		"dinoclassref": "/Game/ASA/Dinos/Ceratosaurus/Dinos/Ceratosaurus_Character_BP_ASA.Ceratosaurus_Character_BP_ASA_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/ASA/Dinos/Ceratosaurus/Dinos/Saddle/PrimalItemArmor_CeratosaurusSaddle_ASA.PrimalItemArmor_CeratosaurusSaddle_ASA_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": true,
+				"saddleclassref": "/Game/ASA/Dinos/Ceratosaurus/Dinos/Saddle/PrimalItemArmor_CeratosaurusSaddle_ASA.PrimalItemArmor_CeratosaurusSaddle_ASA_C",
+				"armorvalue": 300,
+				"durability": 750,
+				"quality": 5,
+				"amount": 10
+			}
+		]
+	},
+	"SaD-3":
+	{
+		"dinoindex": 128,
+		"dinoname": "Daeodon",
+		"dinoclassref": "/Game/PrimalEarth/Dinos/Daeodon/Daeodon_Character_BP.Daeodon_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DaeodonSaddle.PrimalItemArmor_DaeodonSaddle_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": true,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_DaeodonSaddle.PrimalItemArmor_DaeodonSaddle_C",
+				"armorvalue": 300,
+				"durability": 750,
+				"quality": 5,
+				"amount": 10
+			}
+		]
+	},
+	"SaD-4":
+	{
+		"dinoindex": 175,
+		"dinoname": "Deinosuchus",
+		"dinoclassref": "/Game/ASA/Dinos/Deinosuchus/DeinosuchusASA_Character_BP.DeinosuchusASA_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/ASA/Dinos/Deinosuchus/Saddle/PrimalItemArmor_Deinosuchus_Saddle_ASA.PrimalItemArmor_Deinosuchus_Saddle_ASA_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": true,
+				"saddleclassref": "/Game/ASA/Dinos/Deinosuchus/Saddle/PrimalItemArmor_Deinosuchus_Saddle_ASA.PrimalItemArmor_Deinosuchus_Saddle_ASA_C",
+				"armorvalue": 300,
+				"durability": 750,
+				"quality": 5,
+				"amount": 10
+			}
+		]
+	},
+	"SaD-5":
+	{
+		"dinoindex": 260,
+		"dinoname": "Deinotherium",
+		"dinoclassref": "/Game/ASA/Dinos/Deinotherium/Dinos/DeinotheriumASA_Character_BP.DeinotheriumASA_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/ASA/Dinos/Deinotherium/Dinos/Saddle/PrimalItemArmor_DeinotheriumSaddle_ASA.PrimalItemArmor_DeinotheriumSaddle_ASA_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": true,
+				"saddleclassref": "/Game/ASA/Dinos/Deinotherium/Dinos/Saddle/PrimalItemArmor_DeinotheriumSaddle_ASA.PrimalItemArmor_DeinotheriumSaddle_ASA_C",
+				"armorvalue": 300,
+				"durability": 750,
+				"quality": 5,
+				"amount": 10
+			}
+		]
+	},
+	"SaD-6":
+	{
+		"dinoindex": 174,
+		"dinoname": "Dreadnoughtus",
+		"dinoclassref": "/Game/ASA/Dinos/Dreadnoughtus/Dreadnoughtus_Character_BP.Dreadnoughtus_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/ASA/Dinos/Dreadnoughtus/PrimalItemArmor_DreadSaddle_Platform.PrimalItemArmor_DreadSaddle_Platform_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": true,
+				"saddleclassref": "/Game/ASA/Dinos/Dreadnoughtus/PrimalItemArmor_DreadSaddle_Platform.PrimalItemArmor_DreadSaddle_Platform_C",
+				"armorvalue": 300,
+				"durability": 750,
+				"quality": 5,
+				"amount": 10
+			}
+		]
+	},
+	"SaD-7":
+	{
+		"dinoindex": 104,
+		"dinoname": "Giganotosaurus",
+		"dinoclassref": "/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_GigantSaddle.PrimalItemArmor_GigantSaddle_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": true,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_GigantSaddle.PrimalItemArmor_GigantSaddle_C",
+				"armorvalue": 300,
+				"durability": 750,
+				"quality": 5,
+				"amount": 10
+			}
+		]
+	},
+	"SaD-8":
+	{
+		"dinoindex": 84,
+		"dinoname": "Megatherium",
+		"dinoclassref": "/Game/PrimalEarth/Dinos/Megatherium/Megatherium_Character_BP.Megatherium_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MegatheriumSaddle.PrimalItemArmor_MegatheriumSaddle_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": true,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MegatheriumSaddle.PrimalItemArmor_MegatheriumSaddle_C",
+				"armorvalue": 300,
+				"durability": 750,
+				"quality": 5,
+				"amount": 10
+			}
+		]
+	},
+	"SaD-9":
+	{
+		"dinoindex": 261,
+		"dinoname": "Ossidon",
+		"dinoclassref": "/Game/LostColony/Dinos/SnowMonster/SnowMonster_Character_BP.SnowMonster_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/LostColony/Dinos/SnowMonster/PrimalItemArmor_SnowMonsterSaddle.PrimalItemArmor_SnowMonsterSaddle_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": true,
+				"saddleclassref": "/Game/LostColony/Dinos/SnowMonster/PrimalItemArmor_SnowMonsterSaddle.PrimalItemArmor_SnowMonsterSaddle_C",
+				"armorvalue": 300,
+				"durability": 750,
+				"quality": 5,
+				"amount": 10
+			}
+		]
+	},
+	"SaD-10":
+	{
+		"dinoindex": 42,
+		"dinoname": "Spino",
+		"dinoclassref": "/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP.Spino_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_SpinoSaddle.PrimalItemArmor_SpinoSaddle_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": true,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_SpinoSaddle.PrimalItemArmor_SpinoSaddle_C",
+				"armorvalue": 300,
+				"durability": 750,
+				"quality": 5,
+				"amount": 10
+			}
+		]
+	},
+	"SaD-11":
+	{
+		"dinoindex": 38,
+		"dinoname": "Stegosaurus",
+		"dinoclassref": "/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP.Stego_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_StegoSaddle.PrimalItemArmor_StegoSaddle_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": true,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_StegoSaddle.PrimalItemArmor_StegoSaddle_C",
+				"armorvalue": 300,
+				"durability": 750,
+				"quality": 5,
+				"amount": 10
+			}
+		]
+	},
+	"SaD-12":
+	{
+		"dinoindex": 35,
+		"dinoname": "Therizinosaur",
+		"dinoclassref": "/Game/PrimalEarth/Dinos/Therizinosaurus/Therizino_Character_BP.Therizino_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TherizinosaurusSaddle.PrimalItemArmor_TherizinosaurusSaddle_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": true,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TherizinosaurusSaddle.PrimalItemArmor_TherizinosaurusSaddle_C",
+				"armorvalue": 300,
+				"durability": 750,
+				"quality": 5,
+				"amount": 10
+			}
+		]
+	},
+	"SaD-13":
+	{
+		"dinoindex": 22,
+		"dinoname": "Yutyrannus",
+		"dinoclassref": "/Game/PrimalEarth/Dinos/Yutyrannus/Yutyrannus_Character_BP.Yutyrannus_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_YutySaddle.PrimalItemArmor_YutySaddle_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": true,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_YutySaddle.PrimalItemArmor_YutySaddle_C",
+				"armorvalue": 300,
+				"durability": 750,
+				"quality": 5,
+				"amount": 10
+			}
+		]
+	},
+	"SaD-14":
+	{
+		"dinoindex": 2,
+		"dinoname": "Rex",
+		"dinoclassref": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle_Tek.PrimalItemArmor_RexSaddle_Tek_C",
+				"armorvalue": 25,
+				"durability": 150,
+				"quality": 0,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": true,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle.PrimalItemArmor_RexSaddle_C",
+				"armorvalue": 300,
+				"durability": 750,
+				"quality": 5,
+				"amount": 10
+			}
 		]
 	}
 }
