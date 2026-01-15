@@ -584,7 +584,7 @@
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/Game/ASA/Dinos/Deinotherium/Dinos/Saddle/PrimalItemArmor_DeinotheriumSaddle_ASA.PrimalItemArmor_DeinotheriumSaddle_ASA_C",
-				"armorvalue": 300,
+				"armorvalue": 250,
 				"durability": 150,
 				"quality": 5,
 				"amount": 1
@@ -592,7 +592,7 @@
 			{
 				"issaddlerplus": true,
 				"saddleclassref": "/Game/ASA/Dinos/Deinotherium/Dinos/Saddle/PrimalItemArmor_DeinotheriumSaddle_ASA.PrimalItemArmor_DeinotheriumSaddle_ASA_C",
-				"armorvalue": 300,
+				"armorvalue": 250,
 				"durability": 750,
 				"quality": 5,
 				"amount": 10
