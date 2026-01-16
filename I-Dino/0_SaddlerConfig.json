@@ -6,29 +6,13 @@
 		"description": "Use for get customized Saddels for your Dino.",
 		"descriptnameplus": "I-Dino Saddler Plus",
 		"descriptionplus": "Use for get customized Saddels for your Dino.",
-		"prevalues": [ 25, 150 ],
-		"prequality": 0,
+		"prevalues": [ 25, 750 ],
+		"prequality": 5,
 		"gitimporturl": "https://raw.githubusercontent.com/dinoinselde/Dinoinsel/main/I-Dino/0_SaddlerConfig.json",
 		"gitfilenames": [
 			"0_SaddlerConfig",
 			"1_SaddlerConfig",
 			"2_SaddlerConfig"
-		]
-	},
-	"SaD-0":
-	{
-		"dinoindex": 186,
-		"dinoname": "Karkinos",
-		"dinoclassref": "/Game/Aberration/Dinos/Crab/Crab_Character_BP.Crab_Character_BP_C",
-		"singlesaddels": [
-			{
-				"issaddlerplus": false,
-				"saddleclassref": "/Game/Aberration/Dinos/Crab/PrimalItemArmor_CrabSaddle.PrimalItemArmor_CrabSaddle_C",
-				"armorvalue": 25,
-				"durability": 150,
-				"quality": 0,
-				"amount": 1
-			}
 		]
 	}
 }
