@@ -2,10 +2,10 @@
 	"GenS-0":
 	{
 		"tag": "saddler",
-		"descriptname": "I-Dino Saddler",
-		"description": "Use for get customized Saddels for your Dino.",
-		"descriptnameplus": "I-Dino Saddler Plus",
-		"descriptionplus": "Use for get customized Saddels for your Dino.",
+		"descriptname": "Saddler",
+		"description": "Erhalte einen 300-Armor Wunschsattel deiner Wahl!\r\nDinos, deren Sattelcap unter 300 liegt, erhalten stattdessen einen 250- oder 150-Armor Sattel.",
+		"descriptnameplus": "Saddler Plus",
+		"descriptionplus": "Erhalte ein 10x 300-Armor Bossdino-Sattelpaket deiner Wahl! Dinos, deren Sattelcap unter 300 liegt, erhalten stattdessen einen 250- oder 150-Armor Sattel.",
 		"prevalues": [ 300, 750 ],
 		"prequality": 5,
 		"gitimporturl": "https://raw.githubusercontent.com/dinoinselde/Dinoinsel/main/I-Dino/0_SaddlerConfig.json",
@@ -352,7 +352,7 @@
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/AABrachiosaurus/Dinos/Saddle/PrimalItemArmor_BrachioSaddle.PrimalItemArmor_BrachioSaddle_C",
-				"armorvalue": 300,
+				"armorvalue": 150,
 				"durability": 750,
 				"quality": 5,
 				"amount": 1
@@ -368,7 +368,7 @@
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_SauroSaddle.PrimalItemArmor_SauroSaddle_C",
-				"armorvalue": 300,
+				"armorvalue": 150,
 				"durability": 750,
 				"quality": 5,
 				"amount": 1
@@ -376,7 +376,7 @@
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_SauroSaddle_Platform.PrimalItemArmor_SauroSaddle_Platform_C",
-				"armorvalue": 300,
+				"armorvalue": 150,
 				"durability": 750,
 				"quality": 5,
 				"amount": 1
@@ -520,7 +520,7 @@
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/AstraeosCreatures/Cyclops/Saddle/PrimalItemArmor_CyclopsSaddle.PrimalItemArmor_CyclopsSaddle_C",
-				"armorvalue": 300,
+				"armorvalue": 150,
 				"durability": 750,
 				"quality": 5,
 				"amount": 1
@@ -600,15 +600,15 @@
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/Game/ASA/Dinos/Deinotherium/Dinos/Saddle/PrimalItemArmor_DeinotheriumSaddle_ASA.PrimalItemArmor_DeinotheriumSaddle_ASA_C",
-				"armorvalue": 300,
+				"armorvalue": 250,
 				"durability": 750,
 				"quality": 5,
 				"amount": 1
 			},
 			{
-				"issaddlerplus": false,
+				"issaddlerplus": true,
 				"saddleclassref": "/Game/ASA/Dinos/Deinotherium/Dinos/Saddle/PrimalItemArmor_DeinotheriumSaddle_ASA.PrimalItemArmor_DeinotheriumSaddle_ASA_C",
-				"armorvalue": 300,
+				"armorvalue": 250,
 				"durability": 750,
 				"quality": 5,
 				"amount": 10
@@ -1504,7 +1504,7 @@
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RhynioSaddle.PrimalItemArmor_RhynioSaddle_C",
-				"armorvalue": 300,
+				"armorvalue": 150,
 				"durability": 750,
 				"quality": 5,
 				"amount": 1
@@ -1520,7 +1520,7 @@
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/Game/ScorchedEarth/Dinos/RockGolem/PrimalItemArmor_RockGolemSaddle.PrimalItemArmor_RockGolemSaddle_C",
-				"armorvalue": 300,
+				"armorvalue": 150,
 				"durability": 750,
 				"quality": 5,
 				"amount": 1
