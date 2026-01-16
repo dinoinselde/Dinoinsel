@@ -588,6 +588,14 @@
 				"durability": 750,
 				"quality": 5,
 				"amount": 1
+			},
+			{
+				"issaddlerplus": true,
+				"saddleclassref": "/Game/Valguero/Dinos/Deinonychus/PrimalItemArmor_DeinonychusSaddle.PrimalItemArmor_DeinonychusSaddle_C",
+				"armorvalue": 300,
+				"durability": 750,
+				"quality": 5,
+				"amount": 10
 			}
 		]
 	},
@@ -1486,7 +1494,7 @@
 				"amount": 1
 			},
 			{
-				"issaddlerplus": false,
+				"issaddlerplus": true,
 				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle.PrimalItemArmor_RexSaddle_C",
 				"armorvalue": 300,
 				"durability": 750,
