@@ -7022,47 +7022,14 @@
 		},
 		"DS-0":
 		{
-			"dinoindex": 152,
-			"dinoname": "Achatina",
+			"dinoindex": 249,
+			"dinoname": "Arctic Drakara",
 			"forpillartag": "Idino_Event",
-			"allowgendar": false,
-			"allowablestats": "((0, 0),(1, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
-			"statbase": "",
-			"reducepointschoosen": [],
-			"bitmaskbool": 8
-		},
-		"DS-1":
-		{
-			"dinoindex": 281,
-			"dinoname": "Acrocanthosaurus",
-			"forpillartag": "Idino_Event",
-			"allowgendar": false,
+			"allowgendar": true,
 			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
-			"statbase": "",
+			"statbase": "1,65,270,1,",
 			"reducepointschoosen": [],
-			"bitmaskbool": 8
-		},
-		"DS-2":
-		{
-			"dinoindex": 1,
-			"dinoname": "Allosaurus",
-			"forpillartag": "Idino_Event",
-			"allowgendar": false,
-			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
-			"statbase": "",
-			"reducepointschoosen": [],
-			"bitmaskbool": 8
-		},
-		"DS-3":
-		{
-			"dinoindex": 3,
-			"dinoname": "Alpha Rex",
-			"forpillartag": "Idino_Event",
-			"allowgendar": false,
-			"allowablestats": "((0, 0),(1, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
-			"statbase": "",
-			"reducepointschoosen": [],
-			"bitmaskbool": 8
+			"bitmaskbool": 0
 		}
 	}
 }
