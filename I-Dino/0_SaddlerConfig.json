@@ -120,7 +120,7 @@
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/Game/ASA/Dinos/Archelon/Dinos/Saddle/PrimalItem_Armor_Archelon_Saddle_ASA.PrimalItem_Armor_Archelon_Saddle_ASA_C",
-				"armorvalue": 300,
+				"armorvalue": 250,
 				"durability": 750,
 				"quality": 5,
 				"amount": 1
@@ -128,7 +128,7 @@
 			{
 				"issaddlerplus": true,
 				"saddleclassref": "/Game/ASA/Dinos/Archelon/Dinos/Saddle/PrimalItem_Armor_Archelon_Saddle_ASA.PrimalItem_Armor_Archelon_Saddle_ASA_C",
-				"armorvalue": 300,
+				"armorvalue": 250,
 				"durability": 750,
 				"quality": 5,
 				"amount": 10
