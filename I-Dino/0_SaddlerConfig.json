@@ -976,7 +976,7 @@
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/Game/LostColony/Dinos/BossBat/Saddle/PrimalItemArmor_BossBatSaddle.PrimalItemArmor_BossBatSaddle_C",
-				"armorvalue": 300,
+				"armorvalue": 150,
 				"durability": 750,
 				"quality": 5,
 				"amount": 1
@@ -984,7 +984,7 @@
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/Game/LostColony/Dinos/BossBat/Saddle/PrimalItemArmor_BossBatSaddle_Platform.PrimalItemArmor_BossBatSaddle_Platform_C",
-				"armorvalue": 300,
+				"armorvalue": 150,
 				"durability": 750,
 				"quality": 5,
 				"amount": 1
@@ -992,7 +992,7 @@
 			{
 				"issaddlerplus": true,
 				"saddleclassref": "/Game/LostColony/Dinos/BossBat/Saddle/PrimalItemArmor_BossBatSaddle.PrimalItemArmor_BossBatSaddle_C",
-				"armorvalue": 300,
+				"armorvalue": 150,
 				"durability": 750,
 				"quality": 5,
 				"amount": 10
@@ -1000,7 +1000,7 @@
 			{
 				"issaddlerplus": true,
 				"saddleclassref": "/Game/LostColony/Dinos/BossBat/Saddle/PrimalItemArmor_BossBatSaddle_Platform.PrimalItemArmor_BossBatSaddle_Platform_C",
-				"armorvalue": 300,
+				"armorvalue": 150,
 				"durability": 750,
 				"quality": 5,
 				"amount": 10
