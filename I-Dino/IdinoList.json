@@ -3418,5 +3418,17 @@
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Managarmr/S-IceJumper_Character_BP.S-IceJumper_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-285":
+	{
+		"dinostringref": "/Game/ASA/Dinos/Helicoprion/Helicoprion_Character_BP.Helicoprion_Character_BP_C",
+		"dinonametag": "HelicoprionAA",
+		"dinodescription": "Helicoprion",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ASA/Dinos/Helicoprion/Helicoprion_Character_BP.Helicoprion_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9, 11 ]
 	}
 }
