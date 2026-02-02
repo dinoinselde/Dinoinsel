@@ -2329,6 +2329,30 @@
 	},
 	"SaD-93":
 	{
+		"dinoindex": 29,
+		"dinoname": "Triceratops",
+		"dinoclassref": "/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP.Trike_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TrikeSaddle.PrimalItemArmor_TrikeSaddle_C",
+				"armorvalue": 300,
+				"durability": 750,
+				"quality": 5,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": true,
+				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TrikeSaddle.PrimalItemArmor_TrikeSaddle_C",
+				"armorvalue": 300,
+				"durability": 750,
+				"quality": 5,
+				"amount": 10
+			}
+		]
+	},
+	"SaD-94":
+	{
 		"dinoindex": 24,
 		"dinoname": "Tusoteuthis",
 		"dinoclassref": "/Game/PrimalEarth/Dinos/Tusoteuthis/Tusoteuthis_Character_BP.Tusoteuthis_Character_BP_C",
@@ -2351,7 +2375,7 @@
 			}
 		]
 	},
-	"SaD-94":
+	"SaD-95":
 	{
 		"dinoindex": 154,
 		"dinoname": "Velonasaur",
@@ -2375,7 +2399,7 @@
 			}
 		]
 	},
-	"SaD-95":
+	"SaD-96":
 	{
 		"dinoindex": 266,
 		"dinoname": "Xiphactinus",
@@ -2399,7 +2423,7 @@
 			}
 		]
 	},
-	"SaD-96":
+	"SaD-97":
 	{
 		"dinoindex": 170,
 		"dinoname": "Yi Ling",
@@ -2423,7 +2447,7 @@
 			}
 		]
 	},
-	"SaD-97":
+	"SaD-98":
 	{
 		"dinoindex": 22,
 		"dinoname": "Yutyrannus",
@@ -2447,15 +2471,15 @@
 			}
 		]
 	},
-	"SaD-98":
+	"SaD-99":
 	{
-		"dinoindex": 29,
-		"dinoname": "Triceratops",
-		"dinoclassref": "/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP.Trike_Character_BP_C",
+		"dinoindex": 285,
+		"dinoname": "Helicoprion",
+		"dinoclassref": "/Game/ASA/Dinos/Helicoprion/Helicoprion_Character_BP.Helicoprion_Character_BP_C",
 		"singlesaddels": [
 			{
 				"issaddlerplus": false,
-				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TrikeSaddle.PrimalItemArmor_TrikeSaddle_C",
+				"saddleclassref": "/Game/ASA/Dinos/Helicoprion/Saddle/PrimalItemArmor_Helicoprion.PrimalItemArmor_Helicoprion_C",
 				"armorvalue": 300,
 				"durability": 750,
 				"quality": 5,
@@ -2463,7 +2487,7 @@
 			},
 			{
 				"issaddlerplus": true,
-				"saddleclassref": "/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_TrikeSaddle.PrimalItemArmor_TrikeSaddle_C",
+				"saddleclassref": "/Game/ASA/Dinos/Helicoprion/Saddle/PrimalItemArmor_Helicoprion.PrimalItemArmor_Helicoprion_C",
 				"armorvalue": 300,
 				"durability": 750,
 				"quality": 5,
