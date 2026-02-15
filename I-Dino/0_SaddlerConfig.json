@@ -784,7 +784,7 @@
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/Game/ASA/Dinos/Dreadnoughtus/PrimalItemArmor_DreadSaddle_Platform.PrimalItemArmor_DreadSaddle_Platform_C",
-				"armorvalue": 300,
+				"armorvalue": 180,
 				"durability": 750,
 				"quality": 5,
 				"amount": 1
@@ -792,7 +792,7 @@
 			{
 				"issaddlerplus": true,
 				"saddleclassref": "/Game/ASA/Dinos/Dreadnoughtus/PrimalItemArmor_DreadSaddle_Platform.PrimalItemArmor_DreadSaddle_Platform_C",
-				"armorvalue": 300,
+				"armorvalue": 180,
 				"durability": 750,
 				"quality": 5,
 				"amount": 10
