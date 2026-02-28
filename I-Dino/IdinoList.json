@@ -3442,5 +3442,29 @@
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/GrandTortugar/GrandTortugar_Character_BP.GrandTortugar_Character_BP_C",
 		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-287":
+	{
+		"dinostringref": "/SDinoVariants/S-Dunkleosteus/S-Dunkle_Character_BP.S-Dunkle_Character_BP_C",
+		"dinonametag": "Dunkle",
+		"dinodescription": "S-Dunkleosteus",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Dunkleosteus/S-Dunkle_Character_BP.S-Dunkle_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-288":
+	{
+		"dinostringref": "/skyshroud_drakara/Dinos/Drakara/Drakara_Character_BP_Pyro.Drakara_Character_BP_Pyro_C",
+		"dinonametag": "Drakara",
+		"dinodescription": "Pyro Drakara",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/skyshroud_drakara/Dinos/Drakara/Drakara_Character_BP_Pyro.Drakara_Character_BP_Pyro_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	}
 }
