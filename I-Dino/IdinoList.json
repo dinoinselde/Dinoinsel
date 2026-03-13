@@ -3466,5 +3466,29 @@
 		"isboss": false,
 		"softdinoclass": "/skyshroud_drakara/Dinos/Drakara/Drakara_Character_BP_Pyro.Drakara_Character_BP_Pyro_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-289":
+	{
+		"dinostringref": "/SDinoVariants/S-Argentavis/S-Argent_Character_BP.S-Argent_Character_BP_C",
+		"dinonametag": "Argent",
+		"dinodescription": "S-Argentavis",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Argentavis/S-Argent_Character_BP.S-Argent_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-290":
+	{
+		"dinostringref": "/SDinoVariants/S-Casteroides/S-Beaver_Character_BP.S-Beaver_Character_BP_C",
+		"dinonametag": "Beaver",
+		"dinodescription": "S-Castoroides",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Casteroides/S-Beaver_Character_BP.S-Beaver_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	}
 }
