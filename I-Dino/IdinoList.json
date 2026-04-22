@@ -3526,5 +3526,29 @@
 		"isboss": false,
 		"softdinoclass": "/AAAcro/Dinos/SE_AcrocanthosaurusAA_Character_BP.SE_AcrocanthosaurusAA_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-294":
+	{
+		"dinostringref": "/SDinoVariants/S-Acro/S-Acrocanthosaurus_Character_BP.S-Acrocanthosaurus_Character_BP_C",
+		"dinonametag": "AcroAA",
+		"dinodescription": "S-Acrocanthosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Acro/S-Acrocanthosaurus_Character_BP.S-Acrocanthosaurus_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-295":
+	{
+		"dinostringref": "/skyshroud_drakara/Dinos/Drakara/Drakara_Character_BP_Tropical.Drakara_Character_BP_Tropical_C",
+		"dinonametag": "Drakara",
+		"dinodescription": "Tropical Drakara",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/skyshroud_drakara/Dinos/Drakara/Drakara_Character_BP_Tropical.Drakara_Character_BP_Tropical_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	}
 }
