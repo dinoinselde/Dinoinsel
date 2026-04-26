@@ -7333,11 +7333,33 @@
 			"spawnoffset": "0,0,100,",
 			"descriptname": "I-Dino Event",
 			"description": "Herzlichen Glueckwunsch! Du darfst dir ein Event-Dino ganz nach deinen Wuenschen erstellen!",
-			"statbase": "2,82,330,1,",
+			"statbase": "2,90,330,1,",
 			"reducepointschoosen": [
-				"1,12,"
+				"1,18,"
 			],
 			"allowgender": true
+		},
+		"DS-0":
+		{
+			"dinoindex": 79,
+			"dinoname": "Otter",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-1":
+		{
+			"dinoindex": 230,
+			"dinoname": "S-Otter",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
 		}
 	}
 }
