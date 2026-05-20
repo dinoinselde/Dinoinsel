@@ -17,6 +17,30 @@
 	},
 	"SaD-0":
 	{
+		"dinoindex": 291,
+		"dinoname": "Acrocanthosaurus",
+		"dinoclassref": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP_C",
+		"singlesaddels": [
+			{
+				"issaddlerplus": false,
+				"saddleclassref": "/Game/ASA/Dinos/Acrocanthosaurus/Saddle/PrimalItemArmor_AcroSaddle.PrimalItemArmor_AcroSaddle_C",
+				"armorvalue": 300,
+				"durability": 750,
+				"quality": 5,
+				"amount": 1
+			},
+			{
+				"issaddlerplus": true,
+				"saddleclassref": "/Game/ASA/Dinos/Acrocanthosaurus/Saddle/PrimalItemArmor_AcroSaddle.PrimalItemArmor_AcroSaddle_C",
+				"armorvalue": 300,
+				"durability": 750,
+				"quality": 5,
+				"amount": 10
+			}
+		]
+	},
+	"SaD-1":
+	{
 		"dinoindex": 1,
 		"dinoname": "Allosaurus",
 		"dinoclassref": "/Game/PrimalEarth/Dinos/Allosaurus/Allo_Character_BP.Allo_Character_BP_C",
@@ -39,7 +63,7 @@
 			}
 		]
 	},
-	"SaD-1":
+	"SaD-2":
 	{
 		"dinoindex": 150,
 		"dinoname": "Ankylosaurus",
@@ -63,7 +87,7 @@
 			}
 		]
 	},
-	"SaD-2":
+	"SaD-3":
 	{
 		"dinoindex": 43,
 		"dinoname": "Araneo",
@@ -87,7 +111,7 @@
 			}
 		]
 	},
-	"SaD-3":
+	"SaD-4":
 	{
 		"dinoindex": 258,
 		"dinoname": "Archelon",
@@ -111,7 +135,7 @@
 			}
 		]
 	},
-	"SaD-4":
+	"SaD-5":
 	{
 		"dinoindex": 146,
 		"dinoname": "Argentavis",
@@ -135,7 +159,7 @@
 			}
 		]
 	},
-	"SaD-5":
+	"SaD-6":
 	{
 		"dinoindex": 145,
 		"dinoname": "Arthropluera",
@@ -159,7 +183,7 @@
 			}
 		]
 	},
-	"SaD-6":
+	"SaD-7":
 	{
 		"dinoindex": 275,
 		"dinoname": "Aureliax",
@@ -183,7 +207,7 @@
 			}
 		]
 	},
-	"SaD-7":
+	"SaD-8":
 	{
 		"dinoindex": 144,
 		"dinoname": "Baryonyx",
@@ -207,7 +231,7 @@
 			}
 		]
 	},
-	"SaD-8":
+	"SaD-9":
 	{
 		"dinoindex": 4,
 		"dinoname": "Basilosaurus",
@@ -231,7 +255,7 @@
 			}
 		]
 	},
-	"SaD-9":
+	"SaD-10":
 	{
 		"dinoindex": 191,
 		"dinoname": "Basilisk",
@@ -255,7 +279,7 @@
 			}
 		]
 	},
-	"SaD-10":
+	"SaD-11":
 	{
 		"dinoindex": 32,
 		"dinoname": "Beelzebufo",
@@ -279,7 +303,7 @@
 			}
 		]
 	},
-	"SaD-11":
+	"SaD-12":
 	{
 		"dinoindex": 267,
 		"dinoname": "Bison",
@@ -303,7 +327,7 @@
 			}
 		]
 	},
-	"SaD-12":
+	"SaD-13":
 	{
 		"dinoindex": 270,
 		"dinoname": "Brachiosaurus",
@@ -327,7 +351,7 @@
 			}
 		]
 	},
-	"SaD-13":
+	"SaD-14":
 	{
 		"dinoindex": 47,
 		"dinoname": "Brontosaurus",
@@ -367,7 +391,7 @@
 			}
 		]
 	},
-	"SaD-14":
+	"SaD-15":
 	{
 		"dinoindex": 26,
 		"dinoname": "Carbonemys",
@@ -391,7 +415,7 @@
 			}
 		]
 	},
-	"SaD-15":
+	"SaD-16":
 	{
 		"dinoindex": 136,
 		"dinoname": "Carcharodontosaurus",
@@ -415,7 +439,7 @@
 			}
 		]
 	},
-	"SaD-16":
+	"SaD-17":
 	{
 		"dinoindex": 134,
 		"dinoname": "Carnotaurus",
@@ -439,7 +463,7 @@
 			}
 		]
 	},
-	"SaD-17":
+	"SaD-18":
 	{
 		"dinoindex": 142,
 		"dinoname": "Castoroides",
@@ -463,7 +487,7 @@
 			}
 		]
 	},
-	"SaD-18":
+	"SaD-19":
 	{
 		"dinoindex": 259,
 		"dinoname": "Ceratosaurus",
@@ -487,7 +511,7 @@
 			}
 		]
 	},
-	"SaD-19":
+	"SaD-20":
 	{
 		"dinoindex": 132,
 		"dinoname": "Chalicotherium",
@@ -511,7 +535,7 @@
 			}
 		]
 	},
-	"SaD-20":
+	"SaD-21":
 	{
 		"dinoindex": 272,
 		"dinoname": "Cryolophosaurus",
@@ -535,7 +559,7 @@
 			}
 		]
 	},
-	"SaD-21":
+	"SaD-22":
 	{
 		"dinoindex": 280,
 		"dinoname": "Cyclops",
@@ -559,7 +583,7 @@
 			}
 		]
 	},
-	"SaD-22":
+	"SaD-23":
 	{
 		"dinoindex": 128,
 		"dinoname": "Daeodon",
@@ -583,7 +607,7 @@
 			}
 		]
 	},
-	"SaD-23":
+	"SaD-24":
 	{
 		"dinoindex": 175,
 		"dinoname": "Deinosuchus",
@@ -607,7 +631,7 @@
 			}
 		]
 	},
-	"SaD-24":
+	"SaD-25":
 	{
 		"dinoindex": 193,
 		"dinoname": "Deinonychus",
@@ -631,7 +655,7 @@
 			}
 		]
 	},
-	"SaD-25":
+	"SaD-26":
 	{
 		"dinoindex": 260,
 		"dinoname": "Deinotherium",
@@ -655,7 +679,7 @@
 			}
 		]
 	},
-	"SaD-26":
+	"SaD-27":
 	{
 		"dinoindex": 271,
 		"dinoname": "Desmodus",
@@ -679,7 +703,7 @@
 			}
 		]
 	},
-	"SaD-27":
+	"SaD-28":
 	{
 		"dinoindex": 123,
 		"dinoname": "Diplodocus",
@@ -703,7 +727,7 @@
 			}
 		]
 	},
-	"SaD-28":
+	"SaD-29":
 	{
 		"dinoindex": 122,
 		"dinoname": "Dire Bear",
@@ -727,7 +751,7 @@
 			}
 		]
 	},
-	"SaD-29":
+	"SaD-30":
 	{
 		"dinoindex": 114,
 		"dinoname": "Doedicurus",
@@ -751,7 +775,7 @@
 			}
 		]
 	},
-	"SaD-30":
+	"SaD-31":
 	{
 		"dinoindex": 174,
 		"dinoname": "Dreadnoughtus",
@@ -775,7 +799,7 @@
 			}
 		]
 	},
-	"SaD-31":
+	"SaD-32":
 	{
 		"dinoindex": 110,
 		"dinoname": "Dunkleosteus",
@@ -799,7 +823,7 @@
 			}
 		]
 	},
-	"SaD-32":
+	"SaD-33":
 	{
 		"dinoindex": 108,
 		"dinoname": "Equus",
@@ -823,7 +847,7 @@
 			}
 		]
 	},
-	"SaD-33":
+	"SaD-34":
 	{
 		"dinoindex": 173,
 		"dinoname": "Fasolasuchus",
@@ -847,7 +871,7 @@
 			}
 		]
 	},
-	"SaD-34":
+	"SaD-35":
 	{
 		"dinoindex": 164,
 		"dinoname": "Gacha",
@@ -871,7 +895,7 @@
 			}
 		]
 	},
-	"SaD-35":
+	"SaD-36":
 	{
 		"dinoindex": 107,
 		"dinoname": "Gallimimus",
@@ -895,7 +919,7 @@
 			}
 		]
 	},
-	"SaD-36":
+	"SaD-37":
 	{
 		"dinoindex": 163,
 		"dinoname": "Gasbags",
@@ -919,7 +943,7 @@
 			}
 		]
 	},
-	"SaD-37":
+	"SaD-38":
 	{
 		"dinoindex": 104,
 		"dinoname": "Giganotosaurus",
@@ -943,7 +967,7 @@
 			}
 		]
 	},
-	"SaD-38":
+	"SaD-39":
 	{
 		"dinoindex": 171,
 		"dinoname": "Gigantoraptor",
@@ -967,7 +991,7 @@
 			}
 		]
 	},
-	"SaD-39":
+	"SaD-40":
 	{
 		"dinoindex": 277,
 		"dinoname": "Gigadesmodus",
@@ -1007,7 +1031,7 @@
 			}
 		]
 	},
-	"SaD-40":
+	"SaD-41":
 	{
 		"dinoindex": 286,
 		"dinoname": "Grand Tortugar",
@@ -1047,7 +1071,7 @@
 			}
 		]
 	},
-	"SaD-41":
+	"SaD-42":
 	{
 		"dinoindex": 285,
 		"dinoname": "Helicoprion",
@@ -1071,7 +1095,7 @@
 			}
 		]
 	},
-	"SaD-42":
+	"SaD-43":
 	{
 		"dinoindex": 100,
 		"dinoname": "Hyaenodon ",
@@ -1095,7 +1119,7 @@
 			}
 		]
 	},
-	"SaD-43":
+	"SaD-44":
 	{
 		"dinoindex": 113,
 		"dinoname": "Ichthyosaurus",
@@ -1119,7 +1143,7 @@
 			}
 		]
 	},
-	"SaD-44":
+	"SaD-45":
 	{
 		"dinoindex": 98,
 		"dinoname": "Iguanodon",
@@ -1143,7 +1167,7 @@
 			}
 		]
 	},
-	"SaD-45":
+	"SaD-46":
 	{
 		"dinoindex": 96,
 		"dinoname": "Kaprosuchus",
@@ -1167,7 +1191,7 @@
 			}
 		]
 	},
-	"SaD-46":
+	"SaD-47":
 	{
 		"dinoindex": 186,
 		"dinoname": "Karkinos",
@@ -1191,7 +1215,7 @@
 			}
 		]
 	},
-	"SaD-47":
+	"SaD-48":
 	{
 		"dinoindex": 10,
 		"dinoname": "Lymantria",
@@ -1215,7 +1239,7 @@
 			}
 		]
 	},
-	"SaD-48":
+	"SaD-49":
 	{
 		"dinoindex": 274,
 		"dinoname": "Malwyn",
@@ -1239,7 +1263,7 @@
 			}
 		]
 	},
-	"SaD-49":
+	"SaD-50":
 	{
 		"dinoindex": 90,
 		"dinoname": "Mammoth",
@@ -1263,7 +1287,7 @@
 			}
 		]
 	},
-	"SaD-50":
+	"SaD-51":
 	{
 		"dinoindex": 162,
 		"dinoname": "Managarmr",
@@ -1287,7 +1311,7 @@
 			}
 		]
 	},
-	"SaD-51":
+	"SaD-52":
 	{
 		"dinoindex": 11,
 		"dinoname": "Mantis",
@@ -1311,7 +1335,7 @@
 			}
 		]
 	},
-	"SaD-52":
+	"SaD-53":
 	{
 		"dinoindex": 89,
 		"dinoname": "Manta",
@@ -1335,7 +1359,7 @@
 			}
 		]
 	},
-	"SaD-53":
+	"SaD-54":
 	{
 		"dinoindex": 41,
 		"dinoname": "Megaloceros",
@@ -1359,7 +1383,7 @@
 			}
 		]
 	},
-	"SaD-54":
+	"SaD-55":
 	{
 		"dinoindex": 84,
 		"dinoname": "Megatherium",
@@ -1383,7 +1407,7 @@
 			}
 		]
 	},
-	"SaD-55":
+	"SaD-56":
 	{
 		"dinoindex": 85,
 		"dinoname": "Megalosaurus",
@@ -1407,7 +1431,7 @@
 			}
 		]
 	},
-	"SaD-56":
+	"SaD-57":
 	{
 		"dinoindex": 87,
 		"dinoname": "Megalodon",
@@ -1431,7 +1455,7 @@
 			}
 		]
 	},
-	"SaD-57":
+	"SaD-58":
 	{
 		"dinoindex": 88,
 		"dinoname": "Megalania",
@@ -1455,7 +1479,7 @@
 			}
 		]
 	},
-	"SaD-58":
+	"SaD-59":
 	{
 		"dinoindex": 256,
 		"dinoname": "Megaraptor",
@@ -1479,7 +1503,7 @@
 			}
 		]
 	},
-	"SaD-59":
+	"SaD-60":
 	{
 		"dinoindex": 278,
 		"dinoname": "Minotaur",
@@ -1503,7 +1527,7 @@
 			}
 		]
 	},
-	"SaD-60":
+	"SaD-61":
 	{
 		"dinoindex": 21,
 		"dinoname": "Morellatops",
@@ -1527,7 +1551,7 @@
 			}
 		]
 	},
-	"SaD-61":
+	"SaD-62":
 	{
 		"dinoindex": 81,
 		"dinoname": "Mosasaurus",
@@ -1551,7 +1575,7 @@
 			}
 		]
 	},
-	"SaD-62":
+	"SaD-63":
 	{
 		"dinoindex": 261,
 		"dinoname": "Ossidon",
@@ -1575,7 +1599,7 @@
 			}
 		]
 	},
-	"SaD-63":
+	"SaD-64":
 	{
 		"dinoindex": 75,
 		"dinoname": "Pachyrhinosaurus",
@@ -1599,7 +1623,7 @@
 			}
 		]
 	},
-	"SaD-64":
+	"SaD-65":
 	{
 		"dinoindex": 76,
 		"dinoname": "Pachy",
@@ -1623,7 +1647,7 @@
 			}
 		]
 	},
-	"SaD-65":
+	"SaD-66":
 	{
 		"dinoindex": 72,
 		"dinoname": "Paraceratherium",
@@ -1663,7 +1687,7 @@
 			}
 		]
 	},
-	"SaD-66":
+	"SaD-67":
 	{
 		"dinoindex": 73,
 		"dinoname": "Parasaur",
@@ -1687,7 +1711,7 @@
 			}
 		]
 	},
-	"SaD-67":
+	"SaD-68":
 	{
 		"dinoindex": 70,
 		"dinoname": "Pelagornis",
@@ -1711,7 +1735,7 @@
 			}
 		]
 	},
-	"SaD-68":
+	"SaD-69":
 	{
 		"dinoindex": 69,
 		"dinoname": "Phiomia",
@@ -1735,7 +1759,7 @@
 			}
 		]
 	},
-	"SaD-69":
+	"SaD-70":
 	{
 		"dinoindex": 67,
 		"dinoname": "Plesiosaur",
@@ -1775,7 +1799,7 @@
 			}
 		]
 	},
-	"SaD-70":
+	"SaD-71":
 	{
 		"dinoindex": 66,
 		"dinoname": "Procoptodon",
@@ -1799,7 +1823,7 @@
 			}
 		]
 	},
-	"SaD-71":
+	"SaD-72":
 	{
 		"dinoindex": 64,
 		"dinoname": "Pteranodon",
@@ -1823,7 +1847,7 @@
 			}
 		]
 	},
-	"SaD-72":
+	"SaD-73":
 	{
 		"dinoindex": 46,
 		"dinoname": "Pulmonoscorpius",
@@ -1847,7 +1871,7 @@
 			}
 		]
 	},
-	"SaD-73":
+	"SaD-74":
 	{
 		"dinoindex": 60,
 		"dinoname": "Quetzal",
@@ -1887,7 +1911,7 @@
 			}
 		]
 	},
-	"SaD-74":
+	"SaD-75":
 	{
 		"dinoindex": 56,
 		"dinoname": "Raptor",
@@ -1911,7 +1935,7 @@
 			}
 		]
 	},
-	"SaD-75":
+	"SaD-76":
 	{
 		"dinoindex": 188,
 		"dinoname": "Ravager",
@@ -1935,7 +1959,7 @@
 			}
 		]
 	},
-	"SaD-76":
+	"SaD-77":
 	{
 		"dinoindex": 2,
 		"dinoname": "Rex",
@@ -1959,7 +1983,7 @@
 			}
 		]
 	},
-	"SaD-77":
+	"SaD-78":
 	{
 		"dinoindex": 52,
 		"dinoname": "Rhyniognatha",
@@ -1983,7 +2007,7 @@
 			}
 		]
 	},
-	"SaD-78":
+	"SaD-79":
 	{
 		"dinoindex": 8,
 		"dinoname": "Rock Elemental",
@@ -2007,7 +2031,7 @@
 			}
 		]
 	},
-	"SaD-79":
+	"SaD-80":
 	{
 		"dinoindex": 177,
 		"dinoname": "Rock Drake",
@@ -2031,7 +2055,7 @@
 			}
 		]
 	},
-	"SaD-80":
+	"SaD-81":
 	{
 		"dinoindex": 179,
 		"dinoname": "Roll Rat",
@@ -2055,7 +2079,7 @@
 			}
 		]
 	},
-	"SaD-81":
+	"SaD-82":
 	{
 		"dinoindex": 51,
 		"dinoname": "Sabertooth",
@@ -2079,7 +2103,7 @@
 			}
 		]
 	},
-	"SaD-82":
+	"SaD-83":
 	{
 		"dinoindex": 49,
 		"dinoname": "Sarco",
@@ -2103,7 +2127,7 @@
 			}
 		]
 	},
-	"SaD-83":
+	"SaD-84":
 	{
 		"dinoindex": 279,
 		"dinoname": "Seahorse",
@@ -2127,7 +2151,7 @@
 			}
 		]
 	},
-	"SaD-84":
+	"SaD-85":
 	{
 		"dinoindex": 0,
 		"dinoname": "Shastasaurus",
@@ -2151,7 +2175,7 @@
 			}
 		]
 	},
-	"SaD-85":
+	"SaD-86":
 	{
 		"dinoindex": 156,
 		"dinoname": "Snow Owl",
@@ -2175,7 +2199,7 @@
 			}
 		]
 	},
-	"SaD-86":
+	"SaD-87":
 	{
 		"dinoindex": 273,
 		"dinoname": "Solwyn",
@@ -2199,7 +2223,7 @@
 			}
 		]
 	},
-	"SaD-87":
+	"SaD-88":
 	{
 		"dinoindex": 42,
 		"dinoname": "Spino",
@@ -2223,7 +2247,7 @@
 			}
 		]
 	},
-	"SaD-88":
+	"SaD-89":
 	{
 		"dinoindex": 38,
 		"dinoname": "Stegosaurus",
@@ -2247,7 +2271,7 @@
 			}
 		]
 	},
-	"SaD-89":
+	"SaD-90":
 	{
 		"dinoindex": 37,
 		"dinoname": "Tapejara",
@@ -2271,7 +2295,7 @@
 			}
 		]
 	},
-	"SaD-90":
+	"SaD-91":
 	{
 		"dinoindex": 36,
 		"dinoname": "Terror Bird",
@@ -2295,7 +2319,7 @@
 			}
 		]
 	},
-	"SaD-91":
+	"SaD-92":
 	{
 		"dinoindex": 35,
 		"dinoname": "Therizinosaur",
@@ -2319,7 +2343,7 @@
 			}
 		]
 	},
-	"SaD-92":
+	"SaD-93":
 	{
 		"dinoindex": 6,
 		"dinoname": "Thorny Dragon",
@@ -2343,7 +2367,7 @@
 			}
 		]
 	},
-	"SaD-93":
+	"SaD-94":
 	{
 		"dinoindex": 34,
 		"dinoname": "Thylacoleo",
@@ -2367,7 +2391,7 @@
 			}
 		]
 	},
-	"SaD-94":
+	"SaD-95":
 	{
 		"dinoindex": 29,
 		"dinoname": "Triceratops",
@@ -2391,7 +2415,7 @@
 			}
 		]
 	},
-	"SaD-95":
+	"SaD-96":
 	{
 		"dinoindex": 24,
 		"dinoname": "Tusoteuthis",
@@ -2415,7 +2439,7 @@
 			}
 		]
 	},
-	"SaD-96":
+	"SaD-97":
 	{
 		"dinoindex": 154,
 		"dinoname": "Velonasaur",
@@ -2439,7 +2463,7 @@
 			}
 		]
 	},
-	"SaD-97":
+	"SaD-98":
 	{
 		"dinoindex": 266,
 		"dinoname": "Xiphactinus",
@@ -2463,7 +2487,7 @@
 			}
 		]
 	},
-	"SaD-98":
+	"SaD-99":
 	{
 		"dinoindex": 170,
 		"dinoname": "Yi Ling",
@@ -2487,7 +2511,7 @@
 			}
 		]
 	},
-	"SaD-99":
+	"SaD-100":
 	{
 		"dinoindex": 22,
 		"dinoname": "Yutyrannus",
@@ -2511,15 +2535,15 @@
 			}
 		]
 	},
-	"SaD-100":
+	"SaD-101":
 	{
-		"dinoindex": 291,
-		"dinoname": "Acrocanthosaurus",
-		"dinoclassref": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP_C",
+		"dinoindex": 296,
+		"dinoname": "Burrowbuck",
+		"dinoclassref": "/Game/ASA/Dinos/Jackalope/Jackalope_Character_BP.Jackalope_Character_BP_C",
 		"singlesaddels": [
 			{
 				"issaddlerplus": false,
-				"saddleclassref": "/Game/ASA/Dinos/Acrocanthosaurus/Saddle/PrimalItemArmor_AcroSaddle.PrimalItemArmor_AcroSaddle_C",
+				"saddleclassref": "/Game/ASA/Dinos/Jackalope/PrimalItemArmor_JackalopeSaddle.PrimalItemArmor_JackalopeSaddle_C",
 				"armorvalue": 300,
 				"durability": 750,
 				"quality": 5,
@@ -2527,7 +2551,7 @@
 			},
 			{
 				"issaddlerplus": true,
-				"saddleclassref": "/Game/ASA/Dinos/Acrocanthosaurus/Saddle/PrimalItemArmor_AcroSaddle.PrimalItemArmor_AcroSaddle_C",
+				"saddleclassref": "/Game/ASA/Dinos/Jackalope/PrimalItemArmor_JackalopeSaddle.PrimalItemArmor_JackalopeSaddle_C",
 				"armorvalue": 300,
 				"durability": 750,
 				"quality": 5,
