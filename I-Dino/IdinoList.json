@@ -3586,5 +3586,17 @@
 		"isboss": false,
 		"softdinoclass": "/Game/Dragontopia/Dragons/Eclipsar/Umbra/Umbra_Character_BP.Umbra_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-299":
+	{
+		"dinostringref": "/Game/Dragontopia/Dragons/Eclipsar/Lumina/Lumina_Character_BP.Lumina_Character_BP_C",
+		"dinonametag": "Lumina",
+		"dinodescription": "Lumina",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Dragontopia/Dragons/Eclipsar/Lumina/Lumina_Character_BP.Lumina_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	}
 }
