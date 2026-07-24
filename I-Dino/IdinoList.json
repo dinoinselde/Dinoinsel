@@ -3982,5 +3982,65 @@
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/BiomeVariants/Snow_Cryolophosaurus/Snow_Cryolophosaurus_Character_BP.Snow_Cryolophosaurus_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-332":
+	{
+		"dinostringref": "/Game/Packs/TidesOfFortune/Dinos/Axolotl/Axolotl_Small/Axolotl_Small_Character_BP.Axolotl_Small_Character_BP_C",
+		"dinonametag": "Axolotl",
+		"dinodescription": "Tidepup",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Packs/TidesOfFortune/Dinos/Axolotl/Axolotl_Small/Axolotl_Small_Character_BP.Axolotl_Small_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+	},
+	"BD-333":
+	{
+		"dinostringref": "/Game/Genesis/Dinos/Shapeshifter/Shapeshifter_Small/Shapeshifter_Small_Character_BP.Shapeshifter_Small_Character_BP_C",
+		"dinonametag": "Gremlin",
+		"dinodescription": "Ferox",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Genesis/Dinos/Shapeshifter/Shapeshifter_Small/Shapeshifter_Small_Character_BP.Shapeshifter_Small_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-334":
+	{
+		"dinostringref": "/SDinoVariants/S-Yutyrannus/S-Yutyrannus_Character_BP.S-Yutyrannus_Character_BP_C",
+		"dinonametag": "Yutyrannus",
+		"dinodescription": "S-Yutyrannus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Yutyrannus/S-Yutyrannus_Character_BP.S-Yutyrannus_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-335":
+	{
+		"dinostringref": "/SDinoVariants/S-Araneo/S-SpiderS_Character_BP.S-SpiderS_Character_BP_C",
+		"dinonametag": "Spider",
+		"dinodescription": "S-Araneo",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Araneo/S-SpiderS_Character_BP.S-SpiderS_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-336":
+	{
+		"dinostringref": "/SDinoVariants/S-Cherufe/S-Cherufe_Character_BP.S-Cherufe_Character_BP_C",
+		"dinonametag": "LavaLizard",
+		"dinodescription": "S-Magmasaur",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Cherufe/S-Cherufe_Character_BP.S-Cherufe_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	}
 }
