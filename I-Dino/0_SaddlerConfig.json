@@ -1584,7 +1584,7 @@
 			{
 				"issaddlerplus": false,
 				"saddleclassref": "/Game/Genesis/Dinos/GiantTurtle/PrimalItemArmor_GiantTurtleSaddle.PrimalItemArmor_GiantTurtleSaddle_C",
-				"armorvalue": 300,
+				"armorvalue": 250,
 				"durability": 750,
 				"quality": 5,
 				"amount": 1
@@ -1592,7 +1592,7 @@
 			{
 				"issaddlerplus": true,
 				"saddleclassref": "/Game/Genesis/Dinos/GiantTurtle/PrimalItemArmor_GiantTurtleSaddle.PrimalItemArmor_GiantTurtleSaddle_C",
-				"armorvalue": 300,
+				"armorvalue": 250,
 				"durability": 750,
 				"quality": 5,
 				"amount": 10
