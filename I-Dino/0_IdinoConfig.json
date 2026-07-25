@@ -6566,7 +6566,7 @@
 			"forpillartag": "Idino_Wild",
 			"allowgendar": true,
 			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
-			"statbase": "0,75,228,1,",
+			"statbase": "0,75,180,1,",
 			"reducepointschoosen": [
 				"1,15,"
 			],
