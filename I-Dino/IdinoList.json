@@ -4042,5 +4042,17 @@
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Cherufe/S-Cherufe_Character_BP.S-Cherufe_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-337":
+	{
+		"dinostringref": "/SDinoVariants/S-Helicoprion/S-Helicoprion_Character_BP.S-Helicoprion_Character_BP_C",
+		"dinonametag": "HelicoprionAA",
+		"dinodescription": "S-Helicoprion",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Helicoprion/S-Helicoprion_Character_BP.S-Helicoprion_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9, 11 ]
 	}
 }
