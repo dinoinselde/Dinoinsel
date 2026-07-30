@@ -1,19 +1,4 @@
 {
-	"Pdx-3":
-	{
-		"GS-3":
-		{
-			"tag": "Idino_Event",
-			"spawnoffset": "0,0,100,",
-			"descriptname": "I-Dino Event",
-			"description": "Herzlichen Glueckwunsch! Du darfst dir ein Event-Dino ganz nach deinen Wuenschen erstellen!",
-			"statbase": "2,90,330,1,",
-			"reducepointschoosen": [
-				"1,18,"
-			],
-			"allowgender": true
-		}
-	},
 	"Pdx-1":
 	{
 		"GS-1":
@@ -30,8 +15,8 @@
 		},
 		"DS-0":
 		{
-			"dinoindex": 336,
-			"dinoname": "S-Magmasaur",
+			"dinoindex": 303,
+			"dinoname": "Magmasaur",
 			"forpillartag": "Idino_Advance",
 			"allowgendar": false,
 			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
@@ -41,11 +26,22 @@
 		},
 		"DS-1":
 		{
-			"dinoindex": 303,
-			"dinoname": "Magmasaur",
+			"dinoindex": 336,
+			"dinoname": "S-Magmasaur",
 			"forpillartag": "Idino_Advance",
 			"allowgendar": false,
 			"allowablestats": "((0, 0),(1, 0),(3, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
+		},
+		"DS-2":
+		{
+			"dinoindex": 152,
+			"dinoname": "Achatina",
+			"forpillartag": "Idino_Advance",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
 			"statbase": "",
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
@@ -5943,6 +5939,21 @@
 			"statbase": "",
 			"reducepointschoosen": [],
 			"bitmaskbool": 8
+		}
+	},
+	"Pdx-3":
+	{
+		"GS-3":
+		{
+			"tag": "Idino_Event",
+			"spawnoffset": "0,0,100,",
+			"descriptname": "I-Dino Event",
+			"description": "Herzlichen Glueckwunsch! Du darfst dir ein Event-Dino ganz nach deinen Wuenschen erstellen!",
+			"statbase": "2,90,330,1,",
+			"reducepointschoosen": [
+				"1,18,"
+			],
+			"allowgender": true
 		}
 	}
 }
