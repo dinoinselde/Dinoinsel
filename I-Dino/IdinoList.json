@@ -4054,5 +4054,53 @@
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Helicoprion/S-Helicoprion_Character_BP.S-Helicoprion_Character_BP_C",
 		"possiblestats": [ 0, 1, 4, 7, 8, 9, 11 ]
+	},
+	"BD-338":
+	{
+		"dinostringref": "/Game/Genesis/Dinos/BiomeVariants/Volcano_Conca/Volcano_Concavenator_Character_BP.Volcano_Concavenator_Character_BP_C",
+		"dinonametag": "Conca",
+		"dinodescription": "X-Concavenator",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/Genesis/Dinos/BiomeVariants/Volcano_Conca/Volcano_Concavenator_Character_BP.Volcano_Concavenator_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-339":
+	{
+		"dinostringref": "/Game/ASA/Dinos/Concavenator/Concavenator_Character_BP_Aberrant.Concavenator_Character_BP_Aberrant_C",
+		"dinonametag": "Conca",
+		"dinodescription": "Aberrant Concavenator",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ASA/Dinos/Concavenator/Concavenator_Character_BP_Aberrant.Concavenator_Character_BP_Aberrant_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-340":
+	{
+		"dinostringref": "/Game/ASA/Dinos/Concavenator/Concavenator_Character_BP.Concavenator_Character_BP_C",
+		"dinonametag": "Conca",
+		"dinodescription": "Concavenator",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ASA/Dinos/Concavenator/Concavenator_Character_BP.Concavenator_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-341":
+	{
+		"dinostringref": "/Game/ASA/Dinos/Boaratos/Boaratos_Character_BP.Boaratos_Character_BP_C",
+		"dinonametag": "Boaratos",
+		"dinodescription": "Boaratos",
+		"hasegg": false,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ASA/Dinos/Boaratos/Boaratos_Character_BP.Boaratos_Character_BP_C",
+		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
 	}
 }
