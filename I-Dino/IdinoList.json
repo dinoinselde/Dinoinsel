@@ -4102,5 +4102,17 @@
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/Boaratos/Boaratos_Character_BP.Boaratos_Character_BP_C",
 		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+	},
+	"BD-342":
+	{
+		"dinostringref": "/Glaucus/Content/Glaucus_Character_BP.Glaucus_Character_BP_C",
+		"dinonametag": "Glaucus",
+		"dinodescription": "Glaucus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Glaucus/Content/Glaucus_Character_BP.Glaucus_Character_BP_C",
+		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
 	}
 }
