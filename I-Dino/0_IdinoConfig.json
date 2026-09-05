@@ -8866,11 +8866,22 @@
 			"spawnoffset": "0,0,100,",
 			"descriptname": "I-Dino Event",
 			"description": "Herzlichen Glueckwunsch! Du darfst dir ein Event-Dino ganz nach deinen Wuenschen erstellen!",
-			"statbase": "2,90,330,1,",
+			"statbase": "2,82,330,1,",
 			"reducepointschoosen": [
-				"1,18,"
+				"1,12,"
 			],
 			"allowgender": true
+		},
+		"DS-0":
+		{
+			"dinoindex": 342,
+			"dinoname": "Glaucus",
+			"forpillartag": "Idino_Event",
+			"allowgendar": false,
+			"allowablestats": "((0, 0),(1, 0),(4, 0),(7, 0),(8, 0),(9, 0))",
+			"statbase": "",
+			"reducepointschoosen": [],
+			"bitmaskbool": 8
 		}
 	}
 }
