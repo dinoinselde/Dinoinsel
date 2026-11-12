@@ -9,7 +9,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/Shastasaurus/Shastasaurus_Character_BP.Shastasaurus_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-1":
 	{
@@ -21,7 +28,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Allosaurus/Allo_Character_BP.Allo_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-2":
 	{
@@ -33,7 +48,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-3":
 	{
@@ -45,7 +68,14 @@
 		"isalpha": true,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Rex/MegaRex_Character_BP.MegaRex_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-4":
 	{
@@ -57,7 +87,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Basilosaurus/Basilosaurus_Character_BP.Basilosaurus_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-5":
 	{
@@ -69,7 +106,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ScorchedEarth/Dinos/Vulture/Vulture_Character_BP.Vulture_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-6":
 	{
@@ -81,7 +126,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ScorchedEarth/Dinos/SpineyLizard/SpineyLizard_Character_BP.SpineyLizard_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-7":
 	{
@@ -93,7 +146,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ScorchedEarth/Dinos/RockGolem/RubbleGolem_Character_BP.RubbleGolem_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-8":
 	{
@@ -105,7 +165,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ScorchedEarth/Dinos/RockGolem/RockGolem_Character_BP.RockGolem_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-9":
 	{
@@ -117,7 +184,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ScorchedEarth/Dinos/Phoenix/Phoenix_Character_BP.Phoenix_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-10":
 	{
@@ -129,7 +204,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ScorchedEarth/Dinos/Moth/Moth_Character_BP.Moth_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-11":
 	{
@@ -141,7 +224,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ScorchedEarth/Dinos/Mantis/Mantis_Character_BP.Mantis_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-12":
 	{
@@ -153,7 +244,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ScorchedEarth/Dinos/Mantis/Ghost_Mantis_Character_BP.Ghost_Mantis_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-13":
 	{
@@ -165,7 +264,15 @@
 		"isalpha": false,
 		"isboss": true,
 		"softdinoclass": "/Game/ScorchedEarth/Dinos/Manticore/Manticore_Character_BP.Manticore_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-14":
 	{
@@ -177,7 +284,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ScorchedEarth/Dinos/Jugbug/Jugbug_Water_Character_BP.Jugbug_Water_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-15":
 	{
@@ -189,7 +304,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ScorchedEarth/Dinos/Jugbug/Jugbug_Oil_Character_BP.Jugbug_Oil_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-16":
 	{
@@ -201,7 +324,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ScorchedEarth/Dinos/Jerboa/Jerboa_Character_BP.Jerboa_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-17":
 	{
@@ -213,7 +344,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ScorchedEarth/Dinos/Jerboa/Bone_Jerboa_Character_BP.Bone_Jerboa_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-18":
 	{
@@ -225,7 +364,15 @@
 		"isalpha": false,
 		"isboss": true,
 		"softdinoclass": "/Game/ScorchedEarth/Dinos/DodoWyvern/DodoWyvern_Character_BP.DodoWyvern_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-19":
 	{
@@ -237,7 +384,14 @@
 		"isalpha": true,
 		"isboss": false,
 		"softdinoclass": "/Game/ScorchedEarth/Dinos/Deathworm/MegaDeathworm_Character_BP.MegaDeathworm_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-20":
 	{
@@ -249,7 +403,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ScorchedEarth/Dinos/DeathWorm/DeathWorm_Character_BP.Deathworm_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-21":
 	{
@@ -261,7 +422,16 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ScorchedEarth/Dinos/Camelsaurus/camelsaurus_Character_BP.camelsaurus_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 5, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			5,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-22":
 	{
@@ -273,7 +443,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Yutyrannus/Yutyrannus_Character_BP.Yutyrannus_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-23":
 	{
@@ -285,7 +463,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/WoollyRhino/Rhino_Character_BP.Rhino_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-24":
 	{
@@ -297,7 +483,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Tusoteuthis/Tusoteuthis_Character_BP.Tusoteuthis_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-25":
 	{
@@ -309,7 +502,14 @@
 		"isalpha": true,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Tusoteuthis/Mega_Tusoteuthis_Character_BP.Mega_Tusoteuthis_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-26":
 	{
@@ -321,7 +521,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Turtle/Turtle_Character_BP.Turtle_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-27":
 	{
@@ -333,7 +540,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Tropeognathus/Tropeognathus_Character_BP.Tropeognathus_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-28":
 	{
@@ -345,7 +560,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Troodon/Troodon_Character_BP.Troodon_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-29":
 	{
@@ -357,7 +580,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Trike/Trike_Character_BP.Trike_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-30":
 	{
@@ -369,7 +600,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Trike/Bone_Trike_Character_BP.Bone_Trike_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-31":
 	{
@@ -381,7 +620,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Trike/BionicTrike_Character_BP.BionicTrike_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-32":
 	{
@@ -393,7 +640,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Toad/Toad_Character_BP.Toad_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-33":
 	{
@@ -405,7 +659,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/titanosaur/Titanosaur_Character_BP.Titanosaur_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-34":
 	{
@@ -417,7 +679,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Thylacoleo/Thylacoleo_Character_BP.Thylacoleo_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-35":
 	{
@@ -429,7 +699,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Therizinosaurus/Therizino_Character_BP.Therizino_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-36":
 	{
@@ -441,7 +719,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/TerrorBird/TerrorBird_Character_BP.TerrorBird_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-37":
 	{
@@ -453,7 +739,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Tapejara/Tapejara_Character_BP.Tapejara_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-38":
 	{
@@ -465,7 +759,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Stego/Stego_Character_BP.Stego_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-39":
 	{
@@ -477,7 +779,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Stego/Bone_Stego_Character_BP.Bone_Stego_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-40":
 	{
@@ -489,7 +799,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Stego/BionicStego_Character_BP.BionicStego_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-41":
 	{
@@ -501,7 +819,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Stag/Stag_Character_BP.Stag_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-42":
 	{
@@ -513,7 +839,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Spino/Spino_Character_BP.Spino_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-43":
 	{
@@ -525,7 +859,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Spider-Small/SpiderS_Character_BP.SpiderS_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-44":
 	{
@@ -537,7 +879,14 @@
 		"isalpha": false,
 		"isboss": true,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Spider-Large/SpiderL_Character_BP.SpiderL_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-45":
 	{
@@ -549,7 +898,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Sheep/Sheep_Character_BP.Sheep_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-46":
 	{
@@ -561,7 +918,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Scorpion/Scorpion_Character_BP.Scorpion_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-47":
 	{
@@ -573,7 +938,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Sauropod/Sauropod_Character_BP.Sauropod_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-48":
 	{
@@ -585,7 +958,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Sauropod/Bone_Sauropod_Character_BP.Bone_Sauropod_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-49":
 	{
@@ -597,7 +978,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Sarco/Sarco_Character_BP.Sarco_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-50":
 	{
@@ -609,7 +997,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Salmon/Salmon_Character_BP.Salmon_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-51":
 	{
@@ -621,7 +1016,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Saber/Saber_Character_BP.Saber_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-52":
 	{
@@ -633,7 +1036,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Rhyniognatha/Rhynio_Character_BP.Rhynio_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-53":
 	{
@@ -645,7 +1056,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Rex/Ghost_Rex_Character_BP.Ghost_Rex_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-54":
 	{
@@ -657,7 +1076,14 @@
 		"isalpha": true,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Rex/Bone_MegaRex_Character_BP.Bone_MegaRex_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-55":
 	{
@@ -669,7 +1095,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Rex/BionicRex_Character_BP.BionicRex_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-56":
 	{
@@ -681,7 +1115,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP.Raptor_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-57":
 	{
@@ -693,7 +1135,14 @@
 		"isalpha": true,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Raptor/MegaRaptor_Character_BP.MegaRaptor_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-58":
 	{
@@ -705,7 +1154,14 @@
 		"isalpha": true,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Raptor/Bone_MegaRaptor_Character_BP.Bone_MegaRaptor_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-59":
 	{
@@ -717,7 +1173,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Raptor/BionicRaptor_Character_BP.BionicRaptor_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-60":
 	{
@@ -729,7 +1193,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Quetzalcoatlus/Quetz_Character_BP.Quetz_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-61":
 	{
@@ -741,7 +1213,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Quetzalcoatlus/Bone_Quetz_Character_BP.Bone_Quetz_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-62":
 	{
@@ -753,7 +1233,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Quetzalcoatlus/BionicQuetz_Character_BP.BionicQuetz_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-63":
 	{
@@ -765,7 +1253,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Purlovia/Purlovia_Character_BP.Purlovia_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-64":
 	{
@@ -777,7 +1273,15 @@
 		"isalpha": false,
 		"isboss": true,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Ptero/Ptero_Minion_Character_BP.Ptero_Minion_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-65":
 	{
@@ -789,7 +1293,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Ptero/Ptero_Character_BP.Ptero_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-66":
 	{
@@ -801,7 +1313,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Procoptodon/Procoptodon_Character_BP.Procoptodon_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-67":
 	{
@@ -813,7 +1333,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Plesiosaur/Plesiosaur_Character_BP.Plesiosaur_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-68":
 	{
@@ -825,7 +1352,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Piranha/Piranha_Character_BP.Piranha_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-69":
 	{
@@ -837,7 +1371,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Phiomia/Phiomia_Character_BP.Phiomia_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-70":
 	{
@@ -849,7 +1391,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Pelagornis/Pela_Character_BP.Pela_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-71":
 	{
@@ -861,7 +1411,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Pegomastax/Pegomastax_Character_BP.Pegomastax_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-72":
 	{
@@ -873,7 +1431,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Paraceratherium/Paracer_Character_BP.Paracer_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-73":
 	{
@@ -885,7 +1451,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Para/Para_Character_BP.Para_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-74":
 	{
@@ -897,7 +1471,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Para/BionicPara_Character_BP.BionicPara_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-75":
 	{
@@ -909,7 +1491,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Pachyrhinosaurus/Pachyrhino_Character_BP.Pachyrhino_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-76":
 	{
@@ -921,7 +1511,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Pachy/Pachy_Character_BP.Pachy_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-77":
 	{
@@ -933,7 +1531,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Oviraptor/Oviraptor_Character_BP.Oviraptor_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-78":
 	{
@@ -945,7 +1551,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Oviraptor/BunnyOviraptor_Character_BP.BunnyOviraptor_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-79":
 	{
@@ -957,7 +1571,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Otter/Otter_Character_BP.Otter_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-80":
 	{
@@ -969,7 +1591,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Moschops/Moschops_Character_BP.Moschops_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-81":
 	{
@@ -981,7 +1611,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP.Mosa_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-82":
 	{
@@ -993,7 +1630,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Monkey/Monkey_Character_BP.Monkey_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-83":
 	{
@@ -1005,7 +1650,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Microraptor/Microraptor_Character_BP.Microraptor_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-84":
 	{
@@ -1017,7 +1670,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Megatherium/Megatherium_Character_BP.Megatherium_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-85":
 	{
@@ -1029,7 +1690,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Megalosaurus/Megalosaurus_Character_BP.Megalosaurus_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-86":
 	{
@@ -1041,7 +1710,14 @@
 		"isalpha": true,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Megalodon/MEgaMegalodon_Character_BP.MegaMegalodon_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-87":
 	{
@@ -1053,7 +1729,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Megalodon/Megalodon_Character_BP.Megalodon_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-88":
 	{
@@ -1065,7 +1748,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Megalania/Megalania_Character_BP.Megalania_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-89":
 	{
@@ -1077,7 +1768,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Manta/Manta_Character_BP.Manta_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-90":
 	{
@@ -1089,7 +1787,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Mammoth/Mammoth_Character_BP.Mammoth_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-91":
 	{
@@ -1101,7 +1807,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Lystrosaurus/Lystro_Character_BP.Lystro_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-92":
 	{
@@ -1113,7 +1827,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Liopleurodon/Liopleurodon_Character_BP.Liopleurodon_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-93":
 	{
@@ -1125,7 +1846,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Leedsichthys/Leedsichthys_Character_BP.Leedsichthys_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-94":
 	{
@@ -1137,7 +1865,14 @@
 		"isalpha": true,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Leedsichthys/Alpha_Leedsichthys_Character_BP.Alpha_Leedsichthys_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-95":
 	{
@@ -1149,7 +1884,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Kentrosaurus/Kentro_Character_BP.Kentro_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-96":
 	{
@@ -1161,7 +1904,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Kaprosuchus/Kaprosuchus_Character_BP.Kaprosuchus_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-97":
 	{
@@ -1173,7 +1923,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Kairuku/Kairuku_Character_BP.Kairuku_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-98":
 	{
@@ -1185,7 +1942,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Iguanodon/Iguanodon_Character_BP.Iguanodon_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-99":
 	{
@@ -1197,7 +1962,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Ichthyornis/Ichthyornis_Character_BP.Ichthyornis_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-100":
 	{
@@ -1209,7 +1982,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Hyaenodon/Hyaenodon_Character_BP.Hyaenodon_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-101":
 	{
@@ -1221,7 +2002,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Hesperornis/Hesperornis_Character_BP.Hesperornis_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-102":
 	{
@@ -1233,7 +2021,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Griffin/Griffin_Character_BP.Griffin_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-103":
 	{
@@ -1245,7 +2041,14 @@
 		"isalpha": false,
 		"isboss": true,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Gorilla/Gorilla_Character_BP.Gorilla_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-104":
 	{
@@ -1257,7 +2060,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-105":
 	{
@@ -1269,7 +2080,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Giganotosaurus/Bone_Gigant_Character_BP.Bone_Gigant_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-106":
 	{
@@ -1281,7 +2100,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Giganotosaurus/BionicGigant_Character_BP.BionicGigant_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-107":
 	{
@@ -1293,7 +2120,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Gallimimus/Galli_Character_BP.Galli_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-108":
 	{
@@ -1305,7 +2140,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Equus/Equus_Character_BP.Equus_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-109":
 	{
@@ -1317,7 +2160,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Eel/Eel_Character_BP.Eel_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-110":
 	{
@@ -1329,7 +2180,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Dunkleosteus/Dunkle_Character_BP.Dunkle_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-111":
 	{
@@ -1341,7 +2199,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/DungBeetle/DungBeetle_Character_BP.DungBeetle_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-112":
 	{
@@ -1353,7 +2219,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Dragonfly/Dragonfly_Character_BP.Dragonfly_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-113":
 	{
@@ -1365,7 +2239,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Dolphin/Dolphin_Character_BP.Dolphin_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-114":
 	{
@@ -1377,7 +2258,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Doedicurus/Doed_Character_BP.Doed_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-115":
 	{
@@ -1389,7 +2278,14 @@
 		"isalpha": false,
 		"isboss": true,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/DodoRex/DodoRex_Character_BP.DodoRex_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-116":
 	{
@@ -1401,7 +2297,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Dodo/ZombieDodo_Character_BP.ZombieDodo_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-117":
 	{
@@ -1413,7 +2316,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Dodo/Turkey_Character_BP.Turkey_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-118":
 	{
@@ -1425,7 +2335,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Dodo/TurkeyBase_Character_BP.TurkeyBase_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-119":
 	{
@@ -1437,7 +2355,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Dodo/Dodo_Character_BP.Dodo_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-120":
 	{
@@ -1449,7 +2375,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Direwolf/Ghost_Direwolf_Character_BP.Ghost_Direwolf_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-121":
 	{
@@ -1461,7 +2395,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Direwolf/Direwolf_Character_BP.Direwolf_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-122":
 	{
@@ -1473,7 +2415,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Direbear/Direbear_Character_BP.Direbear_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-123":
 	{
@@ -1485,7 +2435,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Diplodocus/Diplodocus_Character_BP.Diplodocus_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-124":
 	{
@@ -1497,7 +2455,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Diplocaulus/Diplocaulus_Character_BP.Diplocaulus_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-125":
 	{
@@ -1509,7 +2475,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Dimorphodon/Dimorph_Character_BP.Dimorph_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-126":
 	{
@@ -1521,7 +2495,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Dimetrodon/Dimetro_Character_BP.Dimetro_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-127":
 	{
@@ -1533,7 +2514,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Dilo/Dilo_Character_BP.Dilo_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-128":
 	{
@@ -1545,7 +2534,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Daeodon/Daeodon_Character_BP.Daeodon_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-129":
 	{
@@ -1557,7 +2554,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Compy/Compy_Character_BP.Compy_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-130":
 	{
@@ -1569,7 +2574,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Coelacanth/Coel_Character_BP.Coel_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-131":
 	{
@@ -1581,7 +2593,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Cnidaria/Cnidaria_Character_BP.Cnidaria_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-132":
 	{
@@ -1593,7 +2612,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Chalicotherium/Chalico_Character_BP.Chalico_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-133":
 	{
@@ -1605,7 +2632,14 @@
 		"isalpha": true,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Carno/MegaCarno_Character_BP.MegaCarno_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-134":
 	{
@@ -1617,7 +2651,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Carno/Carno_Character_BP.Carno_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-135":
 	{
@@ -1629,7 +2671,14 @@
 		"isalpha": true,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Carno/Bone_MegaCarno_Character_BP.Bone_MegaCarno_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-136":
 	{
@@ -1641,7 +2690,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-137":
 	{
@@ -1653,7 +2710,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/BoaFrill/BoaFrill_Character_BP.BoaFrill_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-138":
 	{
@@ -1665,7 +2729,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Bigfoot/Yeti_Character_BP.Yeti_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-139":
 	{
@@ -1677,7 +2749,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Bigfoot/Bigfoot_Character_BP.Bigfoot_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-140":
 	{
@@ -1689,7 +2769,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Bee/Bee_Queen_Character_BP.Bee_Queen_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-141":
 	{
@@ -1701,7 +2789,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Bee/Bee_Character_BP.Bee_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-142":
 	{
@@ -1713,7 +2809,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Beaver/Beaver_Character_BP.Beaver_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-143":
 	{
@@ -1725,7 +2829,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Bat/Bat_Character_BP.Bat_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-144":
 	{
@@ -1737,7 +2849,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Baryonyx/Baryonyx_Character_BP.Baryonyx_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-145":
 	{
@@ -1749,7 +2868,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Arthropluera/Arthro_Character_BP.Arthro_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-146":
 	{
@@ -1761,7 +2887,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-147":
 	{
@@ -1773,7 +2907,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Archaeopteryx/Archa_Character_BP.Archa_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-148":
 	{
@@ -1785,7 +2927,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Ant/FlyingAnt_Character_BP.FlyingAnt_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-149":
 	{
@@ -1797,7 +2947,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Ant/Ant_Character_BP.Ant_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-150":
 	{
@@ -1809,7 +2967,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Ankylo/Ankylo_Character_BP.Ankylo_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-151":
 	{
@@ -1821,7 +2987,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Anglerfish/Angler_Character_BP.Angler_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-152":
 	{
@@ -1833,7 +3006,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Achatina/Achatina_Character_BP.Achatina_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-153":
 	{
@@ -1845,7 +3025,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Extinction/Dinos/Tank/Defender_Character_BP.Defender_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-154":
 	{
@@ -1857,7 +3045,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Extinction/Dinos/Spindles/Spindles_Character_BP.Spindles_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-155":
 	{
@@ -1869,7 +3065,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Extinction/Dinos/Scout/Scout_Character_BP.Scout_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-156":
 	{
@@ -1881,7 +3085,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Extinction/Dinos/Owl/Owl_Character_BP.Owl_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-157":
 	{
@@ -1893,7 +3105,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Extinction/Dinos/Owl/Ghost_Owl_Character_BP.Ghost_Owl_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-158":
 	{
@@ -1905,7 +3125,13 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Extinction/Dinos/Mek/Mek_Character_BP.Mek_Character_BP_C",
-		"possiblestats": [ 0, 1, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-159":
 	{
@@ -1917,7 +3143,13 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Extinction/Dinos/Mek/MegaMek_Character_BP.MegaMek_Character_BP_C",
-		"possiblestats": [ 0, 1, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-160":
 	{
@@ -1929,7 +3161,15 @@
 		"isalpha": false,
 		"isboss": true,
 		"softdinoclass": "/Game/Extinction/Dinos/KingKaiju/KingKaiju_Character_BP.KingKaiju_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-161":
 	{
@@ -1941,7 +3181,15 @@
 		"isalpha": false,
 		"isboss": true,
 		"softdinoclass": "/Game/Extinction/Dinos/IceKaiju/IceKaiju_Character_BP.IceKaiju_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-162":
 	{
@@ -1953,7 +3201,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Extinction/Dinos/IceJumper/IceJumper_Character_BP.IceJumper_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-163":
 	{
@@ -1965,7 +3221,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Extinction/Dinos/GasBag/GasBags_Character_BP.GasBags_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-164":
 	{
@@ -1977,7 +3241,16 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Extinction/Dinos/Gacha/Gacha_Character_BP.Gacha_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9, 11 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9,
+			11
+		]
 	},
 	"BD-165":
 	{
@@ -1989,7 +3262,15 @@
 		"isalpha": false,
 		"isboss": true,
 		"softdinoclass": "/Game/Extinction/Dinos/ForestKaiju/ForestKaiju_Character_BP.ForestKaiju_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-166":
 	{
@@ -2001,7 +3282,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Extinction/Dinos/Enforcer/Enforcer_Character_BP.Enforcer_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-167":
 	{
@@ -2013,7 +3301,15 @@
 		"isalpha": false,
 		"isboss": true,
 		"softdinoclass": "/Game/Extinction/Dinos/DesertKaiju/DesertKaiju_Character_BP.DesertKaiju_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-168":
 	{
@@ -2025,7 +3321,15 @@
 		"isalpha": false,
 		"isboss": true,
 		"softdinoclass": "/Game/EndGame/Dinos/Tank/EndTank_Character_BP.EndTank_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-169":
 	{
@@ -2037,7 +3341,15 @@
 		"isalpha": false,
 		"isboss": true,
 		"softdinoclass": "/Game/EndGame/Dinos/Drone/EndDrone_Character_BP.EndDrone_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-170":
 	{
@@ -2049,7 +3361,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/YiLing/YiLing_Character_BP.YiLing_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-171":
 	{
@@ -2061,7 +3381,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/Gigantoraptor/Gigantoraptor_Character_BP.Gigantoraptor_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-172":
 	{
@@ -2073,7 +3401,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/FireLion/FireLion_Character_BP.FireLion_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-173":
 	{
@@ -2085,7 +3421,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/Fasolasuchus/Fasola_Character_BP.Fasola_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-174":
 	{
@@ -2097,7 +3441,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/Dreadnoughtus/Dreadnoughtus_Character_BP.Dreadnoughtus_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-175":
 	{
@@ -2109,7 +3461,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/Deinosuchus/DeinosuchusASA_Character_BP.DeinosuchusASA_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-176":
 	{
@@ -2121,7 +3480,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/DarkPegasus/DarkPegasus_Character_BP.DarkPegasus_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-177":
 	{
@@ -2133,7 +3500,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Aberration/Dinos/RockDrake/RockDrake_Character_BP.RockDrake_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-178":
 	{
@@ -2145,7 +3520,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Male_Tamed.Xenomorph_Character_BP_Male_Tamed_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-179":
 	{
@@ -2157,7 +3540,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Aberration/Dinos/MoleRat/MoleRat_Character_BP.MoleRat_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-180":
 	{
@@ -2169,7 +3560,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Aberration/Dinos/LanternPug/LanternPug_Character_BP.LanternPug_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-181":
 	{
@@ -2181,7 +3580,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Aberration/Dinos/LanternPug/Ghost_LanternPug_Character_BP.Ghost_LanternPug_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-182":
 	{
@@ -2193,7 +3600,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Aberration/Dinos/LanternLizard/LanternLizard_Character_BP.LanternLizard_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-183":
 	{
@@ -2205,7 +3620,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Aberration/Dinos/LanternGoat/LanternGoat_Character_BP.LanternGoat_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-184":
 	{
@@ -2217,7 +3640,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Aberration/Dinos/LanternBird/LanternBird_Character_BP.LanternBird_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-185":
 	{
@@ -2229,7 +3660,14 @@
 		"isalpha": true,
 		"isboss": false,
 		"softdinoclass": "/Game/Aberration/Dinos/Crab/MegaCrab_Character_BP.MegaCrab_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-186":
 	{
@@ -2241,7 +3679,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Aberration/Dinos/Crab/Crab_Character_BP.Crab_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-187":
 	{
@@ -2253,7 +3698,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Aberration/Dinos/ChupaCabra/ChupaCabra_Character_BP.ChupaCabra_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-188":
 	{
@@ -2265,7 +3718,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Aberration/Dinos/CaveWolf/CaveWolf_Character_BP.CaveWolf_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-189":
 	{
@@ -2277,7 +3738,14 @@
 		"isalpha": true,
 		"isboss": false,
 		"softdinoclass": "/Game/Aberration/Dinos/Basilisk/MegaBasilisk_Character_BP.MegaBasilisk_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-190":
 	{
@@ -2289,7 +3757,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Aberration/Dinos/Basilisk/Ghost_Basilisk_Character_BP.Ghost_Basilisk_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-191":
 	{
@@ -2301,7 +3776,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Aberration/Dinos/Basilisk/Basilisk_Character_BP.Basilisk_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-192":
 	{
@@ -2313,7 +3795,15 @@
 		"isalpha": false,
 		"isboss": true,
 		"softdinoclass": "/Game/Aberration/Boss/Rockwell/Rockwell_Character_BP.Rockwell_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-193":
 	{
@@ -2325,7 +3815,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/PrimalEarth/Dinos/Raptor/Uberraptor/Deinonychus_Character_BP.Deinonychus_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-194":
 	{
@@ -2337,7 +3835,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Packs/Wasteland/Dinos/Doggo/Doggo_Character_BP.Doggo_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-195":
 	{
@@ -2349,7 +3855,10 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Packs/Steampunk/Dinos/Zeppelin/Zeppelin_Character_BP.Zeppelin_Character_BP_C",
-		"possiblestats": [ 0, 7 ]
+		"possiblestats": [
+			0,
+			7
+		]
 	},
 	"BD-196":
 	{
@@ -2361,7 +3870,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Packs/Steampunk/Dinos/JumpingSpider/JumpingSpider_Character_BP.JumpingSpider_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-197":
 	{
@@ -2373,7 +3890,13 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Packs/Frontier/Dinos/Oasisaur/Oasisaur_Character_BP.Oasisaur_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			9
+		]
 	},
 	"BD-198":
 	{
@@ -2385,7 +3908,14 @@
 		"isalpha": false,
 		"isboss": true,
 		"softdinoclass": "/Game/EndGame/Dinos/Endboss/EndbossSpider/EndBossSpiderL_Character_BP.EndBossSpiderL_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-199":
 	{
@@ -2397,7 +3927,14 @@
 		"isalpha": false,
 		"isboss": true,
 		"softdinoclass": "/Game/EndGame/Dinos/Endboss/EndbossGorilla/EndBossGorilla_Character_BP.EndBossGorilla_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-200":
 	{
@@ -2409,7 +3946,14 @@
 		"isalpha": false,
 		"isboss": true,
 		"softdinoclass": "/Game/EndGame/Dinos/Endboss/EndbossDragon/EndBossDragon_Character_BP.EndBossDragon_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-201":
 	{
@@ -2421,7 +3965,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-202":
 	{
@@ -2433,7 +3985,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-203":
 	{
@@ -2445,7 +4005,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Poison.Wyvern_Character_BP_Poison_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-204":
 	{
@@ -2457,7 +4025,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Rhynio/S-Rhynio_Character_BP.S-Rhynio_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-205":
 	{
@@ -2469,7 +4045,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Spinosaurus/S-Spino_Character_BP.S-Spino_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-206":
 	{
@@ -2481,7 +4065,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Rex/S-Rex_Character_BP.S-Rex_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-207":
 	{
@@ -2493,7 +4085,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Cerato/S-Ceratosaurus_Character_BP_ASA.S-Ceratosaurus_Character_BP_ASA_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-208":
 	{
@@ -2505,7 +4105,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Allosaurus/S-Allo_Character_BP.S-Allo_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-209":
 	{
@@ -2517,7 +4125,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Ankylosaurus/S-Ankylo_Character_BP.S-Ankylo_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-210":
 	{
@@ -2529,7 +4145,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Basilosaurus/S-Basilosaurus_Character_BP.S-Basilosaurus_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-211":
 	{
@@ -2541,7 +4164,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Carcha/S-Carcha_Character_BP.S-Carcha_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-212":
 	{
@@ -2553,7 +4184,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Cat/S-Cat_Character_BP.S-Cat_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-213":
 	{
@@ -2565,7 +4204,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Daeodon/S-Daeodon_Character_BP.S-Daeodon_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-214":
 	{
@@ -2577,7 +4224,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Deinonychus/S-Deinonychus_Character_BP.S-Deinonychus_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-215":
 	{
@@ -2589,7 +4244,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Deinosuchus/S-DeinosuchusASA_Character_BP.S-DeinosuchusASA_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-216":
 	{
@@ -2601,7 +4263,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Direbear/S-Direbear_Character_BP.S-Direbear_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-217":
 	{
@@ -2613,7 +4283,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Doedicurus/S-Doed_Character_BP.S-Doed_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-218":
 	{
@@ -2625,7 +4303,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Unicorn/S-Equus_Character_BP_Unicorn.S-Equus_Character_BP_Unicorn_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-219":
 	{
@@ -2637,7 +4323,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Fasolasuchus/S-Fasola_Character_BP.S-Fasola_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-220":
 	{
@@ -2649,7 +4343,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Fenrir/S-Fenrir_Character_BP.S-Fenrir_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-221":
 	{
@@ -2661,7 +4363,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Fire.S-Wyvern_Character_BP_Fire_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-222":
 	{
@@ -2673,7 +4383,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Griffin/S-Griffin_Character_BP.S-Griffin_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-223":
 	{
@@ -2685,7 +4403,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-IceWyvern/S-Wyvern_Character_BP_Ice.S-Wyvern_Character_BP_Ice_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-224":
 	{
@@ -2697,7 +4423,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Lightning.S-Wyvern_Character_BP_Lightning_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-225":
 	{
@@ -2709,7 +4443,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Maeguana/S-Maelizard_Character_BP.S-Maelizard_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-226":
 	{
@@ -2721,7 +4462,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Maewing/S-MilkGlider_Character_BP.S-MilkGlider_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-227":
 	{
@@ -2733,7 +4481,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Mantis/S-Mantis_Character_BP.S-Mantis_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-228":
 	{
@@ -2745,7 +4501,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Megalosaurus/S-Megalosaurus_Character_BP.S-Megalosaurus_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-229":
 	{
@@ -2757,7 +4521,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Mosa/S-Mosa_Character_BP.S-Mosa_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-230":
 	{
@@ -2769,7 +4540,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Otter/S-Otter_Character_BP.S-Otter_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-231":
 	{
@@ -2781,7 +4560,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Plesiosaur/S-Plesiosaur_Character_BP.S-Plesiosaur_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-232":
 	{
@@ -2793,7 +4579,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Wyvern/S-Wyvern_Character_BP_Poison.S-Wyvern_Character_BP_Poison_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-233":
 	{
@@ -2805,7 +4599,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Reaper/S-Xenomorph_Character_BP_Male_Tamed.S-Xenomorph_Character_BP_Male_Tamed_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-234":
 	{
@@ -2817,7 +4619,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Rockdrake/S-RockDrake_Character_BP.S-RockDrake_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-235":
 	{
@@ -2829,7 +4639,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Shinehorn/S-LanternGoat_Character_BP.S-LanternGoat_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-236":
 	{
@@ -2841,7 +4659,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-SnowOwl/S-Owl_Character_BP.S-Owl_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-237":
 	{
@@ -2853,7 +4679,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Therizinosaur/S-Therizino_Character_BP.S-Therizino_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-238":
 	{
@@ -2865,7 +4699,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Thylacoleo/S-Thylacoleo_Character_BP.S-Thylacoleo_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-239":
 	{
@@ -2877,7 +4719,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Trike/S-Trike_Character_BP.S-Trike_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-240":
 	{
@@ -2889,7 +4739,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Velonasaur/S-Spindles_Character_BP.S-Spindles_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-241":
 	{
@@ -2901,7 +4759,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Megaraptor/S-Megaraptor_Character_BP.S-Megaraptor_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-242":
 	{
@@ -2913,7 +4779,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Desmodus/S-Desmodus_Character_BP.S-Desmodus_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-243":
 	{
@@ -2925,7 +4799,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Andrewsarchus/S-Andrewsarchus_Character_BP.S-Andrewsarchus_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-244":
 	{
@@ -2937,7 +4819,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Direwolf/S-Direwolf_Character_BP.S-Direwolf_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-245":
 	{
@@ -2949,7 +4839,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/SpiritBear/SpiritBear_Character_BP.SpiritBear_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-246":
 	{
@@ -2961,7 +4859,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/IceGolem/IceGolem_Character_BP.IceGolem_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-247":
 	{
@@ -2973,7 +4878,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/ChalkGolem/ChalkGolem_Character_BP.ChalkGolem_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-248":
 	{
@@ -2985,7 +4897,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/skyshroud_drakara/Dinos/Drakara/Drakara_Character_BP.Drakara_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-249":
 	{
@@ -2997,7 +4917,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/skyshroud_drakara/Dinos/Drakara/Drakara_Character_BP_Arctic.Drakara_Character_BP_Arctic_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-250":
 	{
@@ -3009,7 +4937,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/skyshroud_drakara/Dinos/Drakara/Drakara_Character_BP_Bloodfang.Drakara_Character_BP_Bloodfang_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-251":
 	{
@@ -3021,7 +4957,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/skyshroud_drakara/Dinos/Drakara/Drakara_Character_BP_Aberrant.Drakara_Character_BP_Aberrant_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-252":
 	{
@@ -3033,7 +4977,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/skyshroud_drakara/Dinos/Drakara/Drakara_Character_BP_Dwarfs.Drakara_Character_BP_Dwarfs_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-253":
 	{
@@ -3045,7 +4997,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_ZombiePoison.Wyvern_Character_BP_ZombiePoison_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-254":
 	{
@@ -3057,7 +5017,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_ZombieLightning.Wyvern_Character_BP_ZombieLightning_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-255":
 	{
@@ -3069,7 +5037,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_ZombieFire.Wyvern_Character_BP_ZombieFire_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-256":
 	{
@@ -3081,7 +5057,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/Megaraptor/ValMegaraptor_Character_BP.ValMegaraptor_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-257":
 	{
@@ -3093,7 +5077,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Winter.ShoulderDragon_Character_BP_Winter_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-258":
 	{
@@ -3105,7 +5097,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/Archelon/Dinos/Archelon_Character_BP_ASA.Archelon_Character_BP_ASA_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-259":
 	{
@@ -3117,7 +5116,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/Ceratosaurus/Dinos/Ceratosaurus_Character_BP_ASA.Ceratosaurus_Character_BP_ASA_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-260":
 	{
@@ -3129,7 +5136,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/Deinotherium/Dinos/DeinotheriumASA_Character_BP.DeinotheriumASA_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-261":
 	{
@@ -3141,7 +5156,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/LostColony/Dinos/SnowMonster/SnowMonster_Character_BP.SnowMonster_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-262":
 	{
@@ -3153,7 +5176,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Autumn.ShoulderDragon_Character_BP_Autumn_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-263":
 	{
@@ -3165,7 +5196,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Summer.ShoulderDragon_Character_BP_Summer_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-264":
 	{
@@ -3177,7 +5216,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/ShoulderDragon/ShoulderDragon_Character_BP_Spring.ShoulderDragon_Character_BP_Spring_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-265":
 	{
@@ -3189,7 +5236,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/IceWyvern/Wyvern_Character_BP_Ice.Wyvern_Character_BP_Ice_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-266":
 	{
@@ -3201,7 +5256,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/Xiphactinus/Dinos/Xiphactinus_Character_BP_ASA.Xiphactinus_Character_BP_ASA_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-267":
 	{
@@ -3213,7 +5275,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/Bison/Bison_Character_BP.Bison_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-268":
 	{
@@ -3225,7 +5295,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Reaper/S-Xenomorph_Character_BP_Female.S-Xenomorph_Character_BP_Female_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-269":
 	{
@@ -3237,7 +5315,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/LostColony/Dinos/YoungIceFox/YoungIceFox_DinoCompanion_Character_BP.YoungIceFox_DinoCompanion_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-270":
 	{
@@ -3249,7 +5335,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/AABrachiosaurus/Dinos/BrachiosaurusAA_Character_BP.BrachiosaurusAA_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-271":
 	{
@@ -3261,7 +5355,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Fjordur/Dinos/Desmodus/Desmodus_Character_BP.Desmodus_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-272":
 	{
@@ -3273,7 +5375,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/Cryolophosaurus/Cryolophosaurus_Character_BP.Cryolophosaurus_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-273":
 	{
@@ -3285,7 +5395,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/LostColony/Dinos/AngelFox/AngelFox_Character_BP.AngelFox_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-274":
 	{
@@ -3297,7 +5415,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/LostColony/Dinos/DevilFox/DevilFox_Character_BP.DevilFox_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-275":
 	{
@@ -3309,7 +5435,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/LostColony/Dinos/SnowDragon/SnowDragon_Character_BP.SnowDragon_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-276":
 	{
@@ -3321,7 +5455,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/LostColony/Dinos/LostChargePet/LostCharge_LanternPet_Char_BP.LostCharge_LanternPet_Char_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-277":
 	{
@@ -3333,7 +5475,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/LostColony/Dinos/BossBat/BossBat_Character_BP.BossBat_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-278":
 	{
@@ -3345,7 +5495,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/AstraeosCreatures/Minotaur/Minotaur_Character_BP.Minotaur_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-279":
 	{
@@ -3357,7 +5515,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/AstraeosCreatures/Seahorse/Seahorse_Character_BP.Seahorse_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-280":
 	{
@@ -3369,7 +5534,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/AstraeosCreatures/Cyclops/Cyclops_Character_BP.Cyclops_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-281":
 	{
@@ -3381,7 +5554,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/AAAcro/Dinos/AcrocanthosaurusAA_Character_BP.AcrocanthosaurusAA_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-282":
 	{
@@ -3393,7 +5574,14 @@
 		"isalpha": true,
 		"isboss": false,
 		"softdinoclass": "/Game/LostColony/Dinos/SnowMonster/MegaSnowMonster_Character_BP.MegaSnowMonster_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-283":
 	{
@@ -3405,7 +5593,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Ossidon/S-SnowMonster_Character_BP.S-SnowMonster_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-284":
 	{
@@ -3417,7 +5613,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Managarmr/S-IceJumper_Character_BP.S-IceJumper_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-285":
 	{
@@ -3429,7 +5633,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/Helicoprion/Helicoprion_Character_BP.Helicoprion_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9, 11 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9,
+			11
+		]
 	},
 	"BD-286":
 	{
@@ -3441,7 +5653,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/GrandTortugar/GrandTortugar_Character_BP.GrandTortugar_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-287":
 	{
@@ -3453,7 +5672,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Dunkleosteus/S-Dunkle_Character_BP.S-Dunkle_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-288":
 	{
@@ -3465,7 +5691,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/skyshroud_drakara/Dinos/Drakara/Drakara_Character_BP_Pyro.Drakara_Character_BP_Pyro_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-289":
 	{
@@ -3477,7 +5711,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Argentavis/S-Argent_Character_BP.S-Argent_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-290":
 	{
@@ -3489,7 +5731,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Casteroides/S-Beaver_Character_BP.S-Beaver_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-291":
 	{
@@ -3501,7 +5751,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/Acrocanthosaurus/Acrocanthosaurus_Character_BP.Acrocanthosaurus_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-292":
 	{
@@ -3513,7 +5771,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/AAAcro/Dinos/Asc_AcrocanthosaurusAA_Character_BP.Asc_AcrocanthosaurusAA_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-293":
 	{
@@ -3525,7 +5791,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/AAAcro/Dinos/SE_AcrocanthosaurusAA_Character_BP.SE_AcrocanthosaurusAA_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-294":
 	{
@@ -3537,7 +5811,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Acro/S-Acrocanthosaurus_Character_BP.S-Acrocanthosaurus_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-295":
 	{
@@ -3549,7 +5831,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/skyshroud_drakara/Dinos/Drakara/Drakara_Character_BP_Tropical.Drakara_Character_BP_Tropical_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-296":
 	{
@@ -3561,7 +5851,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/Jackalope/Jackalope_Character_BP.Jackalope_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-297":
 	{
@@ -3573,7 +5871,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Aberration/Dinos/Nameless/Xenomorph_Character_BP_Female.Xenomorph_Character_BP_Female_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-298":
 	{
@@ -3585,7 +5891,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Dragontopia/Dragons/Eclipsar/Umbra/Umbra_Character_BP.Umbra_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-299":
 	{
@@ -3597,7 +5911,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Dragontopia/Dragons/Eclipsar/Lumina/Lumina_Character_BP.Lumina_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-300":
 	{
@@ -3609,7 +5931,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/GiantTurtle/GiantTurtle_Character_BP.GiantTurtle_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-301":
 	{
@@ -3621,7 +5950,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/BogSpider/BogSpider_Character_BP.BogSpider_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-302":
 	{
@@ -3633,7 +5970,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Packs/TidesOfFortune/Dinos/Paleoctopus/Palaeoctopus_Character_BP.Palaeoctopus_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-303":
 	{
@@ -3645,7 +5989,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/Cherufe/Cherufe_Character_BP.Cherufe_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-304":
 	{
@@ -3657,7 +6009,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Packs/TidesOfFortune/Dinos/Parrot/Parrot_Character_BP.Parrot_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-305":
 	{
@@ -3669,7 +6029,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/SpaceWhale/SpaceWhale_Character_BP.SpaceWhale_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-306":
 	{
@@ -3681,7 +6048,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/BiomeVariants/Volcano_Allosaurus/Volcano_Allo_Character_BP.Volcano_Allo_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-307":
 	{
@@ -3693,7 +6068,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/BiomeVariants/Volcano_Ankylosaurus/Volcano_Ankylo_Character_BP.Volcano_Ankylo_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-308":
 	{
@@ -3705,7 +6088,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/BiomeVariants/Snow_Argentavis/Snow_Argent_Character_BP.Snow_Argent_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-309":
 	{
@@ -3717,7 +6108,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/BiomeVariants/Ocean_Basilosaurus/Ocean_Basilosaurus_Character_BP.Ocean_Basilosaurus_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-310":
 	{
@@ -3729,7 +6127,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/BiomeVariants/Ocean_Dunkleosteus/Ocean_Dunkle_Character_BP.Ocean_Dunkle_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-311":
 	{
@@ -3741,7 +6146,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/BiomeVariants/Ocean_Dolphin/Ocean_Dolphin_Character_BP.Ocean_Dolphin_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-312":
 	{
@@ -3753,7 +6165,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/BiomeVariants/Ocean_Megalodon/Ocean_Megalodon_Character_BP.Ocean_Megalodon_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-313":
 	{
@@ -3765,7 +6184,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/BiomeVariants/Ocean_Mosasaurus/Ocean_Mosa_Character_BP.Ocean_Mosa_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-314":
 	{
@@ -3777,7 +6203,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/BiomeVariants/Snow_Otter/Snow_Otter_Character_BP.Snow_Otter_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-315":
 	{
@@ -3789,7 +6223,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/BiomeVariants/BogParaceratherium/Bog_Paracer_Character_BP.Bog_Paracer_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-316":
 	{
@@ -3801,7 +6243,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/BiomeVariants/BogPara/Bog_Para_Character_BP.Bog_Para_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-317":
 	{
@@ -3813,7 +6263,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/BiomeVariants/Bog_Raptor/Bog_Raptor_Character_BP.Bog_Raptor_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-318":
 	{
@@ -3825,7 +6283,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/BiomeVariants/Volcano_Rex/Volcano_Rex_Character_BP.Volcano_Rex_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-319":
 	{
@@ -3837,7 +6303,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/BiomeVariants/Lava_Golem/Volcano_Golem_Character_BP.Volcano_Golem_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-320":
 	{
@@ -3849,7 +6322,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/BiomeVariants/Snow_Saber/Snow_Saber_Character_BP.Snow_Saber_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-321":
 	{
@@ -3861,7 +6342,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/BiomeVariants/Lunar_Salmon/Lunar_Salmon_Character_BP.Lunar_Salmon_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-322":
 	{
@@ -3873,7 +6361,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/BiomeVariants/Bog_Spino/Bog_Spino_Character_BP.Bog_Spino_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-323":
 	{
@@ -3885,7 +6381,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/BiomeVariants/Bog_Tapejara/Bog_Tapejara_Character_BP.Bog_Tapejara_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-324":
 	{
@@ -3897,7 +6401,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/BiomeVariants/Volcano_Trike/Volcano_Trike_Character_BP.Volcano_Trike_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-325":
 	{
@@ -3909,7 +6421,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/BiomeVariants/Snow_WoollyRhino/Snow_Rhino_Character_BP.Snow_Rhino_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-326":
 	{
@@ -3921,7 +6441,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/BiomeVariants/Snow_Yutyrannus/Snow_Yutyrannus_Character_BP.Snow_Yutyrannus_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-327":
 	{
@@ -3933,7 +6461,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/BiomeVariants/Bog_Acro/Bog_Acrocanthosaurus_Character_BP.Bog_Acrocanthosaurus_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-328":
 	{
@@ -3945,7 +6481,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/BiomeVariants/Bog_Deinosuchus/Bog_Deinosuchus_Character_BP.Bog_Deinosuchus_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-329":
 	{
@@ -3957,7 +6500,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/BiomeVariants/Ocean_Archelon/Ocean_Archelon_Character_BP.Ocean_Archelon_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-330":
 	{
@@ -3969,7 +6519,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/BiomeVariants/Ocean_Xiphactinus/Ocean_Xiphactinus_Character_BP.Ocean_Xiphactinus_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-331":
 	{
@@ -3981,7 +6538,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/BiomeVariants/Snow_Cryolophosaurus/Snow_Cryolophosaurus_Character_BP.Snow_Cryolophosaurus_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-332":
 	{
@@ -3993,7 +6558,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Packs/TidesOfFortune/Dinos/Axolotl/Axolotl_Small/Axolotl_Small_Character_BP.Axolotl_Small_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-333":
 	{
@@ -4005,7 +6577,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/Shapeshifter/Shapeshifter_Small/Shapeshifter_Small_Character_BP.Shapeshifter_Small_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-334":
 	{
@@ -4017,7 +6597,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Yutyrannus/S-Yutyrannus_Character_BP.S-Yutyrannus_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-335":
 	{
@@ -4029,7 +6617,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Araneo/S-SpiderS_Character_BP.S-SpiderS_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-336":
 	{
@@ -4041,7 +6637,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Cherufe/S-Cherufe_Character_BP.S-Cherufe_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-337":
 	{
@@ -4053,7 +6657,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Helicoprion/S-Helicoprion_Character_BP.S-Helicoprion_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9, 11 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9,
+			11
+		]
 	},
 	"BD-338":
 	{
@@ -4065,7 +6677,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Genesis/Dinos/BiomeVariants/Volcano_Conca/Volcano_Concavenator_Character_BP.Volcano_Concavenator_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-339":
 	{
@@ -4077,7 +6697,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/Concavenator/Concavenator_Character_BP_Aberrant.Concavenator_Character_BP_Aberrant_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-340":
 	{
@@ -4089,7 +6717,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/Concavenator/Concavenator_Character_BP.Concavenator_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-341":
 	{
@@ -4101,7 +6737,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/Boaratos/Boaratos_Character_BP.Boaratos_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-342":
 	{
@@ -4113,7 +6757,14 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Glaucus/Content/Glaucus_Character_BP.Glaucus_Character_BP_C",
-		"possiblestats": [ 0, 1, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-343":
 	{
@@ -4125,7 +6776,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/SDinoVariants/S-Mammoth/S-Mammoth_Character_BP.S-Mammoth_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-344":
 	{
@@ -4137,7 +6796,15 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/Dragontopia/Dragons/GasBagRhino/Gargantar_Character_BP.Gargantar_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	},
 	"BD-345":
 	{
@@ -4149,6 +6816,74 @@
 		"isalpha": false,
 		"isboss": false,
 		"softdinoclass": "/Game/ASA/Dinos/Cerberus/Cerberus_Character_BP.Cerberus_Character_BP_C",
-		"possiblestats": [ 0, 1, 3, 4, 7, 8, 9 ]
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
+	},
+	"BD-346":
+	{
+		"dinostringref": "/Game/ASA/Dinos/Chameleon/Chameleon_Character_BP.Chameleon_Character_BP_C",
+		"dinonametag": "Chameleon",
+		"dinodescription": "Enigmasaur",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/Game/ASA/Dinos/Chameleon/Chameleon_Character_BP.Chameleon_Character_BP_C",
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
+	},
+	"BD-347":
+	{
+		"dinostringref": "/SDinoVariants/S-Gargantar/S-Gargantar_Character_BP.S-Gargantar_Character_BP_C",
+		"dinonametag": "Gargantar",
+		"dinodescription": "S-Gargantar",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Gargantar/S-Gargantar_Character_BP.S-Gargantar_Character_BP_C",
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
+	},
+	"BD-348":
+	{
+		"dinostringref": "/SDinoVariants/S-Giganoto/S-Gigant_Character_BP.S-Gigant_Character_BP_C",
+		"dinonametag": "Gigant",
+		"dinodescription": "S-Giganotosaurus",
+		"hasegg": true,
+		"tameable": true,
+		"isalpha": false,
+		"isboss": false,
+		"softdinoclass": "/SDinoVariants/S-Giganoto/S-Gigant_Character_BP.S-Gigant_Character_BP_C",
+		"possiblestats": [
+			0,
+			1,
+			3,
+			4,
+			7,
+			8,
+			9
+		]
 	}
 }
